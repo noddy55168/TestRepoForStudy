@@ -1,0 +1,171 @@
+{
+  "0": {
+    "banMap": [],
+    "gameVarName": "general_ability_scan_time_stamp",
+    "generalAbilityType": 0,
+    "iconId": "icon_scan",
+    "intervalTime": 3.0,
+    "name": {
+      "id": 7619463057417832093,
+      "text": ""
+    },
+    "priority": 0,
+    "sortId": 1,
+    "unlockSystemType": 58,
+    "useItem": ""
+  },
+  "1": {
+    "banMap": [],
+    "gameVarName": "general_ability_bomb_time_stamp",
+    "generalAbilityType": 1,
+    "iconId": "icon_bomb",
+    "intervalTime": 0.0,
+    "name": {
+      "id": -3906103436052301470,
+      "text": ""
+    },
+    "priority": 0,
+    "sortId": 3,
+    "unlockSystemType": 62,
+    "useItem": "item_proc_bomb_1"
+  },
+  "10": {
+    "banMap": [],
+    "gameVarName": "",
+    "generalAbilityType": 10,
+    "iconId": "icon_shu_rang",
+    "intervalTime": 0.0,
+    "name": {
+      "id": -7458434857745250744,
+      "text": ""
+    },
+    "priority": 2,
+    "sortId": 15,
+    "unlockSystemType": 10000000,
+    "useItem": ""
+  },
+  "11": {
+    "banMap": [],
+    "gameVarName": "",
+    "generalAbilityType": 11,
+    "iconId": "icon_arrow",
+    "intervalTime": 0.0,
+    "name": {
+      "id": -847408701925818127,
+      "text": ""
+    },
+    "priority": 2,
+    "sortId": 16,
+    "unlockSystemType": 10000000,
+    "useItem": ""
+  },
+  "2": {
+    "banMap": [
+      "map01"
+    ],
+    "gameVarName": "general_ability_fluidinteract_time_stamp",
+    "generalAbilityType": 2,
+    "iconId": "icon_fluid_filling",
+    "intervalTime": 0.0,
+    "name": {
+      "id": 3466407262699321660,
+      "text": ""
+    },
+    "priority": 0,
+    "sortId": 4,
+    "unlockSystemType": 63,
+    "useItem": ""
+  },
+  "4": {
+    "banMap": [
+      "map01"
+    ],
+    "gameVarName": "",
+    "generalAbilityType": 4,
+    "iconId": "icon_fluid_spray",
+    "intervalTime": 0.0,
+    "name": {
+      "id": -5829716070905528577,
+      "text": ""
+    },
+    "priority": 0,
+    "sortId": 5,
+    "unlockSystemType": 71,
+    "useItem": ""
+  },
+  "5": {
+    "banMap": [],
+    "gameVarName": "",
+    "generalAbilityType": 5,
+    "iconId": "icon_snap_shot",
+    "intervalTime": 0.0,
+    "name": {
+      "id": -2453151775686494652,
+      "text": ""
+    },
+    "priority": 0,
+    "sortId": 2,
+    "unlockSystemType": 72,
+    "useItem": ""
+  },
+  "6": {
+    "banMap": [],
+    "gameVarName": "",
+    "generalAbilityType": 6,
+    "iconId": "icon_battle_boss",
+    "intervalTime": 0.0,
+    "name": {
+      "id": -146175749718502775,
+      "text": ""
+    },
+    "priority": 0,
+    "sortId": 11,
+    "unlockSystemType": 10000000,
+    "useItem": ""
+  },
+  "7": {
+    "banMap": [],
+    "gameVarName": "",
+    "generalAbilityType": 7,
+    "iconId": "icon_fix",
+    "intervalTime": 0.0,
+    "name": {
+      "id": -7091874668318156679,
+      "text": ""
+    },
+    "priority": 1,
+    "sortId": 12,
+    "unlockSystemType": 10000000,
+    "useItem": ""
+  },
+  "8": {
+    "banMap": [],
+    "gameVarName": "general_ability_bomb_time_stamp",
+    "generalAbilityType": 8,
+    "iconId": "icon_bomb",
+    "intervalTime": 0.0,
+    "name": {
+      "id": -3919095845836358111,
+      "text": ""
+    },
+    "priority": 2,
+    "sortId": 13,
+    "unlockSystemType": 10000000,
+    "useItem": "item_proc_bomb_1"
+  },
+  "9": {
+    "banMap": [],
+    "gameVarName": "",
+    "generalAbilityType": 9,
+    "iconId": "icon_fluid_spray",
+    "intervalTime": 0.0,
+    "name": {
+      "id": -4120119201537100876,
+      "text": ""
+    },
+    "priority": 2,
+    "sortId": 14,
+    "unlockSystemType": 10000000,
+    "useItem": ""
+  }
+}

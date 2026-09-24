@@ -1,0 +1,218 @@
+{
+  "wulingbuff1": {
+    "effectContentText": {
+      "id": -6700419658891259978,
+      "text": ""
+    },
+    "effectFlagLevel": 1,
+    "effectFlagType": "type1",
+    "effectIcon": "item_regionbuff_wuling_1_1",
+    "effectLevelText": {
+      "id": 586313578074972728,
+      "text": ""
+    },
+    "effectSubIcon": "item_regionbuff_wuling_1",
+    "effectTitle": {
+      "id": 3823173178195421087,
+      "text": ""
+    }
+  },
+  "wulingbuff10": {
+    "effectContentText": {
+      "id": 6214518345838217591,
+      "text": ""
+    },
+    "effectFlagLevel": 2,
+    "effectFlagType": "type6",
+    "effectIcon": "item_regionbuff_wuling_6_2",
+    "effectLevelText": {
+      "id": 7760914386371763985,
+      "text": ""
+    },
+    "effectSubIcon": "item_regionbuff_wuling_6",
+    "effectTitle": {
+      "id": 2481468056608001819,
+      "text": ""
+    }
+  },
+  "wulingbuff11": {
+    "effectContentText": {
+      "id": 3239657535297708485,
+      "text": ""
+    },
+    "effectFlagLevel": 3,
+    "effectFlagType": "type1",
+    "effectIcon": "item_regionbuff_wuling_1_3",
+    "effectLevelText": {
+      "id": 554245382885325266,
+      "text": ""
+    },
+    "effectSubIcon": "item_regionbuff_wuling_1",
+    "effectTitle": {
+      "id": -6297270428893295522,
+      "text": ""
+    }
+  },
+  "wulingbuff12": {
+    "effectContentText": {
+      "id": -8854425442254178350,
+      "text": ""
+    },
+    "effectFlagLevel": 3,
+    "effectFlagType": "type2",
+    "effectIcon": "item_regionbuff_wuling_2_3",
+    "effectLevelText": {
+      "id": 6448920724074779906,
+      "text": ""
+    },
+    "effectSubIcon": "item_regionbuff_wuling_2",
+    "effectTitle": {
+      "id": -4478775902122035990,
+      "text": ""
+    }
+  },
+  "wulingbuff2": {
+    "effectContentText": {
+      "id": -8084023240352433357,
+      "text": ""
+    },
+    "effectFlagLevel": 1,
+    "effectFlagType": "type2",
+    "effectIcon": "item_regionbuff_wuling_2_1",
+    "effectLevelText": {
+      "id": -1559915131675669923,
+      "text": ""
+    },
+    "effectSubIcon": "item_regionbuff_wuling_2",
+    "effectTitle": {
+      "id": -3954676569217077155,
+      "text": ""
+    }
+  },
+  "wulingbuff3": {
+    "effectContentText": {
+      "id": -5811489693411997661,
+      "text": ""
+    },
+    "effectFlagLevel": 1,
+    "effectFlagType": "type3",
+    "effectIcon": "item_regionbuff_wuling_3_1",
+    "effectLevelText": {
+      "id": -624927625849260741,
+      "text": ""
+    },
+    "effectSubIcon": "item_regionbuff_wuling_3",
+    "effectTitle": {
+      "id": 4618288820995960561,
+      "text": ""
+    }
+  },
+  "wulingbuff4": {
+    "effectContentText": {
+      "id": 6805581477866517321,
+      "text": ""
+    },
+    "effectFlagLevel": 1,
+    "effectFlagType": "type4",
+    "effectIcon": "item_regionbuff_wuling_4_1",
+    "effectLevelText": {
+      "id": -3148502384975415051,
+      "text": ""
+    },
+    "effectSubIcon": "item_regionbuff_wuling_4",
+    "effectTitle": {
+      "id": -7498545009228258572,
+      "text": ""
+    }
+  },
+  "wulingbuff5": {
+    "effectContentText": {
+      "id": 6722096913968214316,
+      "text": ""
+    },
+    "effectFlagLevel": 1,
+    "effectFlagType": "type5",
+    "effectIcon": "item_regionbuff_wuling_5_1",
+    "effectLevelText": {
+      "id": -7358827778398500870,
+      "text": ""
+    },
+    "effectSubIcon": "item_regionbuff_wuling_5",
+    "effectTitle": {
+      "id": 968793959958579436,
+      "text": ""
+    }
+  },
+  "wulingbuff6": {
+    "effectContentText": {
+      "id": 6543842935073971336,
+      "text": ""
+    },
+    "effectFlagLevel": 1,
+    "effectFlagType": "type6",
+    "effectIcon": "item_regionbuff_wuling_6_1",
+    "effectLevelText": {
+      "id": -8784221912928857094,
+      "text": ""
+    },
+    "effectSubIcon": "item_regionbuff_wuling_6",
+    "effectTitle": {
+      "id": 4592843617380668221,
+      "text": ""
+    }
+  },
+  "wulingbuff7": {
+    "effectContentText": {
+      "id": 543181756399605022,
+      "text": ""
+    },
+    "effectFlagLevel": 2,
+    "effectFlagType": "type1",
+    "effectIcon": "item_regionbuff_wuling_1_2",
+    "effectLevelText": {
+      "id": -6015276707372576435,
+      "text": ""
+    },
+    "effectSubIcon": "item_regionbuff_wuling_1",
+    "effectTitle": {
+      "id": -7246849568807234001,
+      "text": ""
+    }
+  },
+  "wulingbuff8": {
+    "effectContentText": {
+      "id": 8652591735241224477,
+      "text": ""
+    },
+    "effectFlagLevel": 2,
+    "effectFlagType": "type2",
+    "effectIcon": "item_regionbuff_wuling_2_2",
+    "effectLevelText": {
+      "id": 765494225842369488,
+      "text": ""
+    },
+    "effectSubIcon": "item_regionbuff_wuling_2",
+    "effectTitle": {
+      "id": 2593796376268292513,
+      "text": ""
+    }
+  },
+  "wulingbuff9": {
+    "effectContentText": {
+      "id": 1582086138389035829,
+      "text": ""
+    },
+    "effectFlagLevel": 2,
+    "effectFlagType": "type5",
+    "effectIcon": "item_regionbuff_wuling_5_2",
+    "effectLevelText": {
+      "id": -5497022574756079244,
+      "text": ""
+    },
+    "effectSubIcon": "item_regionbuff_wuling_5",
+    "effectTitle": {
+      "id": -2681201471036774530,
+      "text": ""
+    }
+  }
+}

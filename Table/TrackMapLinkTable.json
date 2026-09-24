@@ -1,0 +1,710 @@
+{
+  "1": {
+    "end": "map01_lv007",
+    "mid": "map01_lv005",
+    "quest": "",
+    "start": "map01_lv001"
+  },
+  "10": {
+    "end": "map01_lv007",
+    "mid": "map01_lv001",
+    "quest": "",
+    "start": "map01_lv003"
+  },
+  "100": {
+    "end": "map02_lv009",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv002"
+  },
+  "101": {
+    "end": "map02_lv009",
+    "mid": "map02_lv001",
+    "quest": "",
+    "start": "map02_lv003"
+  },
+  "102": {
+    "end": "map02_lv009",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv004"
+  },
+  "103": {
+    "end": "map02_lv009",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv005"
+  },
+  "104": {
+    "end": "map02_lv009",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "indie_dg005"
+  },
+  "105": {
+    "end": "map02_lv009",
+    "mid": "map02_lv004",
+    "quest": "",
+    "start": "indie_dg007"
+  },
+  "106": {
+    "end": "map02_lv009",
+    "mid": "indie_dg007",
+    "quest": "",
+    "start": "indie_dg008"
+  },
+  "107": {
+    "end": "map02_lv009",
+    "mid": "map02_lv003",
+    "quest": "",
+    "start": "map02_lv006"
+  },
+  "108": {
+    "end": "map02_lv009",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv008"
+  },
+  "109": {
+    "end": "map02_lv001",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv009"
+  },
+  "11": {
+    "end": "map01_lv002",
+    "mid": "map01_lv001",
+    "quest": "",
+    "start": "map01_lv005"
+  },
+  "110": {
+    "end": "map02_lv002",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv009"
+  },
+  "111": {
+    "end": "map02_lv003",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv009"
+  },
+  "112": {
+    "end": "map02_lv004",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv009"
+  },
+  "113": {
+    "end": "map02_lv005",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv009"
+  },
+  "114": {
+    "end": "indie_dg005",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv009"
+  },
+  "115": {
+    "end": "indie_dg007",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv009"
+  },
+  "116": {
+    "end": "indie_dg008",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv009"
+  },
+  "117": {
+    "end": "map02_lv006",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv009"
+  },
+  "118": {
+    "end": "map02_lv008",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv009"
+  },
+  "12": {
+    "end": "map01_lv003",
+    "mid": "map01_lv001",
+    "quest": "",
+    "start": "map01_lv005"
+  },
+  "13": {
+    "end": "map01_lv007",
+    "mid": "map01_lv006",
+    "quest": "",
+    "start": "map01_lv005"
+  },
+  "14": {
+    "end": "map01_lv001",
+    "mid": "map01_lv005",
+    "quest": "",
+    "start": "map01_lv006"
+  },
+  "15": {
+    "end": "map01_lv002",
+    "mid": "map01_lv005",
+    "quest": "",
+    "start": "map01_lv006"
+  },
+  "16": {
+    "end": "map01_lv003",
+    "mid": "map01_lv005",
+    "quest": "",
+    "start": "map01_lv006"
+  },
+  "17": {
+    "end": "map01_lv001",
+    "mid": "map01_lv006",
+    "quest": "",
+    "start": "map01_lv007"
+  },
+  "18": {
+    "end": "map01_lv002",
+    "mid": "map01_lv006",
+    "quest": "",
+    "start": "map01_lv007"
+  },
+  "19": {
+    "end": "map01_lv003",
+    "mid": "map01_lv006",
+    "quest": "",
+    "start": "map01_lv007"
+  },
+  "2": {
+    "end": "map01_lv006",
+    "mid": "map01_lv005",
+    "quest": "",
+    "start": "map01_lv001"
+  },
+  "20": {
+    "end": "map01_lv005",
+    "mid": "map01_lv006",
+    "quest": "",
+    "start": "map01_lv007"
+  },
+  "21": {
+    "end": "indie_dg005",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv001"
+  },
+  "22": {
+    "end": "map02_lv004",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv001"
+  },
+  "23": {
+    "end": "indie_dg007",
+    "mid": "map02_lv004",
+    "quest": "",
+    "start": "map02_lv001"
+  },
+  "24": {
+    "end": "map02_lv005",
+    "mid": "map02_lv004",
+    "quest": "",
+    "start": "map02_lv001"
+  },
+  "25": {
+    "end": "map02_lv003",
+    "mid": "map02_lv001",
+    "quest": "",
+    "start": "map02_lv002"
+  },
+  "26": {
+    "end": "indie_dg007",
+    "mid": "map02_lv004",
+    "quest": "",
+    "start": "map02_lv002"
+  },
+  "27": {
+    "end": "map02_lv001",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "indie_dg005"
+  },
+  "28": {
+    "end": "map02_lv003",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "indie_dg005"
+  },
+  "29": {
+    "end": "map02_lv004",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "indie_dg005"
+  },
+  "3": {
+    "end": "map01_lv003",
+    "mid": "map01_lv001",
+    "quest": "",
+    "start": "map01_lv002"
+  },
+  "30": {
+    "end": "indie_dg007",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "indie_dg005"
+  },
+  "31": {
+    "end": "map02_lv005",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "indie_dg005"
+  },
+  "32": {
+    "end": "map02_lv002",
+    "mid": "map02_lv001",
+    "quest": "",
+    "start": "map02_lv003"
+  },
+  "33": {
+    "end": "indie_dg005",
+    "mid": "map02_lv001",
+    "quest": "",
+    "start": "map02_lv003"
+  },
+  "34": {
+    "end": "map02_lv004",
+    "mid": "map02_lv001",
+    "quest": "",
+    "start": "map02_lv003"
+  },
+  "35": {
+    "end": "indie_dg007",
+    "mid": "map02_lv001",
+    "quest": "",
+    "start": "map02_lv003"
+  },
+  "36": {
+    "end": "map02_lv005",
+    "mid": "map02_lv001",
+    "quest": "",
+    "start": "map02_lv003"
+  },
+  "37": {
+    "end": "indie_dg005",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv004"
+  },
+  "38": {
+    "end": "map02_lv003",
+    "mid": "map02_lv001",
+    "quest": "",
+    "start": "map02_lv004"
+  },
+  "39": {
+    "end": "map02_lv005",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv004"
+  },
+  "4": {
+    "end": "map01_lv005",
+    "mid": "map01_lv001",
+    "quest": "",
+    "start": "map01_lv002"
+  },
+  "40": {
+    "end": "map02_lv001",
+    "mid": "map02_lv004",
+    "quest": "",
+    "start": "indie_dg007"
+  },
+  "41": {
+    "end": "map02_lv002",
+    "mid": "map02_lv004",
+    "quest": "",
+    "start": "indie_dg007"
+  },
+  "42": {
+    "end": "indie_dg005",
+    "mid": "map02_lv004",
+    "quest": "",
+    "start": "indie_dg007"
+  },
+  "43": {
+    "end": "map02_lv003",
+    "mid": "map02_lv004",
+    "quest": "",
+    "start": "indie_dg007"
+  },
+  "44": {
+    "end": "map02_lv005",
+    "mid": "map02_lv004",
+    "quest": "",
+    "start": "indie_dg007"
+  },
+  "45": {
+    "end": "map02_lv001",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv005"
+  },
+  "46": {
+    "end": "indie_dg005",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv005"
+  },
+  "47": {
+    "end": "map02_lv003",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv005"
+  },
+  "48": {
+    "end": "map02_lv004",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv005"
+  },
+  "49": {
+    "end": "indie_dg007",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv005"
+  },
+  "5": {
+    "end": "map01_lv006",
+    "mid": "map01_lv001",
+    "quest": "",
+    "start": "map01_lv002"
+  },
+  "50": {
+    "end": "indie_dg007",
+    "mid": "indie_dg008",
+    "quest": "",
+    "start": "map02_lv004"
+  },
+  "51": {
+    "end": "map02_lv006",
+    "mid": "map02_lv003",
+    "quest": "",
+    "start": "map02_lv001"
+  },
+  "52": {
+    "end": "map02_lv006",
+    "mid": "map02_lv001",
+    "quest": "",
+    "start": "map02_lv002"
+  },
+  "53": {
+    "end": "map02_lv006",
+    "mid": "map02_lv001",
+    "quest": "",
+    "start": "map02_lv004"
+  },
+  "54": {
+    "end": "map02_lv006",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv005"
+  },
+  "55": {
+    "end": "map02_lv006",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "indie_dg005"
+  },
+  "56": {
+    "end": "map02_lv006",
+    "mid": "map02_lv004",
+    "quest": "",
+    "start": "indie_dg007"
+  },
+  "57": {
+    "end": "map02_lv006",
+    "mid": "map02_lv004",
+    "quest": "",
+    "start": "indie_dg008"
+  },
+  "58": {
+    "end": "map02_lv001",
+    "mid": "map02_lv003",
+    "quest": "",
+    "start": "map02_lv006"
+  },
+  "59": {
+    "end": "map02_lv002",
+    "mid": "map02_lv003",
+    "quest": "",
+    "start": "map02_lv006"
+  },
+  "6": {
+    "end": "map01_lv007",
+    "mid": "map01_lv001",
+    "quest": "",
+    "start": "map01_lv002"
+  },
+  "60": {
+    "end": "map02_lv004",
+    "mid": "map02_lv003",
+    "quest": "",
+    "start": "map02_lv006"
+  },
+  "61": {
+    "end": "map02_lv005",
+    "mid": "map02_lv003",
+    "quest": "",
+    "start": "map02_lv006"
+  },
+  "62": {
+    "end": "indie_dg005",
+    "mid": "map02_lv003",
+    "quest": "",
+    "start": "map02_lv006"
+  },
+  "63": {
+    "end": "indie_dg007",
+    "mid": "map02_lv003",
+    "quest": "",
+    "start": "map02_lv006"
+  },
+  "64": {
+    "end": "indie_dg008",
+    "mid": "map02_lv003",
+    "quest": "",
+    "start": "map02_lv006"
+  },
+  "65": {
+    "end": "map02_lv007",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv001"
+  },
+  "66": {
+    "end": "map02_lv007",
+    "mid": "map02_lv001",
+    "quest": "",
+    "start": "map02_lv003"
+  },
+  "67": {
+    "end": "map02_lv007",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv004"
+  },
+  "68": {
+    "end": "map02_lv007",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv005"
+  },
+  "69": {
+    "end": "map02_lv007",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "indie_dg005"
+  },
+  "7": {
+    "end": "map01_lv002",
+    "mid": "map01_lv001",
+    "quest": "",
+    "start": "map01_lv003"
+  },
+  "70": {
+    "end": "map02_lv007",
+    "mid": "map02_lv004",
+    "quest": "",
+    "start": "indie_dg007"
+  },
+  "71": {
+    "end": "map02_lv007",
+    "mid": "indie_dg007",
+    "quest": "",
+    "start": "indie_dg008"
+  },
+  "72": {
+    "end": "map02_lv007",
+    "mid": "map02_lv003",
+    "quest": "",
+    "start": "map02_lv006"
+  },
+  "73": {
+    "end": "map02_lv001",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv007"
+  },
+  "74": {
+    "end": "map02_lv003",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv007"
+  },
+  "75": {
+    "end": "map02_lv004",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv007"
+  },
+  "76": {
+    "end": "map02_lv005",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv007"
+  },
+  "77": {
+    "end": "indie_dg005",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv007"
+  },
+  "78": {
+    "end": "indie_dg007",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv007"
+  },
+  "79": {
+    "end": "indie_dg008",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv007"
+  },
+  "8": {
+    "end": "map01_lv005",
+    "mid": "map01_lv001",
+    "quest": "",
+    "start": "map01_lv003"
+  },
+  "80": {
+    "end": "map02_lv006",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv007"
+  },
+  "81": {
+    "end": "map02_lv008",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv001"
+  },
+  "82": {
+    "end": "map02_lv008",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv002"
+  },
+  "83": {
+    "end": "map02_lv008",
+    "mid": "map02_lv001",
+    "quest": "",
+    "start": "map02_lv003"
+  },
+  "84": {
+    "end": "map02_lv008",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv004"
+  },
+  "85": {
+    "end": "map02_lv008",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv005"
+  },
+  "86": {
+    "end": "map02_lv008",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "indie_dg005"
+  },
+  "87": {
+    "end": "map02_lv008",
+    "mid": "map02_lv004",
+    "quest": "",
+    "start": "indie_dg007"
+  },
+  "88": {
+    "end": "map02_lv008",
+    "mid": "map02_lv004",
+    "quest": "",
+    "start": "indie_dg008"
+  },
+  "89": {
+    "end": "map02_lv008",
+    "mid": "map02_lv003",
+    "quest": "",
+    "start": "map02_lv006"
+  },
+  "9": {
+    "end": "map01_lv006",
+    "mid": "map01_lv001",
+    "quest": "",
+    "start": "map01_lv003"
+  },
+  "90": {
+    "end": "map02_lv001",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv008"
+  },
+  "91": {
+    "end": "map02_lv002",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv008"
+  },
+  "92": {
+    "end": "map02_lv003",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv008"
+  },
+  "93": {
+    "end": "map02_lv004",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv008"
+  },
+  "94": {
+    "end": "map02_lv005",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv008"
+  },
+  "95": {
+    "end": "indie_dg005",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv008"
+  },
+  "96": {
+    "end": "indie_dg007",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv008"
+  },
+  "97": {
+    "end": "indie_dg008",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv008"
+  },
+  "98": {
+    "end": "map02_lv006",
+    "mid": "map02_lv007",
+    "quest": "",
+    "start": "map02_lv008"
+  },
+  "99": {
+    "end": "map02_lv009",
+    "mid": "map02_lv002",
+    "quest": "",
+    "start": "map02_lv001"
+  }
+}

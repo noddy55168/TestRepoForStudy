@@ -1,0 +1,40 @@
+{
+  "activity_submit_food_1": {
+    "activityName": "activity_submit_food_1",
+    "foodLockedText": {
+      "id": 2858407113739604515,
+      "text": ""
+    },
+    "foodLockedToast": {
+      "id": 3629033382406917906,
+      "text": ""
+    },
+    "foodNoteLockedtText": {
+      "id": 5429465898173304590,
+      "text": ""
+    },
+    "foodNoteLockedtToast": {
+      "id": 800263001723753658,
+      "text": ""
+    }
+  },
+  "activity_submit_food_2": {
+    "activityName": "activity_submit_food_2",
+    "foodLockedText": {
+      "id": 6104595713337909232,
+      "text": ""
+    },
+    "foodLockedToast": {
+      "id": -7918858881689634106,
+      "text": ""
+    },
+    "foodNoteLockedtText": {
+      "id": 143350443492798699,
+      "text": ""
+    },
+    "foodNoteLockedtToast": {
+      "id": 5402980646750985858,
+      "text": ""
+    }
+  }
+}

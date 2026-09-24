@@ -1,0 +1,585 @@
+{
+  "activity_guide_wuling": {
+    "stageList": [
+      {
+        "activityId": "activity_guide_wuling",
+        "conditions": {
+          "conditionId": "activity_guide_wuling_con_1",
+          "progressToCompare": 1
+        },
+        "desc": {
+          "id": 7329426901630912602,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_wuling_02",
+        "rewardId": "reward_activity_guide_wuling1",
+        "sortId": 1,
+        "stageId": "activity_guide_wuling_stage_1"
+      },
+      {
+        "activityId": "activity_guide_wuling",
+        "conditions": {
+          "conditionId": "activity_guide_wuling_con_2",
+          "progressToCompare": 1
+        },
+        "desc": {
+          "id": -8648196800706571338,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_wuling_02",
+        "rewardId": "reward_activity_guide_wuling2",
+        "sortId": 2,
+        "stageId": "activity_guide_wuling_stage_2"
+      },
+      {
+        "activityId": "activity_guide_wuling",
+        "conditions": {
+          "conditionId": "activity_guide_wuling_con_3",
+          "progressToCompare": 5
+        },
+        "desc": {
+          "id": 574847733907427694,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_wuling_01",
+        "rewardId": "reward_activity_guide_wuling3",
+        "sortId": 3,
+        "stageId": "activity_guide_wuling_stage_3"
+      },
+      {
+        "activityId": "activity_guide_wuling",
+        "conditions": {
+          "conditionId": "activity_guide_wuling_con_4",
+          "progressToCompare": 3
+        },
+        "desc": {
+          "id": -284899446994990091,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_wuling_01",
+        "rewardId": "reward_activity_guide_wuling4",
+        "sortId": 4,
+        "stageId": "activity_guide_wuling_stage_4"
+      },
+      {
+        "activityId": "activity_guide_wuling",
+        "conditions": {
+          "conditionId": "activity_guide_wuling_con_5",
+          "progressToCompare": 5
+        },
+        "desc": {
+          "id": 258547153381834430,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_wuling_01",
+        "rewardId": "reward_activity_guide_wuling5",
+        "sortId": 5,
+        "stageId": "activity_guide_wuling_stage_5"
+      }
+    ]
+  },
+  "activity_map02_guide_003": {
+    "stageList": [
+      {
+        "activityId": "activity_map02_guide_003",
+        "conditions": {
+          "conditionId": "activity_guide_qingbovillage_con_1",
+          "progressToCompare": 1
+        },
+        "desc": {
+          "id": 3200829557946152783,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_qingbovillage_02",
+        "rewardId": "reward_activity_guide_qingbovillage1",
+        "sortId": 1,
+        "stageId": "activity_guide_qingbovillage_stage_1"
+      },
+      {
+        "activityId": "activity_map02_guide_003",
+        "conditions": {
+          "conditionId": "activity_guide_qingbovillage_con_2",
+          "progressToCompare": 3
+        },
+        "desc": {
+          "id": -2700186580203446404,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_qingbovillage_01",
+        "rewardId": "reward_activity_guide_qingbovillage2",
+        "sortId": 2,
+        "stageId": "activity_guide_qingbovillage_stage_2"
+      },
+      {
+        "activityId": "activity_map02_guide_003",
+        "conditions": {
+          "conditionId": "activity_guide_qingbovillage_con_3",
+          "progressToCompare": 5
+        },
+        "desc": {
+          "id": -683821021252866864,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_qingbovillage_01",
+        "rewardId": "reward_activity_guide_qingbovillage3",
+        "sortId": 3,
+        "stageId": "activity_guide_qingbovillage_stage_3"
+      },
+      {
+        "activityId": "activity_map02_guide_003",
+        "conditions": {
+          "conditionId": "activity_guide_qingbovillage_con_4",
+          "progressToCompare": 3
+        },
+        "desc": {
+          "id": -4937104092226156001,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_qingbovillage_01",
+        "rewardId": "reward_activity_guide_qingbovillage4",
+        "sortId": 4,
+        "stageId": "activity_guide_qingbovillage_stage_4"
+      },
+      {
+        "activityId": "activity_map02_guide_003",
+        "conditions": {
+          "conditionId": "activity_guide_qingbovillage_con_5",
+          "progressToCompare": 3
+        },
+        "desc": {
+          "id": -1345102049257201614,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_qingbovillage_01",
+        "rewardId": "reward_activity_guide_qingbovillage5",
+        "sortId": 5,
+        "stageId": "activity_guide_qingbovillage_stage_5"
+      },
+      {
+        "activityId": "activity_map02_guide_003",
+        "conditions": {
+          "conditionId": "activity_guide_qingbovillage_con_6",
+          "progressToCompare": 1
+        },
+        "desc": {
+          "id": -8104761671299772909,
+          "text": ""
+        },
+        "jumpId": "jump_mission_db01",
+        "rewardId": "reward_activity_guide_qingbovillage6",
+        "sortId": 6,
+        "stageId": "activity_guide_qingbovillage_stage_6"
+      }
+    ]
+  },
+  "activity_map02_guide_004": {
+    "stageList": [
+      {
+        "activityId": "activity_map02_guide_004",
+        "conditions": {
+          "conditionId": "activity_guide_shoudun_con_1",
+          "progressToCompare": 1
+        },
+        "desc": {
+          "id": -14584506962545196,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_shoudun_02",
+        "rewardId": "reward_activity_guide_shoudun1",
+        "sortId": 1,
+        "stageId": "activity_guide_shoudun_stage_1"
+      },
+      {
+        "activityId": "activity_map02_guide_004",
+        "conditions": {
+          "conditionId": "activity_guide_shoudun_con_2",
+          "progressToCompare": 4
+        },
+        "desc": {
+          "id": -4237404151518314122,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_shoudun_01",
+        "rewardId": "reward_activity_guide_shoudun2",
+        "sortId": 2,
+        "stageId": "activity_guide_shoudun_stage_2"
+      },
+      {
+        "activityId": "activity_map02_guide_004",
+        "conditions": {
+          "conditionId": "activity_guide_shoudun_con_3",
+          "progressToCompare": 5
+        },
+        "desc": {
+          "id": -4709663377558124900,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_shoudun_01",
+        "rewardId": "reward_activity_guide_shoudun3",
+        "sortId": 3,
+        "stageId": "activity_guide_shoudun_stage_3"
+      },
+      {
+        "activityId": "activity_map02_guide_004",
+        "conditions": {
+          "conditionId": "activity_guide_shoudun_con_4",
+          "progressToCompare": 3
+        },
+        "desc": {
+          "id": -1321735902807127650,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_shoudun_01",
+        "rewardId": "reward_activity_guide_shoudun4",
+        "sortId": 4,
+        "stageId": "activity_guide_shoudun_stage_4"
+      },
+      {
+        "activityId": "activity_map02_guide_004",
+        "conditions": {
+          "conditionId": "activity_guide_shoudun_con_5",
+          "progressToCompare": 3
+        },
+        "desc": {
+          "id": 6805002148031290808,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_shoudun_01",
+        "rewardId": "reward_activity_guide_shoudun5",
+        "sortId": 5,
+        "stageId": "activity_guide_shoudun_stage_5"
+      },
+      {
+        "activityId": "activity_map02_guide_004",
+        "conditions": {
+          "conditionId": "activity_guide_shoudun_con_6",
+          "progressToCompare": 1
+        },
+        "desc": {
+          "id": 42711355605670803,
+          "text": ""
+        },
+        "jumpId": "jump_mission_db02",
+        "rewardId": "reward_activity_guide_shoudun6",
+        "sortId": 6,
+        "stageId": "activity_guide_shoudun_stage_6"
+      }
+    ]
+  },
+  "activity_map02_guide_005": {
+    "stageList": [
+      {
+        "activityId": "activity_map02_guide_005",
+        "conditions": {
+          "conditionId": "activity_guide_xirang_con_1",
+          "progressToCompare": 1
+        },
+        "desc": {
+          "id": -2260117800735730295,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_xirang_02",
+        "rewardId": "reward_activity_guide_xirang1",
+        "sortId": 1,
+        "stageId": "activity_guide_xirang_stage_1"
+      },
+      {
+        "activityId": "activity_map02_guide_005",
+        "conditions": {
+          "conditionId": "activity_guide_xirang_con_2",
+          "progressToCompare": 1
+        },
+        "desc": {
+          "id": 8348327850000164539,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_xirang_02",
+        "rewardId": "reward_activity_guide_xirang2",
+        "sortId": 2,
+        "stageId": "activity_guide_xirang_stage_2"
+      },
+      {
+        "activityId": "activity_map02_guide_005",
+        "conditions": {
+          "conditionId": "activity_guide_xirang_con_3",
+          "progressToCompare": 5
+        },
+        "desc": {
+          "id": 581664494746888309,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_xirang_01",
+        "rewardId": "reward_activity_guide_xirang3",
+        "sortId": 3,
+        "stageId": "activity_guide_xirang_stage_3"
+      },
+      {
+        "activityId": "activity_map02_guide_005",
+        "conditions": {
+          "conditionId": "activity_guide_xirang_con_4",
+          "progressToCompare": 3
+        },
+        "desc": {
+          "id": -5755341225901664434,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_xirang_01",
+        "rewardId": "reward_activity_guide_xirang4",
+        "sortId": 4,
+        "stageId": "activity_guide_xirang_stage_4"
+      },
+      {
+        "activityId": "activity_map02_guide_005",
+        "conditions": {
+          "conditionId": "activity_guide_xirang_con_5",
+          "progressToCompare": 3
+        },
+        "desc": {
+          "id": 5154630670129071876,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_xirang_01",
+        "rewardId": "reward_activity_guide_xirang5",
+        "sortId": 5,
+        "stageId": "activity_guide_xirang_stage_5"
+      }
+    ]
+  },
+  "activity_map02_guide_006": {
+    "stageList": [
+      {
+        "activityId": "activity_map02_guide_006",
+        "conditions": {
+          "conditionId": "activity_guide_zhujiangu_con_1",
+          "progressToCompare": 1
+        },
+        "desc": {
+          "id": -2633730047241266695,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_zhujiangu_02",
+        "rewardId": "reward_activity_guide_zhujiangu1",
+        "sortId": 1,
+        "stageId": "activity_guide_zhujiangu_stage_1"
+      },
+      {
+        "activityId": "activity_map02_guide_006",
+        "conditions": {
+          "conditionId": "activity_guide_zhujiangu_con_2",
+          "progressToCompare": 2
+        },
+        "desc": {
+          "id": -1239134234493059165,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_zhujiangu_01",
+        "rewardId": "reward_activity_guide_zhujiangu2",
+        "sortId": 2,
+        "stageId": "activity_guide_zhujiangu_stage_2"
+      },
+      {
+        "activityId": "activity_map02_guide_006",
+        "conditions": {
+          "conditionId": "activity_guide_zhujiangu_con_3",
+          "progressToCompare": 3
+        },
+        "desc": {
+          "id": -55395862312135341,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_zhujiangu_01",
+        "rewardId": "reward_activity_guide_zhujiangu3",
+        "sortId": 3,
+        "stageId": "activity_guide_zhujiangu_stage_3"
+      },
+      {
+        "activityId": "activity_map02_guide_006",
+        "conditions": {
+          "conditionId": "activity_guide_zhujiangu_con_4",
+          "progressToCompare": 3
+        },
+        "desc": {
+          "id": -1742056400149374435,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_zhujiangu_01",
+        "rewardId": "reward_activity_guide_zhujiangu4",
+        "sortId": 4,
+        "stageId": "activity_guide_zhujiangu_stage_4"
+      },
+      {
+        "activityId": "activity_map02_guide_006",
+        "conditions": {
+          "conditionId": "activity_guide_zhujiangu_con_5",
+          "progressToCompare": 3
+        },
+        "desc": {
+          "id": 1529863462566274287,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_zhujiangu_01",
+        "rewardId": "reward_activity_guide_zhujiangu5",
+        "sortId": 5,
+        "stageId": "activity_guide_zhujiangu_stage_5"
+      }
+    ]
+  },
+  "activity_map02_guide_008": {
+    "stageList": [
+      {
+        "activityId": "activity_map02_guide_008",
+        "conditions": {
+          "conditionId": "activity_guide_northarea_con_1",
+          "progressToCompare": 1
+        },
+        "desc": {
+          "id": -3799430509128364973,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_northarea_01",
+        "rewardId": "reward_activity_guide_northarea1",
+        "sortId": 1,
+        "stageId": "activity_guide_northarea_stage_1"
+      },
+      {
+        "activityId": "activity_map02_guide_008",
+        "conditions": {
+          "conditionId": "activity_guide_northarea_con_2",
+          "progressToCompare": 2
+        },
+        "desc": {
+          "id": -8214553457314819763,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_northarea_02",
+        "rewardId": "reward_activity_guide_northarea2",
+        "sortId": 2,
+        "stageId": "activity_guide_northarea_stage_2"
+      },
+      {
+        "activityId": "activity_map02_guide_008",
+        "conditions": {
+          "conditionId": "activity_guide_northarea_con_3",
+          "progressToCompare": 7
+        },
+        "desc": {
+          "id": 3178501901852743551,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_northarea_02",
+        "rewardId": "reward_activity_guide_northarea3",
+        "sortId": 3,
+        "stageId": "activity_guide_northarea_stage_3"
+      },
+      {
+        "activityId": "activity_map02_guide_008",
+        "conditions": {
+          "conditionId": "activity_guide_northarea_con_4",
+          "progressToCompare": 5
+        },
+        "desc": {
+          "id": 4404088231561127031,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_northarea_02",
+        "rewardId": "reward_activity_guide_northarea4",
+        "sortId": 4,
+        "stageId": "activity_guide_northarea_stage_4"
+      },
+      {
+        "activityId": "activity_map02_guide_008",
+        "conditions": {
+          "conditionId": "activity_guide_northarea_con_5",
+          "progressToCompare": 5
+        },
+        "desc": {
+          "id": -8899915200340534660,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_northarea_02",
+        "rewardId": "reward_activity_guide_northarea5",
+        "sortId": 5,
+        "stageId": "activity_guide_northarea_stage_5"
+      }
+    ]
+  },
+  "activity_map02_guide_009": {
+    "stageList": [
+      {
+        "activityId": "activity_map02_guide_009",
+        "conditions": {
+          "conditionId": "activity_guide_cedarforest_con_1",
+          "progressToCompare": 1
+        },
+        "desc": {
+          "id": -355070535499059160,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_cedarforest_01",
+        "rewardId": "reward_activity_guide_cedarforest1",
+        "sortId": 1,
+        "stageId": "activity_guide_cedarforest_stage_1"
+      },
+      {
+        "activityId": "activity_map02_guide_009",
+        "conditions": {
+          "conditionId": "activity_guide_cedarforest_con_2",
+          "progressToCompare": 1
+        },
+        "desc": {
+          "id": 1999899090752578016,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_cedarforest_01",
+        "rewardId": "reward_activity_guide_cedarforest2",
+        "sortId": 2,
+        "stageId": "activity_guide_cedarforest_stage_2"
+      },
+      {
+        "activityId": "activity_map02_guide_009",
+        "conditions": {
+          "conditionId": "activity_guide_cedarforest_con_3",
+          "progressToCompare": 2
+        },
+        "desc": {
+          "id": -3644738452100518803,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_cedarforest_02",
+        "rewardId": "reward_activity_guide_cedarforest3",
+        "sortId": 3,
+        "stageId": "activity_guide_cedarforest_stage_3"
+      },
+      {
+        "activityId": "activity_map02_guide_009",
+        "conditions": {
+          "conditionId": "activity_guide_cedarforest_con_4",
+          "progressToCompare": 4
+        },
+        "desc": {
+          "id": -4143753375531775406,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_cedarforest_02",
+        "rewardId": "reward_activity_guide_cedarforest4",
+        "sortId": 4,
+        "stageId": "activity_guide_cedarforest_stage_4"
+      },
+      {
+        "activityId": "activity_map02_guide_009",
+        "conditions": {
+          "conditionId": "activity_guide_cedarforest_con_5",
+          "progressToCompare": 3
+        },
+        "desc": {
+          "id": 1461768501701164328,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_cedarforest_02",
+        "rewardId": "reward_activity_guide_cedarforest5",
+        "sortId": 5,
+        "stageId": "activity_guide_cedarforest_stage_5"
+      }
+    ]
+  }
+}

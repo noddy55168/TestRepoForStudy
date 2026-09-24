@@ -1,0 +1,71 @@
+{
+  "0": {
+    "bgNameGroup": [
+      "bg_loading_default_1"
+    ],
+    "typeTag": 0
+  },
+  "1": {
+    "bgNameGroup": [
+      "bg_loading_factory_map01_1",
+      "bg_loading_factory_map02_1"
+    ],
+    "typeTag": 1
+  },
+  "2": {
+    "bgNameGroup": [
+      "bg_loading_default_1",
+      "bg_loading_map01_lv001_1",
+      "bg_loading_map01_lv002_1",
+      "bg_loading_map01_lv003_1",
+      "bg_loading_map01_lv005_1",
+      "bg_loading_map01_lv006_1",
+      "bg_loading_map01_lv007_1",
+      "bg_loading_map02_lv001_1",
+      "bg_loading_map02_lv001_2",
+      "bg_loading_map02_lv001_3",
+      "bg_loading_map02_lv002_1",
+      "bg_loading_map02_lv002_2",
+      "bg_loading_map02_lv003_1",
+      "bg_loading_map02_lv004_1",
+      "bg_loading_map02_lv005_1",
+      "bg_loading_map02_lv006_1",
+      "bg_loading_map02_lv007_1",
+      "bg_loading_map02_lv008_1",
+      "bg_loading_map02_lv009_1",
+      "bg_loading_dung_bf_01"
+    ],
+    "typeTag": 2
+  },
+  "3": {
+    "bgNameGroup": [
+      "bg_loading_combat_1"
+    ],
+    "typeTag": 3
+  },
+  "4": {
+    "bgNameGroup": [
+      "bg_loading_upgrade_1"
+    ],
+    "typeTag": 4
+  },
+  "5": {
+    "bgNameGroup": [
+      "bg_loading_default_1",
+      "bg_loading_dung_bf_01"
+    ],
+    "typeTag": 5
+  },
+  "6": {
+    "bgNameGroup": [
+      "bg_loading_dijiang_1"
+    ],
+    "typeTag": 6
+  },
+  "7": {
+    "bgNameGroup": [
+      "bg_loading_factory_map01_1"
+    ],
+    "typeTag": 7
+  }
+}

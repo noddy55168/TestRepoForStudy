@@ -1,0 +1,153 @@
+{
+  "BP": {
+    "cashGoodsIds": [
+      "bp_pay_track"
+    ],
+    "cashShopId": "BP",
+    "shopName": {
+      "id": -3364611944259307077,
+      "text": ""
+    }
+  },
+  "Fest_pack": {
+    "cashGoodsIds": [
+      "weapon_giftpack_1_2_2_1",
+      "weapon_giftpack_1_2_2_2",
+      "weapon_giftpack_1_2_2_3",
+      "weapon_giftpack_1_2_2_4",
+      "seasonal_giftpack_lt_1_2_2"
+    ],
+    "cashShopId": "Fest_pack",
+    "shopName": {
+      "id": -1500710977405096985,
+      "text": ""
+    }
+  },
+  "MCard": {
+    "cashGoodsIds": [
+      "payshop_giftpack_monthlycard"
+    ],
+    "cashShopId": "MCard",
+    "shopName": {
+      "id": -192316724562403207,
+      "text": ""
+    }
+  },
+  "Newbie_pack": {
+    "cashGoodsIds": [
+      "newbie_giftpack_6_special",
+      "newbie_giftpack_01",
+      "newbie_giftpack_02",
+      "channel_ps_giftpack_01",
+      "channel_ps_giftpack_02",
+      "channel_ps_plus_giftpack_01",
+      "channel_ps_plus_giftpack_02"
+    ],
+    "cashShopId": "Newbie_pack",
+    "shopName": {
+      "id": 1098078403017035289,
+      "text": ""
+    }
+  },
+  "Permanent_pack": {
+    "cashGoodsIds": [
+      "monthly_giftpack_01",
+      "weekly_giftpack_01",
+      "resetid_giftpack_free_01",
+      "resetid_giftpack_free_02",
+      "resetid_giftpack_free_03",
+      "resetid_giftpack_free_04",
+      "resetid_giftpack_free_05",
+      "resetid_giftpack_pay_01",
+      "resetid_giftpack_pay_02",
+      "resetid_giftpack_pay_03",
+      "resetid_giftpack_pay_04",
+      "resetid_giftpack_pay_05"
+    ],
+    "cashShopId": "Permanent_pack",
+    "shopName": {
+      "id": 3843808142532516281,
+      "text": ""
+    }
+  },
+  "SP_weapon_supply": {
+    "cashGoodsIds": [
+      "weapon_giftpack_01",
+      "weapon_giftpack_02",
+      "weapon_giftpack_03",
+      "weapon_giftpack_04"
+    ],
+    "cashShopId": "SP_weapon_supply",
+    "shopName": {
+      "id": -2806044885923799173,
+      "text": ""
+    }
+  },
+  "Seasonal_Rec_pack": {
+    "cashGoodsIds": [
+      "seasonal_giftpack_combine",
+      "seasonal_giftpack_lt_01",
+      "seasonal_giftpack_lt_02",
+      "seasonal_giftpack_lt_03",
+      "seasonal_giftpack_lt_1_1_1",
+      "seasonal_giftpack_lt_1_1_2",
+      "seasonal_giftpack_lt_1_2_1",
+      "seasonal_crossover_lt_1_2_1",
+      "seasonal_giftpack_lt_1_3_1",
+      "seasonal_giftpack_lt_1_3_2",
+      "seasonal_giftpack_lt_1_4_1",
+      "seasonal_giftpack_lt_1_4_2",
+      "seasonal_giftpack_lt_1_5_1",
+      "giftpack_lt_decorate_1_4",
+      "giftpack_lt_gacha_plus_1_4"
+    ],
+    "cashShopId": "Seasonal_Rec_pack",
+    "shopName": {
+      "id": -8611879518686269216,
+      "text": ""
+    }
+  },
+  "originium_recharge": {
+    "cashGoodsIds": [
+      "recharge_originium_6",
+      "recharge_originium_30",
+      "recharge_originium_98",
+      "recharge_originium_198",
+      "recharge_originium_328",
+      "recharge_originium_648",
+      "os_recharge_originium_6",
+      "os_recharge_originium_30",
+      "os_recharge_originium_98",
+      "os_recharge_originium_198",
+      "os_recharge_originium_328",
+      "os_recharge_originium_648",
+      "os_recharge_originium_extra",
+      "os_recharge_originium_mycard_1",
+      "os_recharge_originium_mycard_2",
+      "os_recharge_originium_mycard_3",
+      "os_recharge_originium_mycard_4",
+      "os_recharge_originium_mycard_5",
+      "os_recharge_originium_mycard_6",
+      "os_recharge_originium_mycard_7",
+      "os_recharge_originium_mycard_8",
+      "os_recharge_originium_mycard_9",
+      "os_recharge_originium_mycard_10",
+      "os_recharge_originium_mycard_11",
+      "os_recharge_originium_mycard_12",
+      "os_recharge_originium_mycard_13",
+      "os_recharge_originium_mycard_14",
+      "os_recharge_originium_mycard_15",
+      "os_recharge_originium_mycard_16",
+      "os_recharge_originium_mycard_17",
+      "os_recharge_originium_mycard_18",
+      "os_recharge_originium_mycard_19",
+      "os_recharge_originium_mycard_20",
+      "os_recharge_originium_mycard_21"
+    ],
+    "cashShopId": "originium_recharge",
+    "shopName": {
+      "id": -7938757608096425195,
+      "text": ""
+    }
+  }
+}

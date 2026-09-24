@@ -1,0 +1,268 @@
+{
+  "activity_submit_food_1_stage_1": {
+    "name": {
+      "id": 2205622384621167893,
+      "text": ""
+    },
+    "noteDesc": {
+      "id": 559962650454859000,
+      "text": ""
+    },
+    "showImg": "item_sp_2_moss_2_agrange_1_1",
+    "stageId": "activity_submit_food_1_stage_1",
+    "submitDesc": {
+      "id": 6611631420912575613,
+      "text": ""
+    },
+    "submitItemId": "submit_food_a1q1",
+    "tipManualCraftId": "hdwk_sp_2_moss_2_agrange_1_1",
+    "unlockShow": true
+  },
+  "activity_submit_food_1_stage_2": {
+    "name": {
+      "id": 339745387890562410,
+      "text": ""
+    },
+    "noteDesc": {
+      "id": -2916378330344336388,
+      "text": ""
+    },
+    "showImg": "item_sp_1_moss_1_agmelee_1_1",
+    "stageId": "activity_submit_food_1_stage_2",
+    "submitDesc": {
+      "id": 7424321616669435269,
+      "text": ""
+    },
+    "submitItemId": "submit_food_a1q2",
+    "tipManualCraftId": "hdwk_sp_1_moss_1_agmelee_1_1",
+    "unlockShow": true
+  },
+  "activity_submit_food_1_stage_3": {
+    "name": {
+      "id": -7737071681696019492,
+      "text": ""
+    },
+    "noteDesc": {
+      "id": -7692664279086327480,
+      "text": ""
+    },
+    "showImg": "item_corp2_animal_1",
+    "stageId": "activity_submit_food_1_stage_3",
+    "submitDesc": {
+      "id": 8576064674790371663,
+      "text": ""
+    },
+    "submitItemId": "submit_food_a1q3",
+    "tipManualCraftId": "handwork_corp2_animal_1",
+    "unlockShow": true
+  },
+  "activity_submit_food_1_stage_4": {
+    "name": {
+      "id": -2903235555627741714,
+      "text": ""
+    },
+    "noteDesc": {
+      "id": -3227853206529665852,
+      "text": ""
+    },
+    "showImg": "item_corp1_animal_1",
+    "stageId": "activity_submit_food_1_stage_4",
+    "submitDesc": {
+      "id": 4123640601004435970,
+      "text": ""
+    },
+    "submitItemId": "submit_food_a1q4",
+    "tipManualCraftId": "handwork_corp1_animal_1",
+    "unlockShow": true
+  },
+  "activity_submit_food_1_stage_5": {
+    "name": {
+      "id": 9074662027816156757,
+      "text": ""
+    },
+    "noteDesc": {
+      "id": -7874294664595081822,
+      "text": ""
+    },
+    "showImg": "item_agrange_1_erhound_1_sp_1_1",
+    "stageId": "activity_submit_food_1_stage_5",
+    "submitDesc": {
+      "id": -5573935507199370237,
+      "text": ""
+    },
+    "submitItemId": "submit_food_a1q5",
+    "tipManualCraftId": "hdwk_agrange_1_erhound_1_sp_1_1",
+    "unlockShow": true
+  },
+  "activity_submit_food_1_stage_6": {
+    "name": {
+      "id": -8057651917371241730,
+      "text": ""
+    },
+    "noteDesc": {
+      "id": 4831644612505885692,
+      "text": ""
+    },
+    "showImg": "item_lbmob_1_lbshamman_1_sp_1_1",
+    "stageId": "activity_submit_food_1_stage_6",
+    "submitDesc": {
+      "id": 8059259274864570567,
+      "text": ""
+    },
+    "submitItemId": "submit_food_a1q6",
+    "tipManualCraftId": "hdwk_lbmob_1_lbshamman_1_sp_1_1",
+    "unlockShow": true
+  },
+  "activity_submit_food_1_stage_7": {
+    "name": {
+      "id": 1074886602885404465,
+      "text": ""
+    },
+    "noteDesc": {
+      "id": 5870279476600740452,
+      "text": ""
+    },
+    "showImg": "item_agmelee_1_sp_2_slimeml_1_1",
+    "stageId": "activity_submit_food_1_stage_7",
+    "submitDesc": {
+      "id": -4120202543200991698,
+      "text": ""
+    },
+    "submitItemId": "submit_food_a1q7",
+    "tipManualCraftId": "hdwk_agmelee_1_sp_2_slimeml_1_1",
+    "unlockShow": true
+  },
+  "activity_submit_food_2_stage_1": {
+    "name": {
+      "id": -5825160926096595378,
+      "text": ""
+    },
+    "noteDesc": {
+      "id": -6165763046476745528,
+      "text": ""
+    },
+    "showImg": "item_corp3_grass1_1",
+    "stageId": "activity_submit_food_2_stage_1",
+    "submitDesc": {
+      "id": -6062507002454615895,
+      "text": ""
+    },
+    "submitItemId": "submit_food_a2q1",
+    "tipManualCraftId": "handwork_corp3_grass1_1",
+    "unlockShow": true
+  },
+  "activity_submit_food_2_stage_2": {
+    "name": {
+      "id": -4557291373059549690,
+      "text": ""
+    },
+    "noteDesc": {
+      "id": 7680058015665709265,
+      "text": ""
+    },
+    "showImg": "item_corp4_grass2_1",
+    "stageId": "activity_submit_food_2_stage_2",
+    "submitDesc": {
+      "id": -3442656393665111333,
+      "text": ""
+    },
+    "submitItemId": "submit_food_a2q2",
+    "tipManualCraftId": "handwork_corp4_grass2_1",
+    "unlockShow": true
+  },
+  "activity_submit_food_2_stage_3": {
+    "name": {
+      "id": 257422461748442332,
+      "text": ""
+    },
+    "noteDesc": {
+      "id": 3782578828556551223,
+      "text": ""
+    },
+    "showImg": "item_corp3_animal_1",
+    "stageId": "activity_submit_food_2_stage_3",
+    "submitDesc": {
+      "id": -8174747239024209902,
+      "text": ""
+    },
+    "submitItemId": "submit_food_a2q3",
+    "tipManualCraftId": "handwork_corp3_animal_1",
+    "unlockShow": true
+  },
+  "activity_submit_food_2_stage_4": {
+    "name": {
+      "id": -4228431255101156571,
+      "text": ""
+    },
+    "noteDesc": {
+      "id": 6435218438117646917,
+      "text": ""
+    },
+    "showImg": "item_corp4_animal_1",
+    "stageId": "activity_submit_food_2_stage_4",
+    "submitDesc": {
+      "id": 5946597708794951703,
+      "text": ""
+    },
+    "submitItemId": "submit_food_a2q4",
+    "tipManualCraftId": "handwork_corp4_animal_1",
+    "unlockShow": true
+  },
+  "activity_submit_food_2_stage_5": {
+    "name": {
+      "id": 8460726821307424710,
+      "text": ""
+    },
+    "noteDesc": {
+      "id": 6436565102313696573,
+      "text": ""
+    },
+    "showImg": "item_hsmob_1_grass_2_1",
+    "stageId": "activity_submit_food_2_stage_5",
+    "submitDesc": {
+      "id": 7776500904476376518,
+      "text": ""
+    },
+    "submitItemId": "submit_food_a2q5",
+    "tipManualCraftId": "hdwk_hsmob_1_grass_2_1",
+    "unlockShow": true
+  },
+  "activity_submit_food_2_stage_6": {
+    "name": {
+      "id": -2017691210541642169,
+      "text": ""
+    },
+    "noteDesc": {
+      "id": 5932676869511874060,
+      "text": ""
+    },
+    "showImg": "item_hsmob_1_dog_1_1",
+    "stageId": "activity_submit_food_2_stage_6",
+    "submitDesc": {
+      "id": -2731095601057583552,
+      "text": ""
+    },
+    "submitItemId": "submit_food_a2q6",
+    "tipManualCraftId": "hdwk_hsmob_1_dog_1_1",
+    "unlockShow": true
+  },
+  "activity_submit_food_2_stage_7": {
+    "name": {
+      "id": 71953181043053628,
+      "text": ""
+    },
+    "noteDesc": {
+      "id": 5037445700723820591,
+      "text": ""
+    },
+    "showImg": "item_corp4_spc",
+    "stageId": "activity_submit_food_2_stage_7",
+    "submitDesc": {
+      "id": 1355640586715306131,
+      "text": ""
+    },
+    "submitItemId": "submit_food_a2q7",
+    "tipManualCraftId": "hdwk_corp4_spc",
+    "unlockShow": false
+  }
+}

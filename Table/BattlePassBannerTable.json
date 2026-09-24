@@ -1,0 +1,368 @@
+{
+  "preset_banner_1": {
+    "bannerInfos": [
+      {
+        "desc": {
+          "id": -8854423999835572952,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_originium",
+        "itemId": "",
+        "labelTip": {
+          "id": -3953150531380443965,
+          "text": ""
+        },
+        "sortId": 1,
+        "trackId": "bp_track_originium"
+      },
+      {
+        "desc": {
+          "id": -2678533080527873565,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_pay",
+        "itemId": "",
+        "labelTip": {
+          "id": 9173509261270574138,
+          "text": ""
+        },
+        "sortId": 2,
+        "trackId": "bp_track_pay"
+      },
+      {
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_case_wpn",
+        "itemId": "item_case_wpn_selfselect_bp_1",
+        "labelTip": {
+          "id": -1966664917292678247,
+          "text": ""
+        },
+        "sortId": 3,
+        "trackId": "bp_track_originium"
+      },
+      {
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_case_wpn",
+        "itemId": "item_case_wpn_selfselect_bp_1",
+        "labelTip": {
+          "id": 428700510560796519,
+          "text": ""
+        },
+        "sortId": 4,
+        "trackId": "bp_track_pay"
+      }
+    ],
+    "bannerPresetId": "preset_banner_1"
+  },
+  "preset_banner_2": {
+    "bannerInfos": [
+      {
+        "desc": {
+          "id": -1697355277563737033,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_originium",
+        "itemId": "",
+        "labelTip": {
+          "id": -8577730769957253723,
+          "text": ""
+        },
+        "sortId": 1,
+        "trackId": "bp_track_originium"
+      },
+      {
+        "desc": {
+          "id": 1882452792353773666,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_pay",
+        "itemId": "",
+        "labelTip": {
+          "id": 4256261490899635565,
+          "text": ""
+        },
+        "sortId": 2,
+        "trackId": "bp_track_pay"
+      },
+      {
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_case_wpn",
+        "itemId": "item_case_wpn_selfselect_bp_2",
+        "labelTip": {
+          "id": 7355933296081196822,
+          "text": ""
+        },
+        "sortId": 3,
+        "trackId": "bp_track_originium"
+      },
+      {
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_case_wpn",
+        "itemId": "item_case_wpn_selfselect_bp_2",
+        "labelTip": {
+          "id": -5169494879973411193,
+          "text": ""
+        },
+        "sortId": 4,
+        "trackId": "bp_track_pay"
+      }
+    ],
+    "bannerPresetId": "preset_banner_2"
+  },
+  "preset_banner_3": {
+    "bannerInfos": [
+      {
+        "desc": {
+          "id": -333612703425522005,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_originium",
+        "itemId": "",
+        "labelTip": {
+          "id": -8586756506055918507,
+          "text": ""
+        },
+        "sortId": 1,
+        "trackId": "bp_track_originium"
+      },
+      {
+        "desc": {
+          "id": 4594114026561584813,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_pay",
+        "itemId": "",
+        "labelTip": {
+          "id": -6026860055283013893,
+          "text": ""
+        },
+        "sortId": 2,
+        "trackId": "bp_track_pay"
+      },
+      {
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_case_wpn",
+        "itemId": "item_case_wpn_selfselect_bp_3",
+        "labelTip": {
+          "id": -8807280804231664153,
+          "text": ""
+        },
+        "sortId": 3,
+        "trackId": "bp_track_originium"
+      },
+      {
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_case_wpn",
+        "itemId": "item_case_wpn_selfselect_bp_3",
+        "labelTip": {
+          "id": 1461121581198069361,
+          "text": ""
+        },
+        "sortId": 4,
+        "trackId": "bp_track_pay"
+      }
+    ],
+    "bannerPresetId": "preset_banner_3"
+  },
+  "preset_banner_4": {
+    "bannerInfos": [
+      {
+        "desc": {
+          "id": 5222001020739705786,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_originium",
+        "itemId": "",
+        "labelTip": {
+          "id": 7655732823959821572,
+          "text": ""
+        },
+        "sortId": 1,
+        "trackId": "bp_track_originium"
+      },
+      {
+        "desc": {
+          "id": 5756768251486939178,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_pay",
+        "itemId": "",
+        "labelTip": {
+          "id": -1937840920584435360,
+          "text": ""
+        },
+        "sortId": 2,
+        "trackId": "bp_track_pay"
+      },
+      {
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_case_wpn",
+        "itemId": "item_case_wpn_selfselect_bp_4",
+        "labelTip": {
+          "id": 4375831784340329642,
+          "text": ""
+        },
+        "sortId": 3,
+        "trackId": "bp_track_originium"
+      },
+      {
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_case_wpn",
+        "itemId": "item_case_wpn_selfselect_bp_4",
+        "labelTip": {
+          "id": -428696311294258299,
+          "text": ""
+        },
+        "sortId": 4,
+        "trackId": "bp_track_pay"
+      }
+    ],
+    "bannerPresetId": "preset_banner_4"
+  },
+  "preset_banner_5": {
+    "bannerInfos": [
+      {
+        "desc": {
+          "id": -6151656254994917607,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_originium",
+        "itemId": "",
+        "labelTip": {
+          "id": 905621045927815766,
+          "text": ""
+        },
+        "sortId": 1,
+        "trackId": "bp_track_originium"
+      },
+      {
+        "desc": {
+          "id": -5005526028458300376,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_pay",
+        "itemId": "",
+        "labelTip": {
+          "id": -5496910471247934138,
+          "text": ""
+        },
+        "sortId": 2,
+        "trackId": "bp_track_pay"
+      },
+      {
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_case_wpn",
+        "itemId": "item_case_wpn_selfselect_bp_5",
+        "labelTip": {
+          "id": 3222800317033845569,
+          "text": ""
+        },
+        "sortId": 3,
+        "trackId": "bp_track_originium"
+      },
+      {
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_case_wpn",
+        "itemId": "item_case_wpn_selfselect_bp_5",
+        "labelTip": {
+          "id": -5485937894290403033,
+          "text": ""
+        },
+        "sortId": 4,
+        "trackId": "bp_track_pay"
+      }
+    ],
+    "bannerPresetId": "preset_banner_5"
+  },
+  "preset_banner_6": {
+    "bannerInfos": [
+      {
+        "desc": {
+          "id": -7078458792095475051,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_originium",
+        "itemId": "",
+        "labelTip": {
+          "id": 708017717298145061,
+          "text": ""
+        },
+        "sortId": 1,
+        "trackId": "bp_track_originium"
+      },
+      {
+        "desc": {
+          "id": 667546784277225299,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_pay",
+        "itemId": "",
+        "labelTip": {
+          "id": -8325276226497406492,
+          "text": ""
+        },
+        "sortId": 2,
+        "trackId": "bp_track_pay"
+      },
+      {
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_case_wpn",
+        "itemId": "item_case_wpn_selfselect_bp_6",
+        "labelTip": {
+          "id": 6301715866728624448,
+          "text": ""
+        },
+        "sortId": 3,
+        "trackId": "bp_track_originium"
+      },
+      {
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "icon_bpshowcase_case_wpn",
+        "itemId": "item_case_wpn_selfselect_bp_6",
+        "labelTip": {
+          "id": 6106558446551138544,
+          "text": ""
+        },
+        "sortId": 4,
+        "trackId": "bp_track_pay"
+      }
+    ],
+    "bannerPresetId": "preset_banner_6"
+  }
+}

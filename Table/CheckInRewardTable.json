@@ -1,0 +1,2678 @@
+{
+  "activity_checkin_1": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_newplayer_checkin_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_newplayer_checkin_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_1",
+        "charId": "chr_0025_ardelia",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_newplayer_checkin_3",
+        "rewardImg": "Role",
+        "rewardName": {
+          "id": 5819925177884258297,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 4,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_newplayer_checkin_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 5,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_newplayer_checkin_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 6,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_newplayer_checkin_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 7,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_newplayer_checkin_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 8,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_newplayer_checkin_8",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 9,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_newplayer_checkin_9",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 10,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_newplayer_checkin_10",
+        "rewardImg": "Weapon",
+        "rewardName": {
+          "id": -8076865127643461204,
+          "text": ""
+        },
+        "weaponId": "wpn_funnel_0013"
+      },
+      {
+        "activityId": "activity_checkin_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 11,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_newplayer_checkin_11",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 12,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_newplayer_checkin_12",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 13,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_newplayer_checkin_13",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 14,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_newplayer_checkin_14",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_agline": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_agline",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_agline_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_agline",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_agline_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_agline",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_agline_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_agline",
+        "charId": "",
+        "dateImg": "",
+        "day": 4,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_agline_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_agline",
+        "charId": "",
+        "dateImg": "",
+        "day": 5,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_agline_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_agline",
+        "charId": "",
+        "dateImg": "",
+        "day": 6,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_agline_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_agline",
+        "charId": "",
+        "dateImg": "",
+        "day": 7,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_agline_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_brilliance": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_brilliance",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_brilliance_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_brilliance",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_brilliance_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_brilliance",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_brilliance_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_brilliance",
+        "charId": "",
+        "dateImg": "",
+        "day": 4,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_brilliance_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_brilliance",
+        "charId": "",
+        "dateImg": "",
+        "day": 5,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_brilliance_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_brilliance",
+        "charId": "",
+        "dateImg": "",
+        "day": 6,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_brilliance_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_brilliance",
+        "charId": "",
+        "dateImg": "",
+        "day": 7,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_brilliance_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_camille": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_camille",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_camille_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_camille",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_camille_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_camille",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_camille_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_camille",
+        "charId": "",
+        "dateImg": "",
+        "day": 4,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_camille_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_camille",
+        "charId": "",
+        "dateImg": "",
+        "day": 5,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_camille_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_camille",
+        "charId": "",
+        "dateImg": "",
+        "day": 6,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_camille_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_camille",
+        "charId": "",
+        "dateImg": "",
+        "day": 7,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_camille_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_halfann": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_halfann",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": false,
+        "rewardId": "reward_checkin_halfann_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_halfann",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_checkin_halfann_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_halfann",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_checkin_halfann_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_laevat": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_laevat",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_laevat_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_laevat",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_laevat_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_laevat",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_laevat_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_laevat",
+        "charId": "",
+        "dateImg": "",
+        "day": 4,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_laevat_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_laevat",
+        "charId": "",
+        "dateImg": "",
+        "day": 5,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_laevat_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_laevat",
+        "charId": "",
+        "dateImg": "",
+        "day": 6,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_laevat_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_laevat",
+        "charId": "",
+        "dateImg": "",
+        "day": 7,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_laevat_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_liino": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_liino",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_liino_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_liino",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_liino_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_liino",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_liino_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_liino",
+        "charId": "",
+        "dateImg": "",
+        "day": 4,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_liino_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_liino",
+        "charId": "",
+        "dateImg": "",
+        "day": 5,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_liino_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_liino",
+        "charId": "",
+        "dateImg": "",
+        "day": 6,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_liino_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_liino",
+        "charId": "",
+        "dateImg": "",
+        "day": 7,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_liino_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_lizhiyan": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_lizhiyan",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_lizhiyan_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_lizhiyan",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_lizhiyan_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_lizhiyan",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_lizhiyan_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_lizhiyan",
+        "charId": "",
+        "dateImg": "",
+        "day": 4,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_lizhiyan_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_lizhiyan",
+        "charId": "",
+        "dateImg": "",
+        "day": 5,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_lizhiyan_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_lizhiyan",
+        "charId": "",
+        "dateImg": "",
+        "day": 6,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_lizhiyan_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_lizhiyan",
+        "charId": "",
+        "dateImg": "",
+        "day": 7,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_lizhiyan_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_mifu": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_mifu",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_mifu_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_mifu",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_mifu_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_mifu",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_mifu_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_mifu",
+        "charId": "",
+        "dateImg": "",
+        "day": 4,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_mifu_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_mifu",
+        "charId": "",
+        "dateImg": "",
+        "day": 5,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_mifu_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_mifu",
+        "charId": "",
+        "dateImg": "",
+        "day": 6,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_mifu_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_mifu",
+        "charId": "",
+        "dateImg": "",
+        "day": 7,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_mifu_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_parkour": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_parkour",
+        "charId": "",
+        "dateImg": "deco_sign_parkour_cell_txt01",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_parkour_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_parkour",
+        "charId": "",
+        "dateImg": "deco_sign_parkour_cell_txt02",
+        "day": 2,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_parkour_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_parkour",
+        "charId": "",
+        "dateImg": "deco_sign_parkour_cell_txt03",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_parkour_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_parkour",
+        "charId": "",
+        "dateImg": "deco_sign_parkour_cell_txt04",
+        "day": 4,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_parkour_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_parkour",
+        "charId": "",
+        "dateImg": "deco_sign_parkour_cell_txt05",
+        "day": 5,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_parkour_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_parkour",
+        "charId": "",
+        "dateImg": "deco_sign_parkour_cell_txt06",
+        "day": 6,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_parkour_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_parkour",
+        "charId": "",
+        "dateImg": "deco_sign_parkour_cell_txt07",
+        "day": 7,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_parkour_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_tangtang": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_tangtang",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_tangtang_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_tangtang",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_tangtang_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_tangtang",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_tangtang_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_tangtang",
+        "charId": "",
+        "dateImg": "",
+        "day": 4,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_tangtang_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_tangtang",
+        "charId": "",
+        "dateImg": "",
+        "day": 5,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_tangtang_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_tangtang",
+        "charId": "",
+        "dateImg": "",
+        "day": 6,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_tangtang_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_tangtang",
+        "charId": "",
+        "dateImg": "",
+        "day": 7,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_tangtang_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_typhoea": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_typhoea",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_typhoea_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_typhoea",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_typhoea_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_typhoea",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_typhoea_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_typhoea",
+        "charId": "",
+        "dateImg": "",
+        "day": 4,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_typhoea_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_typhoea",
+        "charId": "",
+        "dateImg": "",
+        "day": 5,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_typhoea_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_typhoea",
+        "charId": "",
+        "dateImg": "",
+        "day": 6,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_typhoea_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_typhoea",
+        "charId": "",
+        "dateImg": "",
+        "day": 7,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_typhoea_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_universe": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_universe",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_universe_checkin_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_universe",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_universe_checkin_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_universe",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_universe_checkin_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_v1d0_end": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_v1d0_end",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": false,
+        "isPopup": false,
+        "rewardId": "reward_checkin_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_v1d0_end",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": false,
+        "isPopup": false,
+        "rewardId": "reward_checkin_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_v1d0_end",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_checkin_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_v1d1_end": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_v1d1_end",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_checkin_v1d1_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_v1d1_end",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_checkin_v1d1_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_v1d1_end",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_checkin_v1d1_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_v1d2_end": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_v1d2_end",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_checkin_v1d2_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_v1d2_end",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_checkin_v1d2_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_v1d2_end",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_checkin_v1d2_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_v1d3_end": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_v1d3_end",
+        "charId": "",
+        "dateImg": "deco_sign_end_cell_txt01",
+        "day": 1,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_checkin_v1d3_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_v1d3_end",
+        "charId": "",
+        "dateImg": "deco_sign_end_cell_txt02",
+        "day": 2,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_checkin_v1d3_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_v1d3_end",
+        "charId": "",
+        "dateImg": "deco_sign_end_cell_txt03",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_checkin_v1d3_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_v1d4_end": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_v1d4_end",
+        "charId": "",
+        "dateImg": "deco_sign_end_cell_v1d4_txt01",
+        "day": 1,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_checkin_v1d4_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_v1d4_end",
+        "charId": "",
+        "dateImg": "deco_sign_end_cell_v1d4_txt02",
+        "day": 2,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_checkin_v1d4_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_v1d4_end",
+        "charId": "",
+        "dateImg": "deco_sign_end_cell_v1d4_txt03",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_checkin_v1d4_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_wulfa": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_wulfa",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_wulfa_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_wulfa",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_wulfa_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_wulfa",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_wulfa_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_wulfa",
+        "charId": "",
+        "dateImg": "",
+        "day": 4,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_wulfa_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_wulfa",
+        "charId": "",
+        "dateImg": "",
+        "day": 5,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_wulfa_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_wulfa",
+        "charId": "",
+        "dateImg": "",
+        "day": 6,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_wulfa_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_wulfa",
+        "charId": "",
+        "dateImg": "",
+        "day": 7,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_wulfa_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_yvonne": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_yvonne",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_yvonne_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_yvonne",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_yvonne_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_yvonne",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_yvonne_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_yvonne",
+        "charId": "",
+        "dateImg": "",
+        "day": 4,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_yvonne_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_yvonne",
+        "charId": "",
+        "dateImg": "",
+        "day": 5,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_yvonne_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_yvonne",
+        "charId": "",
+        "dateImg": "",
+        "day": 6,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_yvonne_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_yvonne",
+        "charId": "",
+        "dateImg": "",
+        "day": 7,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_yvonne_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_checkin_zhuangfangy": {
+    "stageList": [
+      {
+        "activityId": "activity_checkin_zhuangfangy",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_zhuangfangy_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_zhuangfangy",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_zhuangfangy_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_zhuangfangy",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_zhuangfangy_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_zhuangfangy",
+        "charId": "",
+        "dateImg": "",
+        "day": 4,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_zhuangfangy_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_zhuangfangy",
+        "charId": "",
+        "dateImg": "",
+        "day": 5,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_zhuangfangy_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_zhuangfangy",
+        "charId": "",
+        "dateImg": "",
+        "day": 6,
+        "isKeyReward": false,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_zhuangfangy_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_checkin_zhuangfangy",
+        "charId": "",
+        "dateImg": "",
+        "day": 7,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_checkin_zhuangfangy_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_pristine_access_v1d2": {
+    "stageList": [
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 4,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 5,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 6,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 7,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 8,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_8",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 9,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_9",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 10,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_10",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 11,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_11",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 12,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_12",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 13,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_13",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 14,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_14",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 15,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_15",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 16,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_16",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 17,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_17",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 18,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_18",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 19,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_19",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 20,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_20",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 21,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_21",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 22,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_22",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 23,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_23",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 24,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_24",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 25,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_25",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 26,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_26",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 27,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_27",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 28,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_28",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 29,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_29",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 30,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_30",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 31,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_31",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_pristine_access_v1d2",
+        "charId": "",
+        "dateImg": "",
+        "day": 32,
+        "isKeyReward": true,
+        "isPopup": true,
+        "rewardId": "reward_activity_pristine_access_v1d2_32",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_v1d4_01_returnback_new_1": {
+    "stageList": [
+      {
+        "activityId": "activity_v1d4_01_returnback_new_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": false,
+        "rewardId": "reward_returnback_new_1_checkin_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_v1d4_01_returnback_new_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": true,
+        "isPopup": false,
+        "rewardId": "reward_returnback_new_1_checkin_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_v1d4_01_returnback_new_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": false,
+        "rewardId": "reward_returnback_new_1_checkin_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_v1d4_01_returnback_new_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 4,
+        "isKeyReward": false,
+        "isPopup": false,
+        "rewardId": "reward_returnback_new_1_checkin_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_v1d4_01_returnback_new_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 5,
+        "isKeyReward": false,
+        "isPopup": false,
+        "rewardId": "reward_returnback_new_1_checkin_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_v1d4_01_returnback_new_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 6,
+        "isKeyReward": false,
+        "isPopup": false,
+        "rewardId": "reward_returnback_new_1_checkin_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_v1d4_01_returnback_new_1",
+        "charId": "",
+        "dateImg": "",
+        "day": 7,
+        "isKeyReward": true,
+        "isPopup": false,
+        "rewardId": "reward_returnback_new_1_checkin_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  },
+  "activity_v1d4_01_returnback_new_2": {
+    "stageList": [
+      {
+        "activityId": "activity_v1d4_01_returnback_new_2",
+        "charId": "",
+        "dateImg": "",
+        "day": 1,
+        "isKeyReward": true,
+        "isPopup": false,
+        "rewardId": "reward_returnback_new_2_checkin_1",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_v1d4_01_returnback_new_2",
+        "charId": "",
+        "dateImg": "",
+        "day": 2,
+        "isKeyReward": true,
+        "isPopup": false,
+        "rewardId": "reward_returnback_new_2_checkin_2",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_v1d4_01_returnback_new_2",
+        "charId": "",
+        "dateImg": "",
+        "day": 3,
+        "isKeyReward": true,
+        "isPopup": false,
+        "rewardId": "reward_returnback_new_2_checkin_3",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_v1d4_01_returnback_new_2",
+        "charId": "",
+        "dateImg": "",
+        "day": 4,
+        "isKeyReward": false,
+        "isPopup": false,
+        "rewardId": "reward_returnback_new_2_checkin_4",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_v1d4_01_returnback_new_2",
+        "charId": "",
+        "dateImg": "",
+        "day": 5,
+        "isKeyReward": false,
+        "isPopup": false,
+        "rewardId": "reward_returnback_new_2_checkin_5",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_v1d4_01_returnback_new_2",
+        "charId": "",
+        "dateImg": "",
+        "day": 6,
+        "isKeyReward": false,
+        "isPopup": false,
+        "rewardId": "reward_returnback_new_2_checkin_6",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      },
+      {
+        "activityId": "activity_v1d4_01_returnback_new_2",
+        "charId": "",
+        "dateImg": "",
+        "day": 7,
+        "isKeyReward": true,
+        "isPopup": false,
+        "rewardId": "reward_returnback_new_2_checkin_7",
+        "rewardImg": "",
+        "rewardName": {
+          "id": 0,
+          "text": ""
+        },
+        "weaponId": ""
+      }
+    ]
+  }
+}

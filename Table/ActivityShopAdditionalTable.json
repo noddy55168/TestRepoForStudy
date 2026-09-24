@@ -1,0 +1,44 @@
+{
+  "shop_activity_contingency_contract_0": {
+    "activityId": "activity_contingency_contract_0",
+    "activityMoneyId": "item_activity_contract_gold_0",
+    "banner": "shop_banner_03",
+    "closeCdText": {
+      "id": 5770321892137912147,
+      "text": ""
+    },
+    "hasHelpComponent": true,
+    "hasSortComponent": false,
+    "shopGroupId": "shop_activity_contingency_contract_0",
+    "showCloseCd": true,
+    "titleColor": "FFFFFF"
+  },
+  "shop_activity_limited_formula_1": {
+    "activityId": "activity_limited_formula_1",
+    "activityMoneyId": "item_activity_relief_coupon",
+    "banner": "shop_banner_01",
+    "closeCdText": {
+      "id": -8025761253228737708,
+      "text": ""
+    },
+    "hasHelpComponent": false,
+    "hasSortComponent": true,
+    "shopGroupId": "shop_activity_limited_formula_1",
+    "showCloseCd": true,
+    "titleColor": "2C2C2C"
+  },
+  "shop_activity_limited_formula_2": {
+    "activityId": "activity_limited_formula_2",
+    "activityMoneyId": "item_activity_relief_coupon_1",
+    "banner": "shop_banner_05",
+    "closeCdText": {
+      "id": -1325274286328459305,
+      "text": ""
+    },
+    "hasHelpComponent": false,
+    "hasSortComponent": true,
+    "shopGroupId": "shop_activity_limited_formula_2",
+    "showCloseCd": true,
+    "titleColor": "2C2C2C"
+  }
+}

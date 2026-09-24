@@ -1,0 +1,61 @@
+{
+  "log_pipe_conditioner": {
+    "defaultRendererTemplate": "liquid__0",
+    "id": "log_pipe_conditioner",
+    "inputPorts": [
+      {
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 180,
+          "z": 0
+        }
+      }
+    ],
+    "liquidUnitData": {
+      "buildCamState": "Factory/CCS_Fac_Building_Large",
+      "iconOnPanel": "icon_log_conditioner",
+      "itemId": "item_log_pipe_conditioner",
+      "msPerRound": 500,
+      "name": {
+        "id": 7650448495886982168,
+        "text": ""
+      },
+      "volume": 1
+    },
+    "outputPorts": [
+      {
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 180,
+          "z": 0
+        }
+      }
+    ],
+    "range": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "rendererTemplateMap": {
+      "liquid__0": {
+        "logisticBaseUnit": "",
+        "machineId": "log_pipe_conditioner",
+        "machineLevel": 0,
+        "machineModeType": "liquid",
+        "machineRenderId": "log_pipe_conditioner",
+        "nonLogisticBaseUnit": "",
+        "suppressExternalDither": false
+      }
+    }
+  }
+}

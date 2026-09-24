@@ -1,0 +1,178 @@
+{
+  "activity_submit_food_1_stage_1": {
+    "activityId": "activity_submit_food_1",
+    "jumpId": "",
+    "name": {
+      "id": -703675810484903518,
+      "text": ""
+    },
+    "rewardId": "reward_submit_food_a1d1",
+    "sortId": 1,
+    "stageId": "activity_submit_food_1_stage_1"
+  },
+  "activity_submit_food_1_stage_2": {
+    "activityId": "activity_submit_food_1",
+    "jumpId": "",
+    "name": {
+      "id": 8062135158749487517,
+      "text": ""
+    },
+    "rewardId": "reward_submit_food_a1d2",
+    "sortId": 2,
+    "stageId": "activity_submit_food_1_stage_2"
+  },
+  "activity_submit_food_1_stage_3": {
+    "activityId": "activity_submit_food_1",
+    "jumpId": "",
+    "name": {
+      "id": -4907639744324915889,
+      "text": ""
+    },
+    "rewardId": "reward_submit_food_a1d3",
+    "sortId": 3,
+    "stageId": "activity_submit_food_1_stage_3"
+  },
+  "activity_submit_food_1_stage_4": {
+    "activityId": "activity_submit_food_1",
+    "jumpId": "",
+    "name": {
+      "id": 4758999961454050639,
+      "text": ""
+    },
+    "rewardId": "reward_submit_food_a1d4",
+    "sortId": 4,
+    "stageId": "activity_submit_food_1_stage_4"
+  },
+  "activity_submit_food_1_stage_5": {
+    "activityId": "activity_submit_food_1",
+    "jumpId": "",
+    "name": {
+      "id": -134552678640809083,
+      "text": ""
+    },
+    "rewardId": "reward_submit_food_a1d5",
+    "sortId": 5,
+    "stageId": "activity_submit_food_1_stage_5"
+  },
+  "activity_submit_food_1_stage_6": {
+    "activityId": "activity_submit_food_1",
+    "jumpId": "",
+    "name": {
+      "id": -5102481468169627290,
+      "text": ""
+    },
+    "rewardId": "reward_submit_food_a1d6",
+    "sortId": 6,
+    "stageId": "activity_submit_food_1_stage_6"
+  },
+  "activity_submit_food_1_stage_7": {
+    "activityId": "activity_submit_food_1",
+    "jumpId": "",
+    "name": {
+      "id": 6108787879043526665,
+      "text": ""
+    },
+    "rewardId": "reward_submit_food_a1d7",
+    "sortId": 7,
+    "stageId": "activity_submit_food_1_stage_7"
+  },
+  "activity_submit_food_1_stage_hidden36": {
+    "activityId": "activity_submit_food_1",
+    "jumpId": "",
+    "name": {
+      "id": 0,
+      "text": ""
+    },
+    "rewardId": "",
+    "sortId": 8,
+    "stageId": "activity_submit_food_1_stage_hidden36"
+  },
+  "activity_submit_food_2_stage_1": {
+    "activityId": "activity_submit_food_2",
+    "jumpId": "",
+    "name": {
+      "id": 4510859739291096926,
+      "text": ""
+    },
+    "rewardId": "reward_submit_food_a2d1",
+    "sortId": 1,
+    "stageId": "activity_submit_food_2_stage_1"
+  },
+  "activity_submit_food_2_stage_2": {
+    "activityId": "activity_submit_food_2",
+    "jumpId": "",
+    "name": {
+      "id": 1552987252764022486,
+      "text": ""
+    },
+    "rewardId": "reward_submit_food_a2d2",
+    "sortId": 2,
+    "stageId": "activity_submit_food_2_stage_2"
+  },
+  "activity_submit_food_2_stage_3": {
+    "activityId": "activity_submit_food_2",
+    "jumpId": "",
+    "name": {
+      "id": -442496153525977109,
+      "text": ""
+    },
+    "rewardId": "reward_submit_food_a2d3",
+    "sortId": 3,
+    "stageId": "activity_submit_food_2_stage_3"
+  },
+  "activity_submit_food_2_stage_4": {
+    "activityId": "activity_submit_food_2",
+    "jumpId": "",
+    "name": {
+      "id": 5846944798062685387,
+      "text": ""
+    },
+    "rewardId": "reward_submit_food_a2d4",
+    "sortId": 4,
+    "stageId": "activity_submit_food_2_stage_4"
+  },
+  "activity_submit_food_2_stage_5": {
+    "activityId": "activity_submit_food_2",
+    "jumpId": "",
+    "name": {
+      "id": -6454550049614362904,
+      "text": ""
+    },
+    "rewardId": "reward_submit_food_a2d5",
+    "sortId": 5,
+    "stageId": "activity_submit_food_2_stage_5"
+  },
+  "activity_submit_food_2_stage_6": {
+    "activityId": "activity_submit_food_2",
+    "jumpId": "",
+    "name": {
+      "id": -4520360071164354187,
+      "text": ""
+    },
+    "rewardId": "reward_submit_food_a2d6",
+    "sortId": 6,
+    "stageId": "activity_submit_food_2_stage_6"
+  },
+  "activity_submit_food_2_stage_7": {
+    "activityId": "activity_submit_food_2",
+    "jumpId": "",
+    "name": {
+      "id": -5877393452634891081,
+      "text": ""
+    },
+    "rewardId": "reward_submit_food_a2d7",
+    "sortId": 7,
+    "stageId": "activity_submit_food_2_stage_7"
+  },
+  "activity_submit_food_2_stage_hidden42": {
+    "activityId": "activity_submit_food_2",
+    "jumpId": "",
+    "name": {
+      "id": 0,
+      "text": ""
+    },
+    "rewardId": "",
+    "sortId": 8,
+    "stageId": "activity_submit_food_2_stage_hidden42"
+  }
+}

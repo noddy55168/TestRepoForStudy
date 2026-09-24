@@ -1,0 +1,2166 @@
+{
+  "stm_hongs_1": {
+    "domainId": "domain_2",
+    "domainLevelId": "map02_lv001",
+    "facRegionIndex": 0,
+    "settlementColor": "07a7a7",
+    "settlementId": "stm_hongs_1",
+    "settlementLevelMap": {
+      "1": {
+        "bandwidth": 50,
+        "battleBuildingLimit": 6,
+        "desc": {
+          "id": 2379082855099504856,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 250000,
+        "moneyMax": 135000,
+        "moneyPeriod": 78,
+        "recoItemId": "item_bottled_rec_hp_4",
+        "settlementPicId": "pic_stm_hongs_1_1",
+        "settlementTradeItemMap": {
+          "item_activity_xiranite_enr_hulu": {
+            "activityId": "activity_limited_formula_1",
+            "itemId": "item_activity_xiranite_enr_hulu",
+            "rewardMoneyCount": 120,
+            "stmExp": 120,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_activity_xiranite_enr_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_enr_lung",
+            "rewardMoneyCount": 200,
+            "stmExp": 200,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_activity_xiranite_hulu": {
+            "activityId": "activity_limited_formula_1",
+            "itemId": "item_activity_xiranite_hulu",
+            "rewardMoneyCount": 40,
+            "stmExp": 40,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_activity_xiranite_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_lung",
+            "rewardMoneyCount": 100,
+            "stmExp": 100,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_bottled_rec_hp_4": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_4",
+            "rewardMoneyCount": 16,
+            "stmExp": 16,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_4": {
+            "activityId": "",
+            "itemId": "item_proc_battery_4",
+            "rewardMoneyCount": 25,
+            "stmExp": 25,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_xiranite_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_powder",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m18d1",
+        "versionStart": "v0d8d0"
+      },
+      "2": {
+        "bandwidth": 50,
+        "battleBuildingLimit": 6,
+        "desc": {
+          "id": -4056745947970617570,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 1450000,
+        "moneyMax": 1250000,
+        "moneyPeriod": 215,
+        "recoItemId": "item_proc_battery_4",
+        "settlementPicId": "pic_stm_hongs_1_2",
+        "settlementTradeItemMap": {
+          "item_activity_xiranite_enr_hulu": {
+            "activityId": "activity_limited_formula_1",
+            "itemId": "item_activity_xiranite_enr_hulu",
+            "rewardMoneyCount": 120,
+            "stmExp": 120,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_activity_xiranite_enr_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_enr_lung",
+            "rewardMoneyCount": 200,
+            "stmExp": 200,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_activity_xiranite_hulu": {
+            "activityId": "activity_limited_formula_1",
+            "itemId": "item_activity_xiranite_hulu",
+            "rewardMoneyCount": 40,
+            "stmExp": 40,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_activity_xiranite_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_lung",
+            "rewardMoneyCount": 100,
+            "stmExp": 100,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_bottled_food_4": {
+            "activityId": "",
+            "itemId": "item_bottled_food_4",
+            "rewardMoneyCount": 16,
+            "stmExp": 16,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_4": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_4",
+            "rewardMoneyCount": 16,
+            "stmExp": 16,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_copper_cmpt": {
+            "activityId": "",
+            "itemId": "item_copper_cmpt",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v1d1d0"
+          },
+          "item_proc_battery_4": {
+            "activityId": "",
+            "itemId": "item_proc_battery_4",
+            "rewardMoneyCount": 25,
+            "stmExp": 25,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_xiranite_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_powder",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m18d2",
+        "versionStart": "v0d8d0"
+      },
+      "3": {
+        "bandwidth": 50,
+        "battleBuildingLimit": 6,
+        "desc": {
+          "id": -2217764868183613298,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 3000000,
+        "moneyMax": 2600000,
+        "moneyPeriod": 448,
+        "recoItemId": "item_bottled_rec_hp_5",
+        "settlementPicId": "pic_stm_hongs_1_3",
+        "settlementTradeItemMap": {
+          "item_activity_xiranite_enr_hulu": {
+            "activityId": "activity_limited_formula_1",
+            "itemId": "item_activity_xiranite_enr_hulu",
+            "rewardMoneyCount": 120,
+            "stmExp": 120,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_activity_xiranite_enr_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_enr_lung",
+            "rewardMoneyCount": 200,
+            "stmExp": 200,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_activity_xiranite_hulu": {
+            "activityId": "activity_limited_formula_1",
+            "itemId": "item_activity_xiranite_hulu",
+            "rewardMoneyCount": 40,
+            "stmExp": 40,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_activity_xiranite_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_lung",
+            "rewardMoneyCount": 100,
+            "stmExp": 100,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_bottled_food_4": {
+            "activityId": "",
+            "itemId": "item_bottled_food_4",
+            "rewardMoneyCount": 16,
+            "stmExp": 16,
+            "timeId": "",
+            "versionStart": "v1d1d0"
+          },
+          "item_bottled_rec_hp_4": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_4",
+            "rewardMoneyCount": 16,
+            "stmExp": 16,
+            "timeId": "",
+            "versionStart": "v1d1d0"
+          },
+          "item_bottled_rec_hp_5": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d1d0"
+          },
+          "item_copper_cmpt": {
+            "activityId": "",
+            "itemId": "item_copper_cmpt",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v1d1d0"
+          },
+          "item_copper_enr_cmpt": {
+            "activityId": "",
+            "itemId": "item_copper_enr_cmpt",
+            "rewardMoneyCount": 48,
+            "stmExp": 48,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_proc_battery_4": {
+            "activityId": "",
+            "itemId": "item_proc_battery_4",
+            "rewardMoneyCount": 25,
+            "stmExp": 25,
+            "timeId": "",
+            "versionStart": "v1d1d0"
+          },
+          "item_proc_battery_5": {
+            "activityId": "",
+            "itemId": "item_proc_battery_5",
+            "rewardMoneyCount": 54,
+            "stmExp": 54,
+            "timeId": "",
+            "versionStart": "v1d1d0"
+          },
+          "item_xiranite_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_powder",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v1d1d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m18d3",
+        "versionStart": "v1d1d0"
+      },
+      "4": {
+        "bandwidth": 70,
+        "battleBuildingLimit": 6,
+        "desc": {
+          "id": 8703024261046748057,
+          "text": ""
+        },
+        "isFinalMaxLevel": true,
+        "levelUpExp": 0,
+        "moneyMax": 3200000,
+        "moneyPeriod": 500,
+        "recoItemId": "item_proc_battery_5",
+        "settlementPicId": "pic_stm_hongs_1_4",
+        "settlementTradeItemMap": {
+          "item_activity_xiranite_enr_hulu": {
+            "activityId": "activity_limited_formula_1",
+            "itemId": "item_activity_xiranite_enr_hulu",
+            "rewardMoneyCount": 120,
+            "stmExp": 120,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_activity_xiranite_enr_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_enr_lung",
+            "rewardMoneyCount": 200,
+            "stmExp": 200,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_activity_xiranite_hulu": {
+            "activityId": "activity_limited_formula_1",
+            "itemId": "item_activity_xiranite_hulu",
+            "rewardMoneyCount": 40,
+            "stmExp": 40,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_activity_xiranite_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_lung",
+            "rewardMoneyCount": 100,
+            "stmExp": 100,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_bottled_food_4": {
+            "activityId": "",
+            "itemId": "item_bottled_food_4",
+            "rewardMoneyCount": 16,
+            "stmExp": 16,
+            "timeId": "",
+            "versionStart": "v1d3d0"
+          },
+          "item_bottled_food_5": {
+            "activityId": "",
+            "itemId": "item_bottled_food_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d3d0"
+          },
+          "item_bottled_rec_hp_4": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_4",
+            "rewardMoneyCount": 16,
+            "stmExp": 16,
+            "timeId": "",
+            "versionStart": "v1d3d0"
+          },
+          "item_bottled_rec_hp_5": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d3d0"
+          },
+          "item_copper_cmpt": {
+            "activityId": "",
+            "itemId": "item_copper_cmpt",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v1d3d0"
+          },
+          "item_copper_enr_cmpt": {
+            "activityId": "",
+            "itemId": "item_copper_enr_cmpt",
+            "rewardMoneyCount": 48,
+            "stmExp": 48,
+            "timeId": "",
+            "versionStart": "v1d3d0"
+          },
+          "item_proc_battery_4": {
+            "activityId": "",
+            "itemId": "item_proc_battery_4",
+            "rewardMoneyCount": 25,
+            "stmExp": 25,
+            "timeId": "",
+            "versionStart": "v1d3d0"
+          },
+          "item_proc_battery_5": {
+            "activityId": "",
+            "itemId": "item_proc_battery_5",
+            "rewardMoneyCount": 54,
+            "stmExp": 54,
+            "timeId": "",
+            "versionStart": "v1d3d0"
+          },
+          "item_xiranite_enr_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_enr_powder",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v1d3d0"
+          },
+          "item_xiranite_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_powder",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v1d3d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "",
+        "versionStart": "v1d3d0"
+      }
+    },
+    "settlementName": {
+      "id": 4954907070425864865,
+      "text": ""
+    },
+    "wantTagIdGroup": [
+      "stm_tag_hongs_1_1",
+      "stm_tag_hongs_1_2",
+      "stm_tag_hongs_1_3"
+    ]
+  },
+  "stm_hongs_2": {
+    "domainId": "domain_2",
+    "domainLevelId": "map02_lv004",
+    "facRegionIndex": 0,
+    "settlementColor": "07a7a7",
+    "settlementId": "stm_hongs_2",
+    "settlementLevelMap": {
+      "1": {
+        "bandwidth": 60,
+        "battleBuildingLimit": 3,
+        "desc": {
+          "id": 152576399616220934,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 320000,
+        "moneyMax": 280000,
+        "moneyPeriod": 55,
+        "recoItemId": "item_xiranite_enr_powder",
+        "settlementPicId": "pic_stm_hongs_2_1",
+        "settlementTradeItemMap": {
+          "item_activity_xiranite_enr_hulu": {
+            "activityId": "activity_limited_formula_1",
+            "itemId": "item_activity_xiranite_enr_hulu",
+            "rewardMoneyCount": 120,
+            "stmExp": 120,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_activity_xiranite_enr_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_enr_lung",
+            "rewardMoneyCount": 200,
+            "stmExp": 200,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_activity_xiranite_hulu": {
+            "activityId": "activity_limited_formula_1",
+            "itemId": "item_activity_xiranite_hulu",
+            "rewardMoneyCount": 40,
+            "stmExp": 40,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_activity_xiranite_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_lung",
+            "rewardMoneyCount": 100,
+            "stmExp": 100,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_bottled_food_5": {
+            "activityId": "",
+            "itemId": "item_bottled_food_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_bottled_rec_hp_5": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_proc_battery_4": {
+            "activityId": "",
+            "itemId": "item_proc_battery_4",
+            "rewardMoneyCount": 25,
+            "stmExp": 25,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_xiranite_enr_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_enr_powder",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_xiranite_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_powder",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m19d1",
+        "versionStart": "v1d2d0"
+      },
+      "2": {
+        "bandwidth": 60,
+        "battleBuildingLimit": 3,
+        "desc": {
+          "id": 5397577055959301949,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 800000,
+        "moneyMax": 720000,
+        "moneyPeriod": 140,
+        "recoItemId": "item_proc_battery_5",
+        "settlementPicId": "pic_stm_hongs_2_2",
+        "settlementTradeItemMap": {
+          "item_activity_xiranite_enr_hulu": {
+            "activityId": "activity_limited_formula_1",
+            "itemId": "item_activity_xiranite_enr_hulu",
+            "rewardMoneyCount": 120,
+            "stmExp": 120,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_activity_xiranite_enr_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_enr_lung",
+            "rewardMoneyCount": 200,
+            "stmExp": 200,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_activity_xiranite_hulu": {
+            "activityId": "activity_limited_formula_1",
+            "itemId": "item_activity_xiranite_hulu",
+            "rewardMoneyCount": 40,
+            "stmExp": 40,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_activity_xiranite_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_lung",
+            "rewardMoneyCount": 100,
+            "stmExp": 100,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_bottled_food_5": {
+            "activityId": "",
+            "itemId": "item_bottled_food_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_bottled_rec_hp_5": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_proc_battery_4": {
+            "activityId": "",
+            "itemId": "item_proc_battery_4",
+            "rewardMoneyCount": 25,
+            "stmExp": 25,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_proc_battery_5": {
+            "activityId": "",
+            "itemId": "item_proc_battery_5",
+            "rewardMoneyCount": 54,
+            "stmExp": 54,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_xiranite_enr_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_enr_powder",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_xiranite_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_powder",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m19d2",
+        "versionStart": "v1d2d0"
+      },
+      "3": {
+        "bandwidth": 60,
+        "battleBuildingLimit": 3,
+        "desc": {
+          "id": 4887269798278606095,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 1800000,
+        "moneyMax": 1600000,
+        "moneyPeriod": 325,
+        "recoItemId": "item_copper_enr_cmpt",
+        "settlementPicId": "pic_stm_hongs_2_3",
+        "settlementTradeItemMap": {
+          "item_activity_xiranite_enr_hulu": {
+            "activityId": "activity_limited_formula_1",
+            "itemId": "item_activity_xiranite_enr_hulu",
+            "rewardMoneyCount": 120,
+            "stmExp": 120,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_activity_xiranite_enr_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_enr_lung",
+            "rewardMoneyCount": 200,
+            "stmExp": 200,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_activity_xiranite_hulu": {
+            "activityId": "activity_limited_formula_1",
+            "itemId": "item_activity_xiranite_hulu",
+            "rewardMoneyCount": 40,
+            "stmExp": 40,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_activity_xiranite_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_lung",
+            "rewardMoneyCount": 100,
+            "stmExp": 100,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_bottled_food_5": {
+            "activityId": "",
+            "itemId": "item_bottled_food_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "time_syspoi_v1d2d1",
+            "versionStart": "v1d2d1"
+          },
+          "item_bottled_rec_hp_5": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "time_syspoi_v1d2d1",
+            "versionStart": "v1d2d1"
+          },
+          "item_copper_enr_cmpt": {
+            "activityId": "",
+            "itemId": "item_copper_enr_cmpt",
+            "rewardMoneyCount": 48,
+            "stmExp": 48,
+            "timeId": "time_syspoi_v1d2d1",
+            "versionStart": "v1d2d1"
+          },
+          "item_proc_battery_4": {
+            "activityId": "",
+            "itemId": "item_proc_battery_4",
+            "rewardMoneyCount": 25,
+            "stmExp": 25,
+            "timeId": "time_syspoi_v1d2d1",
+            "versionStart": "v1d2d1"
+          },
+          "item_proc_battery_5": {
+            "activityId": "",
+            "itemId": "item_proc_battery_5",
+            "rewardMoneyCount": 54,
+            "stmExp": 54,
+            "timeId": "time_syspoi_v1d2d1",
+            "versionStart": "v1d2d1"
+          },
+          "item_xiranite_enr_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_enr_powder",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "time_syspoi_v1d2d1",
+            "versionStart": "v1d2d1"
+          },
+          "item_xiranite_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_powder",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "time_syspoi_v1d2d1",
+            "versionStart": "v1d2d1"
+          }
+        },
+        "timeId": "time_syspoi_v1d2d1",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m19d3",
+        "versionStart": "v1d2d1"
+      },
+      "4": {
+        "bandwidth": 60,
+        "battleBuildingLimit": 3,
+        "desc": {
+          "id": 988480990223202877,
+          "text": ""
+        },
+        "isFinalMaxLevel": true,
+        "levelUpExp": 0,
+        "moneyMax": 2000000,
+        "moneyPeriod": 380,
+        "recoItemId": "item_copper_enr2_cmpt",
+        "settlementPicId": "pic_stm_hongs_2_4",
+        "settlementTradeItemMap": {
+          "item_activity_xiranite_enr_hulu": {
+            "activityId": "activity_limited_formula_1",
+            "itemId": "item_activity_xiranite_enr_hulu",
+            "rewardMoneyCount": 120,
+            "stmExp": 120,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_activity_xiranite_enr_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_enr_lung",
+            "rewardMoneyCount": 200,
+            "stmExp": 200,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_activity_xiranite_hulu": {
+            "activityId": "activity_limited_formula_1",
+            "itemId": "item_activity_xiranite_hulu",
+            "rewardMoneyCount": 40,
+            "stmExp": 40,
+            "timeId": "",
+            "versionStart": "v1d2d0"
+          },
+          "item_activity_xiranite_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_lung",
+            "rewardMoneyCount": 100,
+            "stmExp": 100,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_bottled_food_5": {
+            "activityId": "",
+            "itemId": "item_bottled_food_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_bottled_rec_hp_5": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_copper_enr2_cmpt": {
+            "activityId": "",
+            "itemId": "item_copper_enr2_cmpt",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_copper_enr_cmpt": {
+            "activityId": "",
+            "itemId": "item_copper_enr_cmpt",
+            "rewardMoneyCount": 48,
+            "stmExp": 48,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_proc_battery_4": {
+            "activityId": "",
+            "itemId": "item_proc_battery_4",
+            "rewardMoneyCount": 25,
+            "stmExp": 25,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_proc_battery_5": {
+            "activityId": "",
+            "itemId": "item_proc_battery_5",
+            "rewardMoneyCount": 54,
+            "stmExp": 54,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_xiranite_enr_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_enr_powder",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_xiranite_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_powder",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "",
+        "versionStart": "v1d4d0"
+      }
+    },
+    "settlementName": {
+      "id": 8530199970258623820,
+      "text": ""
+    },
+    "wantTagIdGroup": [
+      "stm_tag_hongs_2_1",
+      "stm_tag_hongs_2_2",
+      "stm_tag_hongs_2_3"
+    ]
+  },
+  "stm_hongs_3": {
+    "domainId": "domain_2",
+    "domainLevelId": "map02_lv007",
+    "facRegionIndex": 0,
+    "settlementColor": "07a7a7",
+    "settlementId": "stm_hongs_3",
+    "settlementLevelMap": {
+      "1": {
+        "bandwidth": 70,
+        "battleBuildingLimit": 4,
+        "desc": {
+          "id": 6974035137385365028,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 280000,
+        "moneyMax": 240000,
+        "moneyPeriod": 45,
+        "recoItemId": "item_copper_enr2_cmpt",
+        "settlementPicId": "pic_stm_hongs_3_1",
+        "settlementTradeItemMap": {
+          "item_activity_xiranite_enr_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_enr_lung",
+            "rewardMoneyCount": 200,
+            "stmExp": 200,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_activity_xiranite_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_lung",
+            "rewardMoneyCount": 100,
+            "stmExp": 100,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_bottled_food_5": {
+            "activityId": "",
+            "itemId": "item_bottled_food_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_bottled_rec_hp_5": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_copper_enr2_cmpt": {
+            "activityId": "",
+            "itemId": "item_copper_enr2_cmpt",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_filter_core": {
+            "activityId": "",
+            "itemId": "item_filter_core",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_proc_battery_5": {
+            "activityId": "",
+            "itemId": "item_proc_battery_5",
+            "rewardMoneyCount": 54,
+            "stmExp": 54,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_xiranite_enr_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_enr_powder",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_xiranite_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_powder",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m29d2",
+        "versionStart": "v1d4d0"
+      },
+      "2": {
+        "bandwidth": 70,
+        "battleBuildingLimit": 4,
+        "desc": {
+          "id": -5924163215870709033,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 660000,
+        "moneyMax": 600000,
+        "moneyPeriod": 105,
+        "recoItemId": "item_copper_enr2_cmpt",
+        "settlementPicId": "pic_stm_hongs_3_2",
+        "settlementTradeItemMap": {
+          "item_activity_xiranite_enr_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_enr_lung",
+            "rewardMoneyCount": 200,
+            "stmExp": 200,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_activity_xiranite_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_lung",
+            "rewardMoneyCount": 100,
+            "stmExp": 100,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_bottled_food_5": {
+            "activityId": "",
+            "itemId": "item_bottled_food_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_bottled_rec_hp_5": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_copper_enr2_cmpt": {
+            "activityId": "",
+            "itemId": "item_copper_enr2_cmpt",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_filter_core": {
+            "activityId": "",
+            "itemId": "item_filter_core",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_proc_battery_5": {
+            "activityId": "",
+            "itemId": "item_proc_battery_5",
+            "rewardMoneyCount": 54,
+            "stmExp": 54,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_xiranite_enr_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_enr_powder",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_xiranite_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_powder",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m29d3",
+        "versionStart": "v1d4d0"
+      },
+      "3": {
+        "bandwidth": 70,
+        "battleBuildingLimit": 4,
+        "desc": {
+          "id": 6003702318973065400,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 1600000,
+        "moneyMax": 1400000,
+        "moneyPeriod": 240,
+        "recoItemId": "item_copper_enr2_cmpt",
+        "settlementPicId": "pic_stm_hongs_3_3",
+        "settlementTradeItemMap": {
+          "item_activity_xiranite_enr_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_enr_lung",
+            "rewardMoneyCount": 200,
+            "stmExp": 200,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_activity_xiranite_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_lung",
+            "rewardMoneyCount": 100,
+            "stmExp": 100,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_bottled_food_5": {
+            "activityId": "",
+            "itemId": "item_bottled_food_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_bottled_rec_hp_5": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_copper_enr2_cmpt": {
+            "activityId": "",
+            "itemId": "item_copper_enr2_cmpt",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_filter_core": {
+            "activityId": "",
+            "itemId": "item_filter_core",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_proc_battery_5": {
+            "activityId": "",
+            "itemId": "item_proc_battery_5",
+            "rewardMoneyCount": 54,
+            "stmExp": 54,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_xiranite_enr_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_enr_powder",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          },
+          "item_xiranite_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_powder",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v1d4d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m29d4",
+        "versionStart": "v1d4d0"
+      },
+      "4": {
+        "bandwidth": 70,
+        "battleBuildingLimit": 4,
+        "desc": {
+          "id": -6989755799235939674,
+          "text": ""
+        },
+        "isFinalMaxLevel": true,
+        "levelUpExp": 0,
+        "moneyMax": 2500000,
+        "moneyPeriod": 400,
+        "recoItemId": "item_copper_enr2_cmpt",
+        "settlementPicId": "pic_stm_hongs_3_4",
+        "settlementTradeItemMap": {
+          "item_activity_xiranite_enr_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_enr_lung",
+            "rewardMoneyCount": 200,
+            "stmExp": 200,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_activity_xiranite_lung": {
+            "activityId": "activity_limited_formula_2",
+            "itemId": "item_activity_xiranite_lung",
+            "rewardMoneyCount": 100,
+            "stmExp": 100,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_bottled_food_5": {
+            "activityId": "",
+            "itemId": "item_bottled_food_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_bottled_rec_hp_5": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_5",
+            "rewardMoneyCount": 22,
+            "stmExp": 22,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_copper_enr2_cmpt": {
+            "activityId": "",
+            "itemId": "item_copper_enr2_cmpt",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_filter_core": {
+            "activityId": "",
+            "itemId": "item_filter_core",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_proc_battery_5": {
+            "activityId": "",
+            "itemId": "item_proc_battery_5",
+            "rewardMoneyCount": 54,
+            "stmExp": 54,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_xiranite_enr_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_enr_powder",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          },
+          "item_xiranite_powder": {
+            "activityId": "",
+            "itemId": "item_xiranite_powder",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v1d5d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "",
+        "versionStart": "v1d5d0"
+      }
+    },
+    "settlementName": {
+      "id": 6886009523313352459,
+      "text": ""
+    },
+    "wantTagIdGroup": [
+      "stm_tag_hongs_3_1",
+      "stm_tag_hongs_3_2",
+      "stm_tag_hongs_3_3"
+    ]
+  },
+  "stm_tundra_1": {
+    "domainId": "domain_1",
+    "domainLevelId": "map01_lv002",
+    "facRegionIndex": 0,
+    "settlementColor": "dfef36",
+    "settlementId": "stm_tundra_1",
+    "settlementLevelMap": {
+      "1": {
+        "bandwidth": 50,
+        "battleBuildingLimit": 3,
+        "desc": {
+          "id": -9030344180086573381,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 12000,
+        "moneyMax": 18000,
+        "moneyPeriod": 49,
+        "recoItemId": "item_bottled_rec_hp_1",
+        "settlementPicId": "pic_stm_tundra_1_1",
+        "settlementTradeItemMap": {
+          "item_bottled_rec_hp_1": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_1",
+            "rewardMoneyCount": 10,
+            "stmExp": 10,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_crystal_shell": {
+            "activityId": "",
+            "itemId": "item_crystal_shell",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_glass_bottle": {
+            "activityId": "",
+            "itemId": "item_glass_bottle",
+            "rewardMoneyCount": 2,
+            "stmExp": 2,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_glass_cmpt": {
+            "activityId": "",
+            "itemId": "item_glass_cmpt",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m4d1",
+        "versionStart": "v0d8d0"
+      },
+      "2": {
+        "bandwidth": 50,
+        "battleBuildingLimit": 3,
+        "desc": {
+          "id": -7643943058931225824,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 163000,
+        "moneyMax": 125000,
+        "moneyPeriod": 70,
+        "recoItemId": "item_bottled_rec_hp_2",
+        "settlementPicId": "pic_stm_tundra_1_2",
+        "settlementTradeItemMap": {
+          "item_bottled_food_1": {
+            "activityId": "",
+            "itemId": "item_bottled_food_1",
+            "rewardMoneyCount": 10,
+            "stmExp": 10,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_1": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_1",
+            "rewardMoneyCount": 10,
+            "stmExp": 10,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_2": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_2",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_crystal_shell": {
+            "activityId": "",
+            "itemId": "item_crystal_shell",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_glass_bottle": {
+            "activityId": "",
+            "itemId": "item_glass_bottle",
+            "rewardMoneyCount": 2,
+            "stmExp": 2,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_glass_cmpt": {
+            "activityId": "",
+            "itemId": "item_glass_cmpt",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_2": {
+            "activityId": "",
+            "itemId": "item_proc_battery_2",
+            "rewardMoneyCount": 30,
+            "stmExp": 30,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m4d2",
+        "versionStart": "v0d8d0"
+      },
+      "3": {
+        "bandwidth": 50,
+        "battleBuildingLimit": 3,
+        "desc": {
+          "id": -6303168408977645375,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 917000,
+        "moneyMax": 420000,
+        "moneyPeriod": 222,
+        "recoItemId": "item_bottled_rec_hp_3",
+        "settlementPicId": "pic_stm_tundra_1_3",
+        "settlementTradeItemMap": {
+          "item_bottled_food_1": {
+            "activityId": "",
+            "itemId": "item_bottled_food_1",
+            "rewardMoneyCount": 10,
+            "stmExp": 10,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_food_2": {
+            "activityId": "",
+            "itemId": "item_bottled_food_2",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_1": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_1",
+            "rewardMoneyCount": 10,
+            "stmExp": 10,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_2": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_2",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_3": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_crystal_shell": {
+            "activityId": "",
+            "itemId": "item_crystal_shell",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_glass_bottle": {
+            "activityId": "",
+            "itemId": "item_glass_bottle",
+            "rewardMoneyCount": 2,
+            "stmExp": 2,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_glass_cmpt": {
+            "activityId": "",
+            "itemId": "item_glass_cmpt",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_2": {
+            "activityId": "",
+            "itemId": "item_proc_battery_2",
+            "rewardMoneyCount": 30,
+            "stmExp": 30,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_3": {
+            "activityId": "",
+            "itemId": "item_proc_battery_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m4d3",
+        "versionStart": "v0d8d0"
+      },
+      "4": {
+        "bandwidth": 50,
+        "battleBuildingLimit": 3,
+        "desc": {
+          "id": -7407550277412132054,
+          "text": ""
+        },
+        "isFinalMaxLevel": true,
+        "levelUpExp": 0,
+        "moneyMax": 2200000,
+        "moneyPeriod": 347,
+        "recoItemId": "item_bottled_rec_hp_3",
+        "settlementPicId": "pic_stm_tundra_1_4",
+        "settlementTradeItemMap": {
+          "item_bottled_food_1": {
+            "activityId": "",
+            "itemId": "item_bottled_food_1",
+            "rewardMoneyCount": 10,
+            "stmExp": 10,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_food_2": {
+            "activityId": "",
+            "itemId": "item_bottled_food_2",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_food_3": {
+            "activityId": "",
+            "itemId": "item_bottled_food_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_1": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_1",
+            "rewardMoneyCount": 10,
+            "stmExp": 10,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_2": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_2",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_3": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_crystal_shell": {
+            "activityId": "",
+            "itemId": "item_crystal_shell",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_glass_bottle": {
+            "activityId": "",
+            "itemId": "item_glass_bottle",
+            "rewardMoneyCount": 2,
+            "stmExp": 2,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_glass_cmpt": {
+            "activityId": "",
+            "itemId": "item_glass_cmpt",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_2": {
+            "activityId": "",
+            "itemId": "item_proc_battery_2",
+            "rewardMoneyCount": 30,
+            "stmExp": 30,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_3": {
+            "activityId": "",
+            "itemId": "item_proc_battery_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "",
+        "versionStart": "v0d8d0"
+      }
+    },
+    "settlementName": {
+      "id": -4547946061020742596,
+      "text": ""
+    },
+    "wantTagIdGroup": [
+      "stm_tag_tundra_1_1",
+      "stm_tag_tundra_1_2",
+      "stm_tag_tundra_1_3"
+    ]
+  },
+  "stm_tundra_2": {
+    "domainId": "domain_1",
+    "domainLevelId": "map01_lv005",
+    "facRegionIndex": 0,
+    "settlementColor": "dfef36",
+    "settlementId": "stm_tundra_2",
+    "settlementLevelMap": {
+      "1": {
+        "bandwidth": 50,
+        "battleBuildingLimit": 7,
+        "desc": {
+          "id": 8616422450636568178,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 75000,
+        "moneyMax": 120000,
+        "moneyPeriod": 71,
+        "recoItemId": "item_proc_battery_1",
+        "settlementPicId": "pic_stm_tundra_2_1",
+        "settlementTradeItemMap": {
+          "item_iron_cmpt": {
+            "activityId": "",
+            "itemId": "item_iron_cmpt",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_1": {
+            "activityId": "",
+            "itemId": "item_proc_battery_1",
+            "rewardMoneyCount": 16,
+            "stmExp": 16,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m9d2",
+        "versionStart": "v0d8d0"
+      },
+      "2": {
+        "bandwidth": 50,
+        "battleBuildingLimit": 7,
+        "desc": {
+          "id": -1052243853005337522,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 378000,
+        "moneyMax": 680000,
+        "moneyPeriod": 190,
+        "recoItemId": "item_proc_battery_2",
+        "settlementPicId": "pic_stm_tundra_2_2",
+        "settlementTradeItemMap": {
+          "item_bottled_rec_hp_2": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_2",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_iron_cmpt": {
+            "activityId": "",
+            "itemId": "item_iron_cmpt",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_1": {
+            "activityId": "",
+            "itemId": "item_proc_battery_1",
+            "rewardMoneyCount": 16,
+            "stmExp": 16,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_2": {
+            "activityId": "",
+            "itemId": "item_proc_battery_2",
+            "rewardMoneyCount": 30,
+            "stmExp": 30,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m9d3",
+        "versionStart": "v0d8d0"
+      },
+      "3": {
+        "bandwidth": 50,
+        "battleBuildingLimit": 7,
+        "desc": {
+          "id": -5556191835798100451,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 1566000,
+        "moneyMax": 2100000,
+        "moneyPeriod": 376,
+        "recoItemId": "item_proc_battery_3",
+        "settlementPicId": "pic_stm_tundra_2_3",
+        "settlementTradeItemMap": {
+          "item_bottled_rec_hp_2": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_2",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_3": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_iron_cmpt": {
+            "activityId": "",
+            "itemId": "item_iron_cmpt",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_1": {
+            "activityId": "",
+            "itemId": "item_proc_battery_1",
+            "rewardMoneyCount": 16,
+            "stmExp": 16,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_2": {
+            "activityId": "",
+            "itemId": "item_proc_battery_2",
+            "rewardMoneyCount": 30,
+            "stmExp": 30,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_3": {
+            "activityId": "",
+            "itemId": "item_proc_battery_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m9d4",
+        "versionStart": "v0d8d0"
+      },
+      "4": {
+        "bandwidth": 50,
+        "battleBuildingLimit": 7,
+        "desc": {
+          "id": 6483467435449888664,
+          "text": ""
+        },
+        "isFinalMaxLevel": true,
+        "levelUpExp": 0,
+        "moneyMax": 3000000,
+        "moneyPeriod": 464,
+        "recoItemId": "item_proc_battery_3",
+        "settlementPicId": "pic_stm_tundra_2_4",
+        "settlementTradeItemMap": {
+          "item_bottled_food_1": {
+            "activityId": "",
+            "itemId": "item_bottled_food_1",
+            "rewardMoneyCount": 10,
+            "stmExp": 10,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_food_2": {
+            "activityId": "",
+            "itemId": "item_bottled_food_2",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_food_3": {
+            "activityId": "",
+            "itemId": "item_bottled_food_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_2": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_2",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_3": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_iron_cmpt": {
+            "activityId": "",
+            "itemId": "item_iron_cmpt",
+            "rewardMoneyCount": 1,
+            "stmExp": 1,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_1": {
+            "activityId": "",
+            "itemId": "item_proc_battery_1",
+            "rewardMoneyCount": 16,
+            "stmExp": 16,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_2": {
+            "activityId": "",
+            "itemId": "item_proc_battery_2",
+            "rewardMoneyCount": 30,
+            "stmExp": 30,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_3": {
+            "activityId": "",
+            "itemId": "item_proc_battery_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "",
+        "versionStart": "v0d8d0"
+      }
+    },
+    "settlementName": {
+      "id": 7019646896673462749,
+      "text": ""
+    },
+    "wantTagIdGroup": [
+      "stm_tag_tundra_2_1",
+      "stm_tag_tundra_2_2",
+      "stm_tag_tundra_2_3"
+    ]
+  },
+  "stm_tundra_3": {
+    "domainId": "domain_1",
+    "domainLevelId": "map01_lv007",
+    "facRegionIndex": 0,
+    "settlementColor": "dfef36",
+    "settlementId": "stm_tundra_3",
+    "settlementLevelMap": {
+      "1": {
+        "bandwidth": 50,
+        "battleBuildingLimit": 3,
+        "desc": {
+          "id": 8552815175396870693,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 49000,
+        "moneyMax": 220000,
+        "moneyPeriod": 123,
+        "recoItemId": "item_bottled_rec_hp_2",
+        "settlementPicId": "pic_stm_tundra_3_1",
+        "settlementTradeItemMap": {
+          "item_bottled_rec_hp_2": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_2",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_iron_enr_cmpt": {
+            "activityId": "",
+            "itemId": "item_iron_enr_cmpt",
+            "rewardMoneyCount": 3,
+            "stmExp": 3,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_2": {
+            "activityId": "",
+            "itemId": "item_proc_battery_2",
+            "rewardMoneyCount": 30,
+            "stmExp": 30,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m7d2",
+        "versionStart": "v0d8d0"
+      },
+      "2": {
+        "bandwidth": 50,
+        "battleBuildingLimit": 3,
+        "desc": {
+          "id": -6139854327795955419,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 326000,
+        "moneyMax": 1000000,
+        "moneyPeriod": 289,
+        "recoItemId": "item_bottled_rec_hp_3",
+        "settlementPicId": "pic_stm_tundra_3_2",
+        "settlementTradeItemMap": {
+          "item_bottled_rec_hp_2": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_2",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_3": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_iron_enr_cmpt": {
+            "activityId": "",
+            "itemId": "item_iron_enr_cmpt",
+            "rewardMoneyCount": 3,
+            "stmExp": 3,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_2": {
+            "activityId": "",
+            "itemId": "item_proc_battery_2",
+            "rewardMoneyCount": 30,
+            "stmExp": 30,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_3": {
+            "activityId": "",
+            "itemId": "item_proc_battery_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m7d3",
+        "versionStart": "v0d8d0"
+      },
+      "3": {
+        "bandwidth": 50,
+        "battleBuildingLimit": 3,
+        "desc": {
+          "id": 6857733269539898124,
+          "text": ""
+        },
+        "isFinalMaxLevel": false,
+        "levelUpExp": 1408000,
+        "moneyMax": 2400000,
+        "moneyPeriod": 436,
+        "recoItemId": "item_bottled_rec_hp_3",
+        "settlementPicId": "pic_stm_tundra_3_3",
+        "settlementTradeItemMap": {
+          "item_bottled_food_1": {
+            "activityId": "",
+            "itemId": "item_bottled_food_1",
+            "rewardMoneyCount": 10,
+            "stmExp": 10,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_food_2": {
+            "activityId": "",
+            "itemId": "item_bottled_food_2",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_food_3": {
+            "activityId": "",
+            "itemId": "item_bottled_food_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_2": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_2",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_3": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_iron_enr_cmpt": {
+            "activityId": "",
+            "itemId": "item_iron_enr_cmpt",
+            "rewardMoneyCount": 3,
+            "stmExp": 3,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_2": {
+            "activityId": "",
+            "itemId": "item_proc_battery_2",
+            "rewardMoneyCount": 30,
+            "stmExp": 30,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_3": {
+            "activityId": "",
+            "itemId": "item_proc_battery_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "f1m7d4",
+        "versionStart": "v0d8d0"
+      },
+      "4": {
+        "bandwidth": 50,
+        "battleBuildingLimit": 3,
+        "desc": {
+          "id": 4186437554824177482,
+          "text": ""
+        },
+        "isFinalMaxLevel": true,
+        "levelUpExp": 0,
+        "moneyMax": 3800000,
+        "moneyPeriod": 714,
+        "recoItemId": "item_bottled_rec_hp_3",
+        "settlementPicId": "pic_stm_tundra_3_4",
+        "settlementTradeItemMap": {
+          "item_bottled_food_1": {
+            "activityId": "",
+            "itemId": "item_bottled_food_1",
+            "rewardMoneyCount": 10,
+            "stmExp": 10,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_food_2": {
+            "activityId": "",
+            "itemId": "item_bottled_food_2",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_food_3": {
+            "activityId": "",
+            "itemId": "item_bottled_food_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_2": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_2",
+            "rewardMoneyCount": 27,
+            "stmExp": 27,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_bottled_rec_hp_3": {
+            "activityId": "",
+            "itemId": "item_bottled_rec_hp_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_iron_enr_cmpt": {
+            "activityId": "",
+            "itemId": "item_iron_enr_cmpt",
+            "rewardMoneyCount": 3,
+            "stmExp": 3,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_2": {
+            "activityId": "",
+            "itemId": "item_proc_battery_2",
+            "rewardMoneyCount": 30,
+            "stmExp": 30,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          },
+          "item_proc_battery_3": {
+            "activityId": "",
+            "itemId": "item_proc_battery_3",
+            "rewardMoneyCount": 70,
+            "stmExp": 70,
+            "timeId": "",
+            "versionStart": "v0d8d0"
+          }
+        },
+        "timeId": "",
+        "travelPoleLimit": 5,
+        "upgradeMissionId": "",
+        "versionStart": "v0d8d0"
+      }
+    },
+    "settlementName": {
+      "id": -2843397141254147690,
+      "text": ""
+    },
+    "wantTagIdGroup": [
+      "stm_tag_tundra_3_1",
+      "stm_tag_tundra_3_2",
+      "stm_tag_tundra_3_3"
+    ]
+  }
+}

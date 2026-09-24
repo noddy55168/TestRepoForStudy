@@ -1,0 +1,34 @@
+{
+  "ia_001": {
+    "count": 1,
+    "id": "ia_001",
+    "idParam1": "testTemplateId",
+    "idParam2": "",
+    "identifyLevel": 0,
+    "state": -1
+  },
+  "ia_002": {
+    "count": 1,
+    "id": "ia_002",
+    "idParam1": "testParentTemplateId",
+    "idParam2": "",
+    "identifyLevel": 1,
+    "state": -1
+  },
+  "ia_003": {
+    "count": 1,
+    "id": "ia_003",
+    "idParam1": "parentScriptId",
+    "idParam2": "parentScriptSlotId",
+    "identifyLevel": 2,
+    "state": -1
+  },
+  "ia_kitestation_002_12": {
+    "count": 1,
+    "id": "ia_kitestation_002_12",
+    "idParam1": "int_drop_muck_feces_1",
+    "idParam2": "",
+    "identifyLevel": 0,
+    "state": -1
+  }
+}

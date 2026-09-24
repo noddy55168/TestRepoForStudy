@@ -1,0 +1,344 @@
+{
+  "condition_crystal_ball_1_1": {
+    "compareOperator": 3,
+    "conditionId": "condition_crystal_ball_1_1",
+    "conditionType": 19,
+    "desc": {
+      "id": 1893995142068295424,
+      "text": ""
+    },
+    "parameters": [
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": null,
+        "valueIntList": null,
+        "valueStringList": [
+          "c34m3"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          0.0
+        ],
+        "valueIntList": [
+          0
+        ],
+        "valueStringList": [
+          "0"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          3.0
+        ],
+        "valueIntList": [
+          3
+        ],
+        "valueStringList": [
+          "3"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      }
+    ],
+    "progressToCompare": 1,
+    "title": {
+      "id": -8967212688924104437,
+      "text": ""
+    }
+  },
+  "condition_crystal_ball_1_2": {
+    "compareOperator": 3,
+    "conditionId": "condition_crystal_ball_1_2",
+    "conditionType": 19,
+    "desc": {
+      "id": 3631339412701685107,
+      "text": ""
+    },
+    "parameters": [
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": null,
+        "valueIntList": null,
+        "valueStringList": [
+          "c34m3"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          0.0
+        ],
+        "valueIntList": [
+          0
+        ],
+        "valueStringList": [
+          "0"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          2.0
+        ],
+        "valueIntList": [
+          2
+        ],
+        "valueStringList": [
+          "2"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      }
+    ],
+    "progressToCompare": 1,
+    "title": {
+      "id": -2408166191877093144,
+      "text": ""
+    }
+  },
+  "condition_e10m5_1": {
+    "compareOperator": 3,
+    "conditionId": "condition_e10m5_1",
+    "conditionType": 19,
+    "desc": {
+      "id": -1697038737221111802,
+      "text": ""
+    },
+    "parameters": [
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": null,
+        "valueIntList": null,
+        "valueStringList": [
+          "e10m5"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          0.0
+        ],
+        "valueIntList": [
+          0
+        ],
+        "valueStringList": [
+          "0"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          3.0
+        ],
+        "valueIntList": [
+          3
+        ],
+        "valueStringList": [
+          "3"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      }
+    ],
+    "progressToCompare": 1,
+    "title": {
+      "id": -3928204029203076281,
+      "text": ""
+    }
+  },
+  "condition_e11m8_1": {
+    "compareOperator": 3,
+    "conditionId": "condition_e11m8_1",
+    "conditionType": 19,
+    "desc": {
+      "id": 7797312471784064250,
+      "text": ""
+    },
+    "parameters": [
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": null,
+        "valueIntList": null,
+        "valueStringList": [
+          "e11m8"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          0.0
+        ],
+        "valueIntList": [
+          0
+        ],
+        "valueStringList": [
+          "0"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          3.0
+        ],
+        "valueIntList": [
+          3
+        ],
+        "valueStringList": [
+          "3"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      }
+    ],
+    "progressToCompare": 1,
+    "title": {
+      "id": 462891363863432515,
+      "text": ""
+    }
+  },
+  "condition_e5m1_1": {
+    "compareOperator": 3,
+    "conditionId": "condition_e5m1_1",
+    "conditionType": 19,
+    "desc": {
+      "id": 9164598873421754088,
+      "text": ""
+    },
+    "parameters": [
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": null,
+        "valueIntList": null,
+        "valueStringList": [
+          "e5m1"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          0.0
+        ],
+        "valueIntList": [
+          0
+        ],
+        "valueStringList": [
+          "0"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          3.0
+        ],
+        "valueIntList": [
+          3
+        ],
+        "valueStringList": [
+          "3"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      }
+    ],
+    "progressToCompare": 1,
+    "title": {
+      "id": -3374404757697077928,
+      "text": ""
+    }
+  },
+  "condition_pear_blossom_bonsai_1_1": {
+    "compareOperator": 3,
+    "conditionId": "condition_pear_blossom_bonsai_1_1",
+    "conditionType": 19,
+    "desc": {
+      "id": 8586553889931799059,
+      "text": ""
+    },
+    "parameters": [
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": null,
+        "valueIntList": null,
+        "valueStringList": [
+          "e10m4"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          0.0
+        ],
+        "valueIntList": [
+          0
+        ],
+        "valueStringList": [
+          "0"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          3.0
+        ],
+        "valueIntList": [
+          3
+        ],
+        "valueStringList": [
+          "3"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      }
+    ],
+    "progressToCompare": 1,
+    "title": {
+      "id": -4333270811883940446,
+      "text": ""
+    }
+  }
+}

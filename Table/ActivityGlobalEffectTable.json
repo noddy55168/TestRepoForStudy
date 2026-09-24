@@ -1,0 +1,17 @@
+{
+  "activity_stamina_reduce_1": {
+    "globalEffectIds": [
+      "stamina_reduce_in_actvity"
+    ]
+  },
+  "activity_stamina_reduce_v1d1_1": {
+    "globalEffectIds": [
+      "stamina_reduce_in_actvity"
+    ]
+  },
+  "activity_stamina_reduce_v1d1_2": {
+    "globalEffectIds": [
+      "stamina_reduce_in_actvity"
+    ]
+  }
+}
