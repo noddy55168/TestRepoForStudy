@@ -65145,6 +65145,2053 @@
     },
     "weaponType": 5
   },
+  "chr_0038_purrche": {
+    "charBreakCostMap": {
+      "charBreak20": {
+        "breakStage": 1,
+        "charId": "chr_0038_purrche",
+        "description": {
+          "id": -527912457967417758,
+          "text": ""
+        },
+        "equipTierLimit": 2,
+        "name": {
+          "id": -1774467596782418505,
+          "text": ""
+        },
+        "nodeId": "charBreak20",
+        "nodeType": 1,
+        "requiredItem": [
+          {
+            "count": 8,
+            "id": "item_char_break_stage_1_2"
+          },
+          {
+            "count": 3,
+            "id": "item_plant_mushroom_1_1"
+          },
+          {
+            "count": 1600,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "charBreak40": {
+        "breakStage": 2,
+        "charId": "chr_0038_purrche",
+        "description": {
+          "id": -7160500243777314245,
+          "text": ""
+        },
+        "equipTierLimit": 3,
+        "name": {
+          "id": -2358581651675329291,
+          "text": ""
+        },
+        "nodeId": "charBreak40",
+        "nodeType": 1,
+        "requiredItem": [
+          {
+            "count": 25,
+            "id": "item_char_break_stage_1_2"
+          },
+          {
+            "count": 5,
+            "id": "item_plant_mushroom_1_2"
+          },
+          {
+            "count": 6500,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "charBreak60": {
+        "breakStage": 3,
+        "charId": "chr_0038_purrche",
+        "description": {
+          "id": -8072008352536048707,
+          "text": ""
+        },
+        "equipTierLimit": 4,
+        "name": {
+          "id": 2936814789940501382,
+          "text": ""
+        },
+        "nodeId": "charBreak60",
+        "nodeType": 1,
+        "requiredItem": [
+          {
+            "count": 24,
+            "id": "item_char_break_stage_3_4"
+          },
+          {
+            "count": 5,
+            "id": "item_plant_mushroom_1_3"
+          },
+          {
+            "count": 18000,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "charBreak70": {
+        "breakStage": 4,
+        "charId": "chr_0038_purrche",
+        "description": {
+          "id": -7944335117452645591,
+          "text": ""
+        },
+        "equipTierLimit": 5,
+        "name": {
+          "id": 9135719202316782062,
+          "text": ""
+        },
+        "nodeId": "charBreak70",
+        "nodeType": 1,
+        "requiredItem": [
+          {
+            "count": 36,
+            "id": "item_char_break_stage_3_4"
+          },
+          {
+            "count": 20,
+            "id": "item_char_skill_specialize_2"
+          },
+          {
+            "count": 8,
+            "id": "item_plant_mushroom_2_3"
+          },
+          {
+            "count": 100000,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "equipBreakT2": {
+        "breakStage": 1,
+        "charId": "chr_0038_purrche",
+        "description": {
+          "id": -5176609725858003617,
+          "text": ""
+        },
+        "equipTierLimit": 3,
+        "name": {
+          "id": 8635060892423858790,
+          "text": ""
+        },
+        "nodeId": "equipBreakT2",
+        "nodeType": 2,
+        "requiredItem": [
+          {
+            "count": 1600,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "equipBreakT3": {
+        "breakStage": 2,
+        "charId": "chr_0038_purrche",
+        "description": {
+          "id": 7485754848407035779,
+          "text": ""
+        },
+        "equipTierLimit": 4,
+        "name": {
+          "id": 992039302469340306,
+          "text": ""
+        },
+        "nodeId": "equipBreakT3",
+        "nodeType": 2,
+        "requiredItem": [
+          {
+            "count": 6500,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "equipBreakT4": {
+        "breakStage": 3,
+        "charId": "chr_0038_purrche",
+        "description": {
+          "id": -3213098528559678363,
+          "text": ""
+        },
+        "equipTierLimit": 5,
+        "name": {
+          "id": 4217413728117015313,
+          "text": ""
+        },
+        "nodeId": "equipBreakT4",
+        "nodeType": 2,
+        "requiredItem": [
+          {
+            "count": 18000,
+            "id": "item_gold"
+          }
+        ]
+      }
+    },
+    "charId": "chr_0038_purrche",
+    "charTypeId": "Physical",
+    "defaultWeaponId": "wpn_sword_0003",
+    "engName": "Purrchena",
+    "mainAttrType": 39,
+    "name": {
+      "id": 3230859928664315327,
+      "text": ""
+    },
+    "profession": 2,
+    "rarity": 5,
+    "skillGroupMap": {
+      "chr_0038_purrche_ComboSkill": {
+        "conditionDesc1": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionDesc2": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionDescInactive1": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionDescInactive2": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionIcon1": "",
+        "conditionIcon2": "",
+        "conditionId1": "",
+        "conditionId2": "",
+        "conditionName1": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionName2": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionPostDesc1": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionPostDesc2": {
+          "id": 0,
+          "text": ""
+        },
+        "desc": {
+          "id": -614921040804590973,
+          "text": ""
+        },
+        "icon": "icon_combo_skill_purrche_01",
+        "name": {
+          "id": 2694692363200242025,
+          "text": ""
+        },
+        "skillGroupId": "chr_0038_purrche_ComboSkill",
+        "skillGroupType": 3,
+        "skillIdList": [
+          "chr_0038_purrche_combo_skill"
+        ]
+      },
+      "chr_0038_purrche_NormalAttack": {
+        "conditionDesc1": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionDesc2": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionDescInactive1": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionDescInactive2": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionIcon1": "",
+        "conditionIcon2": "",
+        "conditionId1": "",
+        "conditionId2": "",
+        "conditionName1": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionName2": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionPostDesc1": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionPostDesc2": {
+          "id": 0,
+          "text": ""
+        },
+        "desc": {
+          "id": 3569108544722513438,
+          "text": ""
+        },
+        "icon": "icon_attack_sword",
+        "name": {
+          "id": -1332473603174414136,
+          "text": ""
+        },
+        "skillGroupId": "chr_0038_purrche_NormalAttack",
+        "skillGroupType": 0,
+        "skillIdList": [
+          "chr_0038_purrche_attack1",
+          "chr_0038_purrche_attack2",
+          "chr_0038_purrche_attack3",
+          "chr_0038_purrche_power_attack",
+          "chr_0038_purrche_plunging_attack_end"
+        ]
+      },
+      "chr_0038_purrche_NormalSkill": {
+        "conditionDesc1": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionDesc2": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionDescInactive1": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionDescInactive2": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionIcon1": "",
+        "conditionIcon2": "",
+        "conditionId1": "",
+        "conditionId2": "",
+        "conditionName1": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionName2": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionPostDesc1": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionPostDesc2": {
+          "id": 0,
+          "text": ""
+        },
+        "desc": {
+          "id": 5525967544908668997,
+          "text": ""
+        },
+        "icon": "icon_skill_purrche_01",
+        "name": {
+          "id": 1254480317205645352,
+          "text": ""
+        },
+        "skillGroupId": "chr_0038_purrche_NormalSkill",
+        "skillGroupType": 1,
+        "skillIdList": [
+          "chr_0038_purrche_normal_skill",
+          "chr_0038_purrche_normal_skill_counter"
+        ]
+      },
+      "chr_0038_purrche_UltimateSkill": {
+        "conditionDesc1": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionDesc2": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionDescInactive1": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionDescInactive2": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionIcon1": "",
+        "conditionIcon2": "",
+        "conditionId1": "",
+        "conditionId2": "",
+        "conditionName1": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionName2": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionPostDesc1": {
+          "id": 0,
+          "text": ""
+        },
+        "conditionPostDesc2": {
+          "id": 0,
+          "text": ""
+        },
+        "desc": {
+          "id": 8714557164958825960,
+          "text": ""
+        },
+        "icon": "icon_ultimate_skill_purrche_01",
+        "name": {
+          "id": 5780394128076861612,
+          "text": ""
+        },
+        "skillGroupId": "chr_0038_purrche_UltimateSkill",
+        "skillGroupType": 2,
+        "skillIdList": [
+          "chr_0038_purrche_ultimate_skill"
+        ]
+      }
+    },
+    "skillLevelUp": [
+      {
+        "goldCost": 1000,
+        "itemBundle": [
+          {
+            "count": 6,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_1"
+          }
+        ],
+        "level": 2,
+        "skillGroupId": "chr_0038_purrche_NormalSkill"
+      },
+      {
+        "goldCost": 2700,
+        "itemBundle": [
+          {
+            "count": 12,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 2,
+            "id": "item_plant_crylplant_1_1"
+          }
+        ],
+        "level": 3,
+        "skillGroupId": "chr_0038_purrche_NormalSkill"
+      },
+      {
+        "goldCost": 3200,
+        "itemBundle": [
+          {
+            "count": 16,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_2"
+          }
+        ],
+        "level": 4,
+        "skillGroupId": "chr_0038_purrche_NormalSkill"
+      },
+      {
+        "goldCost": 4200,
+        "itemBundle": [
+          {
+            "count": 21,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_2"
+          }
+        ],
+        "level": 5,
+        "skillGroupId": "chr_0038_purrche_NormalSkill"
+      },
+      {
+        "goldCost": 5400,
+        "itemBundle": [
+          {
+            "count": 27,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 2,
+            "id": "item_plant_crylplant_1_2"
+          }
+        ],
+        "level": 6,
+        "skillGroupId": "chr_0038_purrche_NormalSkill"
+      },
+      {
+        "goldCost": 8200,
+        "itemBundle": [
+          {
+            "count": 6,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_3"
+          }
+        ],
+        "level": 7,
+        "skillGroupId": "chr_0038_purrche_NormalSkill"
+      },
+      {
+        "goldCost": 10500,
+        "itemBundle": [
+          {
+            "count": 8,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_3"
+          }
+        ],
+        "level": 8,
+        "skillGroupId": "chr_0038_purrche_NormalSkill"
+      },
+      {
+        "goldCost": 18000,
+        "itemBundle": [
+          {
+            "count": 15,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 2,
+            "id": "item_plant_crylplant_1_3"
+          }
+        ],
+        "level": 9,
+        "skillGroupId": "chr_0038_purrche_NormalSkill"
+      },
+      {
+        "goldCost": 24000,
+        "itemBundle": [
+          {
+            "count": 1,
+            "id": "item_char_skill_crown"
+          },
+          {
+            "count": 15,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 6,
+            "id": "item_char_skill_specialize_1"
+          },
+          {
+            "count": 3,
+            "id": "item_plant_crylplant_2_2"
+          }
+        ],
+        "level": 10,
+        "skillGroupId": "chr_0038_purrche_NormalSkill"
+      },
+      {
+        "goldCost": 30000,
+        "itemBundle": [
+          {
+            "count": 2,
+            "id": "item_char_skill_crown"
+          },
+          {
+            "count": 24,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 16,
+            "id": "item_char_skill_specialize_1"
+          },
+          {
+            "count": 6,
+            "id": "item_plant_crylplant_2_2"
+          }
+        ],
+        "level": 11,
+        "skillGroupId": "chr_0038_purrche_NormalSkill"
+      },
+      {
+        "goldCost": 65000,
+        "itemBundle": [
+          {
+            "count": 3,
+            "id": "item_char_skill_crown"
+          },
+          {
+            "count": 50,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 36,
+            "id": "item_char_skill_specialize_1"
+          },
+          {
+            "count": 12,
+            "id": "item_plant_crylplant_2_2"
+          }
+        ],
+        "level": 12,
+        "skillGroupId": "chr_0038_purrche_NormalSkill"
+      },
+      {
+        "goldCost": 1000,
+        "itemBundle": [
+          {
+            "count": 6,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_1"
+          }
+        ],
+        "level": 2,
+        "skillGroupId": "chr_0038_purrche_UltimateSkill"
+      },
+      {
+        "goldCost": 2700,
+        "itemBundle": [
+          {
+            "count": 12,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 2,
+            "id": "item_plant_crylplant_1_1"
+          }
+        ],
+        "level": 3,
+        "skillGroupId": "chr_0038_purrche_UltimateSkill"
+      },
+      {
+        "goldCost": 3200,
+        "itemBundle": [
+          {
+            "count": 16,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_2"
+          }
+        ],
+        "level": 4,
+        "skillGroupId": "chr_0038_purrche_UltimateSkill"
+      },
+      {
+        "goldCost": 4200,
+        "itemBundle": [
+          {
+            "count": 21,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_2"
+          }
+        ],
+        "level": 5,
+        "skillGroupId": "chr_0038_purrche_UltimateSkill"
+      },
+      {
+        "goldCost": 5400,
+        "itemBundle": [
+          {
+            "count": 27,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 2,
+            "id": "item_plant_crylplant_1_2"
+          }
+        ],
+        "level": 6,
+        "skillGroupId": "chr_0038_purrche_UltimateSkill"
+      },
+      {
+        "goldCost": 8200,
+        "itemBundle": [
+          {
+            "count": 6,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_3"
+          }
+        ],
+        "level": 7,
+        "skillGroupId": "chr_0038_purrche_UltimateSkill"
+      },
+      {
+        "goldCost": 10500,
+        "itemBundle": [
+          {
+            "count": 8,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_3"
+          }
+        ],
+        "level": 8,
+        "skillGroupId": "chr_0038_purrche_UltimateSkill"
+      },
+      {
+        "goldCost": 18000,
+        "itemBundle": [
+          {
+            "count": 15,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 2,
+            "id": "item_plant_crylplant_1_3"
+          }
+        ],
+        "level": 9,
+        "skillGroupId": "chr_0038_purrche_UltimateSkill"
+      },
+      {
+        "goldCost": 24000,
+        "itemBundle": [
+          {
+            "count": 1,
+            "id": "item_char_skill_crown"
+          },
+          {
+            "count": 15,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 6,
+            "id": "item_char_skill_specialize_1"
+          },
+          {
+            "count": 3,
+            "id": "item_plant_crylplant_2_2"
+          }
+        ],
+        "level": 10,
+        "skillGroupId": "chr_0038_purrche_UltimateSkill"
+      },
+      {
+        "goldCost": 30000,
+        "itemBundle": [
+          {
+            "count": 2,
+            "id": "item_char_skill_crown"
+          },
+          {
+            "count": 24,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 16,
+            "id": "item_char_skill_specialize_1"
+          },
+          {
+            "count": 6,
+            "id": "item_plant_crylplant_2_2"
+          }
+        ],
+        "level": 11,
+        "skillGroupId": "chr_0038_purrche_UltimateSkill"
+      },
+      {
+        "goldCost": 65000,
+        "itemBundle": [
+          {
+            "count": 3,
+            "id": "item_char_skill_crown"
+          },
+          {
+            "count": 50,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 36,
+            "id": "item_char_skill_specialize_1"
+          },
+          {
+            "count": 12,
+            "id": "item_plant_crylplant_2_2"
+          }
+        ],
+        "level": 12,
+        "skillGroupId": "chr_0038_purrche_UltimateSkill"
+      },
+      {
+        "goldCost": 1000,
+        "itemBundle": [
+          {
+            "count": 6,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_1"
+          }
+        ],
+        "level": 2,
+        "skillGroupId": "chr_0038_purrche_ComboSkill"
+      },
+      {
+        "goldCost": 2700,
+        "itemBundle": [
+          {
+            "count": 12,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 2,
+            "id": "item_plant_crylplant_1_1"
+          }
+        ],
+        "level": 3,
+        "skillGroupId": "chr_0038_purrche_ComboSkill"
+      },
+      {
+        "goldCost": 3200,
+        "itemBundle": [
+          {
+            "count": 16,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_2"
+          }
+        ],
+        "level": 4,
+        "skillGroupId": "chr_0038_purrche_ComboSkill"
+      },
+      {
+        "goldCost": 4200,
+        "itemBundle": [
+          {
+            "count": 21,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_2"
+          }
+        ],
+        "level": 5,
+        "skillGroupId": "chr_0038_purrche_ComboSkill"
+      },
+      {
+        "goldCost": 5400,
+        "itemBundle": [
+          {
+            "count": 27,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 2,
+            "id": "item_plant_crylplant_1_2"
+          }
+        ],
+        "level": 6,
+        "skillGroupId": "chr_0038_purrche_ComboSkill"
+      },
+      {
+        "goldCost": 8200,
+        "itemBundle": [
+          {
+            "count": 6,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_3"
+          }
+        ],
+        "level": 7,
+        "skillGroupId": "chr_0038_purrche_ComboSkill"
+      },
+      {
+        "goldCost": 10500,
+        "itemBundle": [
+          {
+            "count": 8,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_3"
+          }
+        ],
+        "level": 8,
+        "skillGroupId": "chr_0038_purrche_ComboSkill"
+      },
+      {
+        "goldCost": 18000,
+        "itemBundle": [
+          {
+            "count": 15,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 2,
+            "id": "item_plant_crylplant_1_3"
+          }
+        ],
+        "level": 9,
+        "skillGroupId": "chr_0038_purrche_ComboSkill"
+      },
+      {
+        "goldCost": 24000,
+        "itemBundle": [
+          {
+            "count": 1,
+            "id": "item_char_skill_crown"
+          },
+          {
+            "count": 15,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 6,
+            "id": "item_char_skill_specialize_5"
+          },
+          {
+            "count": 3,
+            "id": "item_plant_crylplant_2_2"
+          }
+        ],
+        "level": 10,
+        "skillGroupId": "chr_0038_purrche_ComboSkill"
+      },
+      {
+        "goldCost": 30000,
+        "itemBundle": [
+          {
+            "count": 2,
+            "id": "item_char_skill_crown"
+          },
+          {
+            "count": 24,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 16,
+            "id": "item_char_skill_specialize_5"
+          },
+          {
+            "count": 6,
+            "id": "item_plant_crylplant_2_2"
+          }
+        ],
+        "level": 11,
+        "skillGroupId": "chr_0038_purrche_ComboSkill"
+      },
+      {
+        "goldCost": 65000,
+        "itemBundle": [
+          {
+            "count": 3,
+            "id": "item_char_skill_crown"
+          },
+          {
+            "count": 50,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 36,
+            "id": "item_char_skill_specialize_5"
+          },
+          {
+            "count": 12,
+            "id": "item_plant_crylplant_2_2"
+          }
+        ],
+        "level": 12,
+        "skillGroupId": "chr_0038_purrche_ComboSkill"
+      },
+      {
+        "goldCost": 1000,
+        "itemBundle": [
+          {
+            "count": 6,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_1"
+          }
+        ],
+        "level": 2,
+        "skillGroupId": "chr_0038_purrche_NormalAttack"
+      },
+      {
+        "goldCost": 2700,
+        "itemBundle": [
+          {
+            "count": 12,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 2,
+            "id": "item_plant_crylplant_1_1"
+          }
+        ],
+        "level": 3,
+        "skillGroupId": "chr_0038_purrche_NormalAttack"
+      },
+      {
+        "goldCost": 3200,
+        "itemBundle": [
+          {
+            "count": 16,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_2"
+          }
+        ],
+        "level": 4,
+        "skillGroupId": "chr_0038_purrche_NormalAttack"
+      },
+      {
+        "goldCost": 4200,
+        "itemBundle": [
+          {
+            "count": 21,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_2"
+          }
+        ],
+        "level": 5,
+        "skillGroupId": "chr_0038_purrche_NormalAttack"
+      },
+      {
+        "goldCost": 5400,
+        "itemBundle": [
+          {
+            "count": 27,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 2,
+            "id": "item_plant_crylplant_1_2"
+          }
+        ],
+        "level": 6,
+        "skillGroupId": "chr_0038_purrche_NormalAttack"
+      },
+      {
+        "goldCost": 8200,
+        "itemBundle": [
+          {
+            "count": 6,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_3"
+          }
+        ],
+        "level": 7,
+        "skillGroupId": "chr_0038_purrche_NormalAttack"
+      },
+      {
+        "goldCost": 10500,
+        "itemBundle": [
+          {
+            "count": 8,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 1,
+            "id": "item_plant_crylplant_1_3"
+          }
+        ],
+        "level": 8,
+        "skillGroupId": "chr_0038_purrche_NormalAttack"
+      },
+      {
+        "goldCost": 18000,
+        "itemBundle": [
+          {
+            "count": 15,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 2,
+            "id": "item_plant_crylplant_1_3"
+          }
+        ],
+        "level": 9,
+        "skillGroupId": "chr_0038_purrche_NormalAttack"
+      },
+      {
+        "goldCost": 24000,
+        "itemBundle": [
+          {
+            "count": 1,
+            "id": "item_char_skill_crown"
+          },
+          {
+            "count": 15,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 6,
+            "id": "item_char_skill_specialize_5"
+          },
+          {
+            "count": 3,
+            "id": "item_plant_crylplant_2_2"
+          }
+        ],
+        "level": 10,
+        "skillGroupId": "chr_0038_purrche_NormalAttack"
+      },
+      {
+        "goldCost": 30000,
+        "itemBundle": [
+          {
+            "count": 2,
+            "id": "item_char_skill_crown"
+          },
+          {
+            "count": 24,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 16,
+            "id": "item_char_skill_specialize_5"
+          },
+          {
+            "count": 6,
+            "id": "item_plant_crylplant_2_2"
+          }
+        ],
+        "level": 11,
+        "skillGroupId": "chr_0038_purrche_NormalAttack"
+      },
+      {
+        "goldCost": 65000,
+        "itemBundle": [
+          {
+            "count": 3,
+            "id": "item_char_skill_crown"
+          },
+          {
+            "count": 50,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 36,
+            "id": "item_char_skill_specialize_5"
+          },
+          {
+            "count": 12,
+            "id": "item_plant_crylplant_2_2"
+          }
+        ],
+        "level": 12,
+        "skillGroupId": "chr_0038_purrche_NormalAttack"
+      }
+    ],
+    "subAttrType": 42,
+    "talentNodeMap": {
+      "charBreak20": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [],
+          "breakStage": 0,
+          "customIcon": "",
+          "desc": {
+            "id": 0,
+            "text": ""
+          },
+          "favorability": 0,
+          "title": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 0,
+          "index": 0,
+          "level": 0
+        },
+        "nodeId": "charBreak20",
+        "nodeType": 1,
+        "passiveSkillNodeInfo": {
+          "breakStage": 0,
+          "iconId": "",
+          "index": 0,
+          "level": 0,
+          "name": {
+            "id": 0,
+            "text": ""
+          },
+          "talentEffectId": ""
+        },
+        "requiredItem": [
+          {
+            "count": 8,
+            "id": "item_char_break_stage_1_2"
+          },
+          {
+            "count": 3,
+            "id": "item_plant_mushroom_1_1"
+          },
+          {
+            "count": 1600,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "charBreak40": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [],
+          "breakStage": 0,
+          "customIcon": "",
+          "desc": {
+            "id": 0,
+            "text": ""
+          },
+          "favorability": 0,
+          "title": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 0,
+          "index": 0,
+          "level": 0
+        },
+        "nodeId": "charBreak40",
+        "nodeType": 1,
+        "passiveSkillNodeInfo": {
+          "breakStage": 0,
+          "iconId": "",
+          "index": 0,
+          "level": 0,
+          "name": {
+            "id": 0,
+            "text": ""
+          },
+          "talentEffectId": ""
+        },
+        "requiredItem": [
+          {
+            "count": 25,
+            "id": "item_char_break_stage_1_2"
+          },
+          {
+            "count": 5,
+            "id": "item_plant_mushroom_1_2"
+          },
+          {
+            "count": 6500,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "charBreak60": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [],
+          "breakStage": 0,
+          "customIcon": "",
+          "desc": {
+            "id": 0,
+            "text": ""
+          },
+          "favorability": 0,
+          "title": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 0,
+          "index": 0,
+          "level": 0
+        },
+        "nodeId": "charBreak60",
+        "nodeType": 1,
+        "passiveSkillNodeInfo": {
+          "breakStage": 0,
+          "iconId": "",
+          "index": 0,
+          "level": 0,
+          "name": {
+            "id": 0,
+            "text": ""
+          },
+          "talentEffectId": ""
+        },
+        "requiredItem": [
+          {
+            "count": 24,
+            "id": "item_char_break_stage_3_4"
+          },
+          {
+            "count": 5,
+            "id": "item_plant_mushroom_1_3"
+          },
+          {
+            "count": 18000,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "charBreak70": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [],
+          "breakStage": 0,
+          "customIcon": "",
+          "desc": {
+            "id": 0,
+            "text": ""
+          },
+          "favorability": 0,
+          "title": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 0,
+          "index": 0,
+          "level": 0
+        },
+        "nodeId": "charBreak70",
+        "nodeType": 1,
+        "passiveSkillNodeInfo": {
+          "breakStage": 0,
+          "iconId": "",
+          "index": 0,
+          "level": 0,
+          "name": {
+            "id": 0,
+            "text": ""
+          },
+          "talentEffectId": ""
+        },
+        "requiredItem": [
+          {
+            "count": 36,
+            "id": "item_char_break_stage_3_4"
+          },
+          {
+            "count": 20,
+            "id": "item_char_skill_specialize_2"
+          },
+          {
+            "count": 8,
+            "id": "item_plant_mushroom_2_3"
+          },
+          {
+            "count": 100000,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "chr_0038_purrche_1": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [
+            {
+              "attrType": 39,
+              "attrValue": 10.0,
+              "modifierType": 5,
+              "modifyAttributeType": 0
+            }
+          ],
+          "breakStage": 1,
+          "customIcon": "",
+          "desc": {
+            "id": -4591668565292471840,
+            "text": ""
+          },
+          "favorability": 60,
+          "title": {
+            "id": 9112126287594272327,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 0,
+          "index": 0,
+          "level": 0
+        },
+        "nodeId": "chr_0038_purrche_1",
+        "nodeType": 3,
+        "passiveSkillNodeInfo": {
+          "breakStage": 0,
+          "iconId": "",
+          "index": 0,
+          "level": 0,
+          "name": {
+            "id": 0,
+            "text": ""
+          },
+          "talentEffectId": ""
+        },
+        "requiredItem": [
+          {
+            "count": 5,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 1000,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "chr_0038_purrche_3": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [
+            {
+              "attrType": 39,
+              "attrValue": 15.0,
+              "modifierType": 5,
+              "modifyAttributeType": 0
+            }
+          ],
+          "breakStage": 2,
+          "customIcon": "",
+          "desc": {
+            "id": -5800484853405062153,
+            "text": ""
+          },
+          "favorability": 150,
+          "title": {
+            "id": 6963878737898442460,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 0,
+          "index": 0,
+          "level": 0
+        },
+        "nodeId": "chr_0038_purrche_3",
+        "nodeType": 3,
+        "passiveSkillNodeInfo": {
+          "breakStage": 0,
+          "iconId": "",
+          "index": 0,
+          "level": 0,
+          "name": {
+            "id": 0,
+            "text": ""
+          },
+          "talentEffectId": ""
+        },
+        "requiredItem": [
+          {
+            "count": 10,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 1800,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "chr_0038_purrche_5": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [
+            {
+              "attrType": 39,
+              "attrValue": 15.0,
+              "modifierType": 5,
+              "modifyAttributeType": 0
+            }
+          ],
+          "breakStage": 3,
+          "customIcon": "",
+          "desc": {
+            "id": 7678596899784434570,
+            "text": ""
+          },
+          "favorability": 300,
+          "title": {
+            "id": 5572745962378574568,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 0,
+          "index": 0,
+          "level": 0
+        },
+        "nodeId": "chr_0038_purrche_5",
+        "nodeType": 3,
+        "passiveSkillNodeInfo": {
+          "breakStage": 0,
+          "iconId": "",
+          "index": 0,
+          "level": 0,
+          "name": {
+            "id": 0,
+            "text": ""
+          },
+          "talentEffectId": ""
+        },
+        "requiredItem": [
+          {
+            "count": 10,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 6000,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "chr_0038_purrche_7": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [
+            {
+              "attrType": 39,
+              "attrValue": 20.0,
+              "modifierType": 5,
+              "modifyAttributeType": 0
+            }
+          ],
+          "breakStage": 4,
+          "customIcon": "",
+          "desc": {
+            "id": -3468355138004964129,
+            "text": ""
+          },
+          "favorability": 300,
+          "title": {
+            "id": -4704969519661766958,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 0,
+          "index": 0,
+          "level": 0
+        },
+        "nodeId": "chr_0038_purrche_7",
+        "nodeType": 3,
+        "passiveSkillNodeInfo": {
+          "breakStage": 0,
+          "iconId": "",
+          "index": 0,
+          "level": 0,
+          "name": {
+            "id": 0,
+            "text": ""
+          },
+          "talentEffectId": ""
+        },
+        "requiredItem": [
+          {
+            "count": 20,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 12000,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "chr_0038_purrche_passive_skill_0_1": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [],
+          "breakStage": 0,
+          "customIcon": "",
+          "desc": {
+            "id": 0,
+            "text": ""
+          },
+          "favorability": 0,
+          "title": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 0,
+          "index": 0,
+          "level": 0
+        },
+        "nodeId": "chr_0038_purrche_passive_skill_0_1",
+        "nodeType": 4,
+        "passiveSkillNodeInfo": {
+          "breakStage": 1,
+          "iconId": "icon_talent_purrche_01",
+          "index": 0,
+          "level": 1,
+          "name": {
+            "id": 4598097818565870576,
+            "text": ""
+          },
+          "talentEffectId": "chr_0038_purrche_talent_1_1"
+        },
+        "requiredItem": [
+          {
+            "count": 12,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 2400,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "chr_0038_purrche_passive_skill_0_2": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [],
+          "breakStage": 0,
+          "customIcon": "",
+          "desc": {
+            "id": 0,
+            "text": ""
+          },
+          "favorability": 0,
+          "title": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 0,
+          "index": 0,
+          "level": 0
+        },
+        "nodeId": "chr_0038_purrche_passive_skill_0_2",
+        "nodeType": 4,
+        "passiveSkillNodeInfo": {
+          "breakStage": 2,
+          "iconId": "icon_talent_purrche_01",
+          "index": 0,
+          "level": 2,
+          "name": {
+            "id": -6282828324674784259,
+            "text": ""
+          },
+          "talentEffectId": "chr_0038_purrche_talent_1_2"
+        },
+        "requiredItem": [
+          {
+            "count": 40,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 8600,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "chr_0038_purrche_passive_skill_1_1": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [],
+          "breakStage": 0,
+          "customIcon": "",
+          "desc": {
+            "id": 0,
+            "text": ""
+          },
+          "favorability": 0,
+          "title": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 0,
+          "index": 0,
+          "level": 0
+        },
+        "nodeId": "chr_0038_purrche_passive_skill_1_1",
+        "nodeType": 4,
+        "passiveSkillNodeInfo": {
+          "breakStage": 2,
+          "iconId": "icon_talent_purrche_02",
+          "index": 1,
+          "level": 1,
+          "name": {
+            "id": 7421860268698609665,
+            "text": ""
+          },
+          "talentEffectId": "chr_0038_purrche_talent_2_1"
+        },
+        "requiredItem": [
+          {
+            "count": 48,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 10000,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "chr_0038_purrche_passive_skill_1_2": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [],
+          "breakStage": 0,
+          "customIcon": "",
+          "desc": {
+            "id": 0,
+            "text": ""
+          },
+          "favorability": 0,
+          "title": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 0,
+          "index": 0,
+          "level": 0
+        },
+        "nodeId": "chr_0038_purrche_passive_skill_1_2",
+        "nodeType": 4,
+        "passiveSkillNodeInfo": {
+          "breakStage": 3,
+          "iconId": "icon_talent_purrche_02",
+          "index": 1,
+          "level": 2,
+          "name": {
+            "id": -5400013301858677709,
+            "text": ""
+          },
+          "talentEffectId": "chr_0038_purrche_talent_2_2"
+        },
+        "requiredItem": [
+          {
+            "count": 28,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 24000,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "equipBreakT2": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [],
+          "breakStage": 0,
+          "customIcon": "",
+          "desc": {
+            "id": 0,
+            "text": ""
+          },
+          "favorability": 0,
+          "title": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 0,
+          "index": 0,
+          "level": 0
+        },
+        "nodeId": "equipBreakT2",
+        "nodeType": 2,
+        "passiveSkillNodeInfo": {
+          "breakStage": 0,
+          "iconId": "",
+          "index": 0,
+          "level": 0,
+          "name": {
+            "id": 0,
+            "text": ""
+          },
+          "talentEffectId": ""
+        },
+        "requiredItem": [
+          {
+            "count": 1600,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "equipBreakT3": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [],
+          "breakStage": 0,
+          "customIcon": "",
+          "desc": {
+            "id": 0,
+            "text": ""
+          },
+          "favorability": 0,
+          "title": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 0,
+          "index": 0,
+          "level": 0
+        },
+        "nodeId": "equipBreakT3",
+        "nodeType": 2,
+        "passiveSkillNodeInfo": {
+          "breakStage": 0,
+          "iconId": "",
+          "index": 0,
+          "level": 0,
+          "name": {
+            "id": 0,
+            "text": ""
+          },
+          "talentEffectId": ""
+        },
+        "requiredItem": [
+          {
+            "count": 6500,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "equipBreakT4": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [],
+          "breakStage": 0,
+          "customIcon": "",
+          "desc": {
+            "id": 0,
+            "text": ""
+          },
+          "favorability": 0,
+          "title": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 0,
+          "index": 0,
+          "level": 0
+        },
+        "nodeId": "equipBreakT4",
+        "nodeType": 2,
+        "passiveSkillNodeInfo": {
+          "breakStage": 0,
+          "iconId": "",
+          "index": 0,
+          "level": 0,
+          "name": {
+            "id": 0,
+            "text": ""
+          },
+          "talentEffectId": ""
+        },
+        "requiredItem": [
+          {
+            "count": 18000,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "fac_chr_0038_purrche_0_1": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [],
+          "breakStage": 0,
+          "customIcon": "",
+          "desc": {
+            "id": 0,
+            "text": ""
+          },
+          "favorability": 0,
+          "title": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 1,
+          "index": 0,
+          "level": 1
+        },
+        "nodeId": "fac_chr_0038_purrche_0_1",
+        "nodeType": 5,
+        "passiveSkillNodeInfo": {
+          "breakStage": 0,
+          "iconId": "",
+          "index": 0,
+          "level": 0,
+          "name": {
+            "id": 0,
+            "text": ""
+          },
+          "talentEffectId": ""
+        },
+        "requiredItem": [
+          {
+            "count": 6,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 1600,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "fac_chr_0038_purrche_0_2": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [],
+          "breakStage": 0,
+          "customIcon": "",
+          "desc": {
+            "id": 0,
+            "text": ""
+          },
+          "favorability": 0,
+          "title": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 3,
+          "index": 0,
+          "level": 2
+        },
+        "nodeId": "fac_chr_0038_purrche_0_2",
+        "nodeType": 5,
+        "passiveSkillNodeInfo": {
+          "breakStage": 0,
+          "iconId": "",
+          "index": 0,
+          "level": 0,
+          "name": {
+            "id": 0,
+            "text": ""
+          },
+          "talentEffectId": ""
+        },
+        "requiredItem": [
+          {
+            "count": 12,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 8000,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "fac_chr_0038_purrche_1_1": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [],
+          "breakStage": 0,
+          "customIcon": "",
+          "desc": {
+            "id": 0,
+            "text": ""
+          },
+          "favorability": 0,
+          "title": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 2,
+          "index": 1,
+          "level": 1
+        },
+        "nodeId": "fac_chr_0038_purrche_1_1",
+        "nodeType": 5,
+        "passiveSkillNodeInfo": {
+          "breakStage": 0,
+          "iconId": "",
+          "index": 0,
+          "level": 0,
+          "name": {
+            "id": 0,
+            "text": ""
+          },
+          "talentEffectId": ""
+        },
+        "requiredItem": [
+          {
+            "count": 12,
+            "id": "item_char_skill_level_1_6"
+          },
+          {
+            "count": 3000,
+            "id": "item_gold"
+          }
+        ]
+      },
+      "fac_chr_0038_purrche_1_2": {
+        "attributeNodeInfo": {
+          "attributeModifiers": [],
+          "breakStage": 0,
+          "customIcon": "",
+          "desc": {
+            "id": 0,
+            "text": ""
+          },
+          "favorability": 0,
+          "title": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "factorySkillNodeInfo": {
+          "breakStage": 4,
+          "index": 1,
+          "level": 2
+        },
+        "nodeId": "fac_chr_0038_purrche_1_2",
+        "nodeType": 5,
+        "passiveSkillNodeInfo": {
+          "breakStage": 0,
+          "iconId": "",
+          "index": 0,
+          "level": 0,
+          "name": {
+            "id": 0,
+            "text": ""
+          },
+          "talentEffectId": ""
+        },
+        "requiredItem": [
+          {
+            "count": 20,
+            "id": "item_char_skill_level_7_12"
+          },
+          {
+            "count": 20000,
+            "id": "item_gold"
+          }
+        ]
+      }
+    },
+    "weaponType": 1
+  },
   "chr_9000_endmin": {
     "charBreakCostMap": {
       "charBreak20": {

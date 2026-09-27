@@ -281826,6 +281826,1678 @@
       "text": ""
     }
   },
+  "dlg_gm02m27_10_001": {
+    "actorName": {
+      "id": 1382537666257269877,
+      "text": ""
+    },
+    "actorNameId": "nianqingdeyushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_10_001",
+    "dialogText": {
+      "id": 1778650038920547765,
+      "text": ""
+    },
+    "emotionType": 6,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_10_002": {
+    "actorName": {
+      "id": 4231166331989579872,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_10_002",
+    "dialogText": {
+      "id": 1888345529139901998,
+      "text": ""
+    },
+    "emotionType": 6,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_10_003": {
+    "actorName": {
+      "id": -1145438564737496972,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_10_003",
+    "dialogText": {
+      "id": -5409569478378450599,
+      "text": ""
+    },
+    "emotionType": 14,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_10_004": {
+    "actorName": {
+      "id": -5504853302833182824,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_10_004",
+    "dialogText": {
+      "id": -6351935941382123127,
+      "text": ""
+    },
+    "emotionType": 37,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_10_005": {
+    "actorName": {
+      "id": 656825621803357742,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_10_005",
+    "dialogText": {
+      "id": 6219539674657661848,
+      "text": ""
+    },
+    "emotionType": 21,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_11_001": {
+    "actorName": {
+      "id": -8986863609519363536,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_11_001",
+    "dialogText": {
+      "id": 4003869795004954952,
+      "text": ""
+    },
+    "emotionType": 5,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_11_002": {
+    "actorName": {
+      "id": -3532899323105659402,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_11_002",
+    "dialogText": {
+      "id": 8020193080478085060,
+      "text": ""
+    },
+    "emotionType": 31,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_11_003": {
+    "actorName": {
+      "id": 22359286898306727,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_11_003",
+    "dialogText": {
+      "id": -4073179831309747603,
+      "text": ""
+    },
+    "emotionType": 31,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_11_004": {
+    "actorName": {
+      "id": 9066357101020757496,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_11_004",
+    "dialogText": {
+      "id": 400845982993684456,
+      "text": ""
+    },
+    "emotionType": 21,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_11_005": {
+    "actorName": {
+      "id": 6032541493247420157,
+      "text": ""
+    },
+    "actorNameId": "shangjin",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_11_005",
+    "dialogText": {
+      "id": 8174855821421224586,
+      "text": ""
+    },
+    "emotionType": 15,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_11_006": {
+    "actorName": {
+      "id": 4428990488259043923,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_11_006",
+    "dialogText": {
+      "id": 3347225018308839935,
+      "text": ""
+    },
+    "emotionType": 26,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_11_007": {
+    "actorName": {
+      "id": -1029986046223223839,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_11_007",
+    "dialogText": {
+      "id": 8260107150219500919,
+      "text": ""
+    },
+    "emotionType": 25,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_11_008": {
+    "actorName": {
+      "id": -7958042192625367627,
+      "text": ""
+    },
+    "actorNameId": "shangjin",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_11_008",
+    "dialogText": {
+      "id": 7506701469011878259,
+      "text": ""
+    },
+    "emotionType": 22,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_11_009": {
+    "actorName": {
+      "id": 6805553300911921833,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_11_009",
+    "dialogText": {
+      "id": -4125940884987940556,
+      "text": ""
+    },
+    "emotionType": 29,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_11_010": {
+    "actorName": {
+      "id": 2290065547627736386,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_11_010",
+    "dialogText": {
+      "id": -5111800442793297449,
+      "text": ""
+    },
+    "emotionType": 6,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_11_011": {
+    "actorName": {
+      "id": -5418852959039565192,
+      "text": ""
+    },
+    "actorNameId": "shangjin",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_11_011",
+    "dialogText": {
+      "id": -185715405169488750,
+      "text": ""
+    },
+    "emotionType": 16,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_11_012": {
+    "actorName": {
+      "id": -1137538079462484197,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_11_012",
+    "dialogText": {
+      "id": 5139637986593149558,
+      "text": ""
+    },
+    "emotionType": 26,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_11_013": {
+    "actorName": {
+      "id": 7103444543958374366,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_11_013",
+    "dialogText": {
+      "id": -2665604010954511120,
+      "text": ""
+    },
+    "emotionType": 21,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_12_001": {
+    "actorName": {
+      "id": -1797258779032609346,
+      "text": ""
+    },
+    "actorNameId": "shangjin",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_12_001",
+    "dialogText": {
+      "id": 475128502314903673,
+      "text": ""
+    },
+    "emotionType": 18,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_12_002": {
+    "actorName": {
+      "id": 698518868406220077,
+      "text": ""
+    },
+    "actorNameId": "shangjin",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_12_002",
+    "dialogText": {
+      "id": 8474959104968711899,
+      "text": ""
+    },
+    "emotionType": 15,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_12_003": {
+    "actorName": {
+      "id": -947191667663895992,
+      "text": ""
+    },
+    "actorNameId": "shangjin",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_12_003",
+    "dialogText": {
+      "id": -6019117512591203783,
+      "text": ""
+    },
+    "emotionType": 37,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_12_004": {
+    "actorName": {
+      "id": -8113624560276292786,
+      "text": ""
+    },
+    "actorNameId": "shangjin",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_12_004",
+    "dialogText": {
+      "id": -8408076467444388263,
+      "text": ""
+    },
+    "emotionType": 5,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_12_005": {
+    "actorName": {
+      "id": 7520960233717566355,
+      "text": ""
+    },
+    "actorNameId": "shangjin",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_12_005",
+    "dialogText": {
+      "id": -5511790869888071945,
+      "text": ""
+    },
+    "emotionType": 19,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_12_006": {
+    "actorName": {
+      "id": -6699713082275528809,
+      "text": ""
+    },
+    "actorNameId": "shangjin",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_12_006",
+    "dialogText": {
+      "id": -8781248125388523274,
+      "text": ""
+    },
+    "emotionType": 18,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_12_007": {
+    "actorName": {
+      "id": 2584851290844511687,
+      "text": ""
+    },
+    "actorNameId": "shangjin",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_12_007",
+    "dialogText": {
+      "id": 8274209361353591868,
+      "text": ""
+    },
+    "emotionType": 5,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_12_008": {
+    "actorName": {
+      "id": 8328213988690973011,
+      "text": ""
+    },
+    "actorNameId": "shangjin",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_12_008",
+    "dialogText": {
+      "id": -2503658938190249171,
+      "text": ""
+    },
+    "emotionType": 41,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_12_009": {
+    "actorName": {
+      "id": 1138771018958520384,
+      "text": ""
+    },
+    "actorNameId": "shangjin",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_12_009",
+    "dialogText": {
+      "id": 2886266216571342221,
+      "text": ""
+    },
+    "emotionType": 29,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_16_001": {
+    "actorName": {
+      "id": 1225730932101846619,
+      "text": ""
+    },
+    "actorNameId": "endminf",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_16_001",
+    "dialogText": {
+      "id": -4962690999408397902,
+      "text": ""
+    },
+    "emotionType": 16,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_16_002": {
+    "actorName": {
+      "id": 5687591672611618015,
+      "text": ""
+    },
+    "actorNameId": "endminf",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_16_002",
+    "dialogText": {
+      "id": 20318999007195230,
+      "text": ""
+    },
+    "emotionType": 35,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_16_003": {
+    "actorName": {
+      "id": 8433313672388893522,
+      "text": ""
+    },
+    "actorNameId": "endminf",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_16_003",
+    "dialogText": {
+      "id": -66229629978030214,
+      "text": ""
+    },
+    "emotionType": 15,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_16_004": {
+    "actorName": {
+      "id": -2865096245912571438,
+      "text": ""
+    },
+    "actorNameId": "endminf",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_16_004",
+    "dialogText": {
+      "id": 4207940238809401374,
+      "text": ""
+    },
+    "emotionType": 0,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_18_001": {
+    "actorName": {
+      "id": 9121344856131712376,
+      "text": ""
+    },
+    "actorNameId": "endminf",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_18_001",
+    "dialogText": {
+      "id": 2566059527991359779,
+      "text": ""
+    },
+    "emotionType": 20,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_18_002": {
+    "actorName": {
+      "id": 8416487894109692953,
+      "text": ""
+    },
+    "actorNameId": "endminf",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_18_002",
+    "dialogText": {
+      "id": 2130766476878121843,
+      "text": ""
+    },
+    "emotionType": 4,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_2_001": {
+    "actorName": {
+      "id": 627316647183721922,
+      "text": ""
+    },
+    "actorNameId": "shangjin",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_2_001",
+    "dialogText": {
+      "id": -7697659423454559959,
+      "text": ""
+    },
+    "emotionType": 18,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_2_002": {
+    "actorName": {
+      "id": -6095738548104964014,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_2_002",
+    "dialogText": {
+      "id": -6023109850372653576,
+      "text": ""
+    },
+    "emotionType": 5,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_2_003": {
+    "actorName": {
+      "id": 4323403888068943690,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_2_003",
+    "dialogText": {
+      "id": -1639531087953040268,
+      "text": ""
+    },
+    "emotionType": 3,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_2_004": {
+    "actorName": {
+      "id": -6208180173920696089,
+      "text": ""
+    },
+    "actorNameId": "shangjin",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_2_004",
+    "dialogText": {
+      "id": -5120669708046644366,
+      "text": ""
+    },
+    "emotionType": 15,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_2_005": {
+    "actorName": {
+      "id": -5288237545619802541,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_2_005",
+    "dialogText": {
+      "id": -882973363590227046,
+      "text": ""
+    },
+    "emotionType": 8,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_2_006": {
+    "actorName": {
+      "id": -4574402115672061916,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_2_006",
+    "dialogText": {
+      "id": 2524657115163091611,
+      "text": ""
+    },
+    "emotionType": 19,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_2_007": {
+    "actorName": {
+      "id": 2497570762098048608,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_2_007",
+    "dialogText": {
+      "id": 832703258733296636,
+      "text": ""
+    },
+    "emotionType": 29,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_2_008": {
+    "actorName": {
+      "id": -1665510459139773676,
+      "text": ""
+    },
+    "actorNameId": "shangjin",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_2_008",
+    "dialogText": {
+      "id": 4319255776646085448,
+      "text": ""
+    },
+    "emotionType": 34,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_2_009": {
+    "actorName": {
+      "id": 4052928887559666531,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_2_009",
+    "dialogText": {
+      "id": -2658532220932880620,
+      "text": ""
+    },
+    "emotionType": 3,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_2_010": {
+    "actorName": {
+      "id": -927401129476695092,
+      "text": ""
+    },
+    "actorNameId": "shangjin",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_2_010",
+    "dialogText": {
+      "id": 2336580209831281363,
+      "text": ""
+    },
+    "emotionType": 21,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_2_011": {
+    "actorName": {
+      "id": -6849039191203727904,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_2_011",
+    "dialogText": {
+      "id": -5695848045548466089,
+      "text": ""
+    },
+    "emotionType": 3,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_2_012": {
+    "actorName": {
+      "id": -4918357967295999257,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_2_012",
+    "dialogText": {
+      "id": -4767186827517037451,
+      "text": ""
+    },
+    "emotionType": 23,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_4_001": {
+    "actorName": {
+      "id": -4517076452652084236,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_4_001",
+    "dialogText": {
+      "id": 7529384859963299746,
+      "text": ""
+    },
+    "emotionType": 16,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_4_005": {
+    "actorName": {
+      "id": -5866254625074333650,
+      "text": ""
+    },
+    "actorNameId": "endminf",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_4_005",
+    "dialogText": {
+      "id": 7825775835042448727,
+      "text": ""
+    },
+    "emotionType": 16,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_4_006": {
+    "actorName": {
+      "id": -114116867583301390,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_4_006",
+    "dialogText": {
+      "id": 2270414543832233160,
+      "text": ""
+    },
+    "emotionType": 14,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_4_007": {
+    "actorName": {
+      "id": -2971074425607416719,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_4_007",
+    "dialogText": {
+      "id": -5577473110415424618,
+      "text": ""
+    },
+    "emotionType": 13,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_4_008": {
+    "actorName": {
+      "id": -8894196705921832738,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_4_008",
+    "dialogText": {
+      "id": -3461845978978671773,
+      "text": ""
+    },
+    "emotionType": 31,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_4_009": {
+    "actorName": {
+      "id": -251197936819493854,
+      "text": ""
+    },
+    "actorNameId": "yushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_4_009",
+    "dialogText": {
+      "id": -6361660554445913840,
+      "text": ""
+    },
+    "emotionType": 13,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_8_001": {
+    "actorName": {
+      "id": 3387691794834501762,
+      "text": ""
+    },
+    "actorNameId": "nianqingdeyushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_8_001",
+    "dialogText": {
+      "id": -728459900412951995,
+      "text": ""
+    },
+    "emotionType": 15,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_8_003": {
+    "actorName": {
+      "id": -8461582314781114114,
+      "text": ""
+    },
+    "actorNameId": "nianqingdeyushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_8_003",
+    "dialogText": {
+      "id": 5692618087489344500,
+      "text": ""
+    },
+    "emotionType": 14,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_8_004": {
+    "actorName": {
+      "id": 1786365008321414270,
+      "text": ""
+    },
+    "actorNameId": "nianqingdeyushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_8_004",
+    "dialogText": {
+      "id": -2832348604697865133,
+      "text": ""
+    },
+    "emotionType": 17,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_8_005": {
+    "actorName": {
+      "id": 6051678373191399261,
+      "text": ""
+    },
+    "actorNameId": "endminf",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_8_005",
+    "dialogText": {
+      "id": -4595798323012357783,
+      "text": ""
+    },
+    "emotionType": 16,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_8_006": {
+    "actorName": {
+      "id": 2864218907457098928,
+      "text": ""
+    },
+    "actorNameId": "endminf",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_8_006",
+    "dialogText": {
+      "id": -674742439762825856,
+      "text": ""
+    },
+    "emotionType": 5,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_8_007": {
+    "actorName": {
+      "id": -483802548452450552,
+      "text": ""
+    },
+    "actorNameId": "endminf",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_8_007",
+    "dialogText": {
+      "id": -9062922984611165385,
+      "text": ""
+    },
+    "emotionType": 37,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_8_008": {
+    "actorName": {
+      "id": -2430226083008389539,
+      "text": ""
+    },
+    "actorNameId": "nianqingdeyushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_8_008",
+    "dialogText": {
+      "id": -6707191120219123744,
+      "text": ""
+    },
+    "emotionType": 1,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27_8_009": {
+    "actorName": {
+      "id": 4208513460261560710,
+      "text": ""
+    },
+    "actorNameId": "nianqingdeyushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27_8_009",
+    "dialogText": {
+      "id": 5300470980805797206,
+      "text": ""
+    },
+    "emotionType": 1,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d3_1_001": {
+    "actorName": {
+      "id": -4986211543521458515,
+      "text": ""
+    },
+    "actorNameId": "nianqingdeyushigui",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d3_1_001",
+    "dialogText": {
+      "id": 5192587007056134098,
+      "text": ""
+    },
+    "emotionType": 36,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d3_1_002": {
+    "actorName": {
+      "id": -8974423371264739680,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsfarmer1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d3_1_002",
+    "dialogText": {
+      "id": 6354836695239327784,
+      "text": ""
+    },
+    "emotionType": 16,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d3_1_003": {
+    "actorName": {
+      "id": 8627306715793367050,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher2",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d3_1_003",
+    "dialogText": {
+      "id": -8716683486791629991,
+      "text": ""
+    },
+    "emotionType": 9,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d3_1_004": {
+    "actorName": {
+      "id": -6747960695175827983,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsfarmer1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d3_1_004",
+    "dialogText": {
+      "id": -8744188482833324988,
+      "text": ""
+    },
+    "emotionType": 30,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_1_001": {
+    "actorName": {
+      "id": -3118676529919527503,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsfarmer1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_1_001",
+    "dialogText": {
+      "id": -4482091864763246366,
+      "text": ""
+    },
+    "emotionType": 37,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_1_002": {
+    "actorName": {
+      "id": -9009986349299781967,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsfarmer1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_1_002",
+    "dialogText": {
+      "id": -7380476020155925469,
+      "text": ""
+    },
+    "emotionType": 14,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_1_003": {
+    "actorName": {
+      "id": 3123668228074874125,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsfarmer1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_1_003",
+    "dialogText": {
+      "id": -4247272948488757353,
+      "text": ""
+    },
+    "emotionType": 9,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_1_004": {
+    "actorName": {
+      "id": 1653352688115617954,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsfarmer1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_1_004",
+    "dialogText": {
+      "id": 8306971339098012275,
+      "text": ""
+    },
+    "emotionType": 14,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_1_005": {
+    "actorName": {
+      "id": 6193270999898269424,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsfarmer1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_1_005",
+    "dialogText": {
+      "id": 311451654990314184,
+      "text": ""
+    },
+    "emotionType": 9,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_1_006": {
+    "actorName": {
+      "id": 685242501786359124,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsfarmer1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_1_006",
+    "dialogText": {
+      "id": 4403142339880836094,
+      "text": ""
+    },
+    "emotionType": 17,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_2_001": {
+    "actorName": {
+      "id": 3088869351325616384,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher2",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_2_001",
+    "dialogText": {
+      "id": -8571826134480719102,
+      "text": ""
+    },
+    "emotionType": 6,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_2_002": {
+    "actorName": {
+      "id": 8783732583789008454,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher2",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_2_002",
+    "dialogText": {
+      "id": 2788266929069181114,
+      "text": ""
+    },
+    "emotionType": 13,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_2_003": {
+    "actorName": {
+      "id": 2710373993088502915,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher2",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_2_003",
+    "dialogText": {
+      "id": -239648395451171123,
+      "text": ""
+    },
+    "emotionType": 29,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_2_004": {
+    "actorName": {
+      "id": -5138494429148709054,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher2",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_2_004",
+    "dialogText": {
+      "id": -429342256067938571,
+      "text": ""
+    },
+    "emotionType": 14,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_2_005": {
+    "actorName": {
+      "id": 8785505403152014945,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher2",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_2_005",
+    "dialogText": {
+      "id": 8990176507996923263,
+      "text": ""
+    },
+    "emotionType": 33,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_2_006": {
+    "actorName": {
+      "id": 22903409932475928,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher2",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_2_006",
+    "dialogText": {
+      "id": -6032695992269996909,
+      "text": ""
+    },
+    "emotionType": 18,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_2_007": {
+    "actorName": {
+      "id": -5866709769542038547,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher2",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_2_007",
+    "dialogText": {
+      "id": -8167335700808397483,
+      "text": ""
+    },
+    "emotionType": 13,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_2_008": {
+    "actorName": {
+      "id": 3667098947619301682,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher2",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_2_008",
+    "dialogText": {
+      "id": 7035434257654010029,
+      "text": ""
+    },
+    "emotionType": 34,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_3_001": {
+    "actorName": {
+      "id": 5090134645439850638,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher2",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_3_001",
+    "dialogText": {
+      "id": -6342041221021843294,
+      "text": ""
+    },
+    "emotionType": 20,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_3_002": {
+    "actorName": {
+      "id": -5754397699237300146,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher2",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_3_002",
+    "dialogText": {
+      "id": -5334629175391753218,
+      "text": ""
+    },
+    "emotionType": 22,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_3_003": {
+    "actorName": {
+      "id": -6497867052406595344,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher2",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_3_003",
+    "dialogText": {
+      "id": -350600240637101451,
+      "text": ""
+    },
+    "emotionType": 40,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_3_004": {
+    "actorName": {
+      "id": -7652146645356125426,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher2",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_3_004",
+    "dialogText": {
+      "id": -2968776608749786674,
+      "text": ""
+    },
+    "emotionType": 20,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_3_005": {
+    "actorName": {
+      "id": 1274631453164731131,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsteacher2",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_3_005",
+    "dialogText": {
+      "id": -5382692292480898279,
+      "text": ""
+    },
+    "emotionType": 35,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_4_001": {
+    "actorName": {
+      "id": -1018709881538776336,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsfarmer1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_4_001",
+    "dialogText": {
+      "id": -2064645803275890573,
+      "text": ""
+    },
+    "emotionType": 20,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_4_002": {
+    "actorName": {
+      "id": -573872564685807185,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsfarmer1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_4_002",
+    "dialogText": {
+      "id": -697260984155026970,
+      "text": ""
+    },
+    "emotionType": 27,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_4_003": {
+    "actorName": {
+      "id": 3707819336621929468,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsfarmer1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_4_003",
+    "dialogText": {
+      "id": -1205997275058557784,
+      "text": ""
+    },
+    "emotionType": 16,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_4_004": {
+    "actorName": {
+      "id": -4104513659401723809,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsfarmer1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_4_004",
+    "dialogText": {
+      "id": -6403420055279414149,
+      "text": ""
+    },
+    "emotionType": 17,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_4_005": {
+    "actorName": {
+      "id": 3185794850509820226,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsfarmer1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_4_005",
+    "dialogText": {
+      "id": -921633431482326175,
+      "text": ""
+    },
+    "emotionType": 35,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_gm02m27d6_4_006": {
+    "actorName": {
+      "id": -5252572250520983552,
+      "text": ""
+    },
+    "actorNameId": "gm02m27hsfarmer1",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_gm02m27d6_4_006",
+    "dialogText": {
+      "id": -4353164187992993978,
+      "text": ""
+    },
+    "emotionType": 29,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
   "dlg_gm02m29_1_001": {
     "actorName": {
       "id": -1665028747724946414,
@@ -286757,6 +288429,101 @@
     "audioOverride": "au_dlg_gm02m8_5_006",
     "dialogText": {
       "id": 6718265158804470881,
+      "text": ""
+    },
+    "emotionType": 29,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_indie_dg016_env_15002_001": {
+    "actorName": {
+      "id": 0,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_indie_dg016_env_15002_001",
+    "dialogText": {
+      "id": -7299678446617863011,
+      "text": ""
+    },
+    "emotionType": 15,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_indie_dg016_env_15002_002": {
+    "actorName": {
+      "id": 0,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_indie_dg016_env_15002_002",
+    "dialogText": {
+      "id": -3619734952261704087,
+      "text": ""
+    },
+    "emotionType": 37,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_indie_dg016_env_15002_003": {
+    "actorName": {
+      "id": 0,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_indie_dg016_env_15002_003",
+    "dialogText": {
+      "id": -4534294104982645134,
+      "text": ""
+    },
+    "emotionType": 5,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_indie_dg016_env_15003_001": {
+    "actorName": {
+      "id": 0,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_indie_dg016_env_15003_001",
+    "dialogText": {
+      "id": 8916517872778119847,
+      "text": ""
+    },
+    "emotionType": 29,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "dlg_indie_dg016_env_15003_002": {
+    "actorName": {
+      "id": 0,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_dlg_indie_dg016_env_15003_002",
+    "dialogText": {
+      "id": -2629009487170625165,
       "text": ""
     },
     "emotionType": 29,
@@ -405136,6 +406903,101 @@
       "text": ""
     }
   },
+  "sim_gift_purrche_give_01": {
+    "actorName": {
+      "id": 2890767645628384703,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_sim_gift_purrche_give_01",
+    "dialogText": {
+      "id": 6382845285204345660,
+      "text": ""
+    },
+    "emotionType": 0,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "sim_gift_purrche_givebye_01": {
+    "actorName": {
+      "id": -942311670049894079,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_sim_gift_purrche_givebye_01",
+    "dialogText": {
+      "id": -5034932852138234708,
+      "text": ""
+    },
+    "emotionType": 0,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "sim_gift_purrche_recv_01": {
+    "actorName": {
+      "id": -5555662107700865621,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_sim_gift_purrche_recv_01",
+    "dialogText": {
+      "id": -799737417409646210,
+      "text": ""
+    },
+    "emotionType": 0,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "sim_gift_purrche_recvbye_01": {
+    "actorName": {
+      "id": 281812414524696809,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_sim_gift_purrche_recvbye_01",
+    "dialogText": {
+      "id": 8103145342839673465,
+      "text": ""
+    },
+    "emotionType": 0,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "sim_gift_purrche_recvsuccess_01": {
+    "actorName": {
+      "id": 0,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_sim_gift_purrche_recvsuccess_01",
+    "dialogText": {
+      "id": 5226405636289001365,
+      "text": ""
+    },
+    "emotionType": 0,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
   "sim_gift_seraph_give_01": {
     "actorName": {
       "id": -6466137597321090281,
@@ -406305,6 +408167,25 @@
     "audioOverride": "au_sim_rest_pograni_01",
     "dialogText": {
       "id": 8910782078335347678,
+      "text": ""
+    },
+    "emotionType": 0,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "sim_rest_purrche_01": {
+    "actorName": {
+      "id": -3153202411765065914,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_sim_rest_purrche_01",
+    "dialogText": {
+      "id": -4350068351578002213,
       "text": ""
     },
     "emotionType": 0,
@@ -408974,6 +410855,120 @@
       "text": ""
     }
   },
+  "sim_talk_purrche_lv01_01": {
+    "actorName": {
+      "id": 1525844143698543892,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_sim_talk_purrche_lv01_01",
+    "dialogText": {
+      "id": -1330137487295924900,
+      "text": ""
+    },
+    "emotionType": 0,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "sim_talk_purrche_lv02_01": {
+    "actorName": {
+      "id": 8221968170380383406,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_sim_talk_purrche_lv02_01",
+    "dialogText": {
+      "id": 6207977415218600802,
+      "text": ""
+    },
+    "emotionType": 0,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "sim_talk_purrche_lv02_02": {
+    "actorName": {
+      "id": 3977701821597717776,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_sim_talk_purrche_lv02_02",
+    "dialogText": {
+      "id": 8643389759671754997,
+      "text": ""
+    },
+    "emotionType": 0,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "sim_talk_purrche_max_01": {
+    "actorName": {
+      "id": 3817069683247554776,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_sim_talk_purrche_max_01",
+    "dialogText": {
+      "id": 236603011023656556,
+      "text": ""
+    },
+    "emotionType": 0,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "sim_talk_purrche_max_02": {
+    "actorName": {
+      "id": 2792557494301844066,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_sim_talk_purrche_max_02",
+    "dialogText": {
+      "id": 2860706304248376121,
+      "text": ""
+    },
+    "emotionType": 0,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "sim_talk_purrche_max_03": {
+    "actorName": {
+      "id": -3757905658035152140,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_sim_talk_purrche_max_03",
+    "dialogText": {
+      "id": 7592330437930096009,
+      "text": ""
+    },
+    "emotionType": 0,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
   "sim_talk_seraph_lv01_01": {
     "actorName": {
       "id": -3222991106048752100,
@@ -410295,6 +412290,25 @@
     "audioOverride": "au_sim_work_pograni_01",
     "dialogText": {
       "id": -7598448625951773126,
+      "text": ""
+    },
+    "emotionType": 0,
+    "hideHint": false,
+    "hint": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "sim_work_purrche_01": {
+    "actorName": {
+      "id": 421994417474111552,
+      "text": ""
+    },
+    "actorNameId": "",
+    "audioEffect": 0,
+    "audioOverride": "au_sim_work_purrche_01",
+    "dialogText": {
+      "id": -3251706410611146860,
       "text": ""
     },
     "emotionType": 0,

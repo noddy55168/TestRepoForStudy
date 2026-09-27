@@ -1349,6 +1349,51 @@
       "text": ""
     }
   },
+  "topic_chr_0038_purrchena_15001": {
+    "includeDialogIds": [
+      "sns_topic_chr_0038_purrchena_15001"
+    ],
+    "sortId": 3,
+    "topicId": "topic_chr_0038_purrchena_15001",
+    "topicName": {
+      "id": 2276627739050362680,
+      "text": ""
+    },
+    "topicStartOptionDesc": {
+      "id": -5644862059368605924,
+      "text": ""
+    }
+  },
+  "topic_chr_0038_purrchena_15002": {
+    "includeDialogIds": [
+      "sns_topic_chr_0038_purrchena_15002"
+    ],
+    "sortId": 3,
+    "topicId": "topic_chr_0038_purrchena_15002",
+    "topicName": {
+      "id": -1110402637919299982,
+      "text": ""
+    },
+    "topicStartOptionDesc": {
+      "id": -5072331292635737716,
+      "text": ""
+    }
+  },
+  "topic_chr_0038_purrchena_15003": {
+    "includeDialogIds": [
+      "sns_topic_chr_0038_purrchena_15003"
+    ],
+    "sortId": 3,
+    "topicId": "topic_chr_0038_purrchena_15003",
+    "topicName": {
+      "id": -4351551840029860703,
+      "text": ""
+    },
+    "topicStartOptionDesc": {
+      "id": 800702656258221555,
+      "text": ""
+    }
+  },
   "topic_map01_lv001_1": {
     "includeDialogIds": [
       "sns_topic_map01_lv001_1",

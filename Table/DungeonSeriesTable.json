@@ -1179,6 +1179,7 @@
       "dung_camille_chartrain01",
       "dung_lizhiyan_chartrain01",
       "dung_liino_chartrain01",
+      "dung_purrche_chartrain01",
       "dung_typhoea_chartrain01"
     ],
     "name": {
@@ -3426,6 +3427,37 @@
       "text": ""
     },
     "sortId": 6,
+    "staminaText": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "indie_group_h07": {
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "dungeonCategory": 0,
+    "dungeonCategory2nd": 0,
+    "dungeonImg": "",
+    "dungeonRoleImg": "",
+    "gameCategory": "dungeon_highdifficulty",
+    "id": "indie_group_h07",
+    "includeDungeonIds": [
+      "indie_hard026",
+      "indie_hard026_s",
+      "indie_hard027",
+      "indie_hard027_s",
+      "indie_hard028",
+      "indie_hard028_s",
+      "indie_hard029",
+      "indie_hard029_s"
+    ],
+    "name": {
+      "id": -9142048938710704516,
+      "text": ""
+    },
+    "sortId": 7,
     "staminaText": {
       "id": 0,
       "text": ""

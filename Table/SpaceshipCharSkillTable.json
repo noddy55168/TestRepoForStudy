@@ -1228,5 +1228,46 @@
         }
       }
     ]
+  },
+  "chr_0038_purrche": {
+    "maxSkillCount": 2,
+    "skillList": [
+      {
+        "charId": "chr_0038_purrche",
+        "skillId": "spaceship_skill_chr_0038_purrche_1_1",
+        "skillIndex": 0,
+        "unlockHint": {
+          "id": -2220633021784075959,
+          "text": ""
+        }
+      },
+      {
+        "charId": "chr_0038_purrche",
+        "skillId": "spaceship_skill_chr_0038_purrche_1_2",
+        "skillIndex": 0,
+        "unlockHint": {
+          "id": -3655192977599332885,
+          "text": ""
+        }
+      },
+      {
+        "charId": "chr_0038_purrche",
+        "skillId": "spaceship_skill_chr_0038_purrche_2_1",
+        "skillIndex": 1,
+        "unlockHint": {
+          "id": -6823310530957026589,
+          "text": ""
+        }
+      },
+      {
+        "charId": "chr_0038_purrche",
+        "skillId": "spaceship_skill_chr_0038_purrche_2_2",
+        "skillIndex": 1,
+        "unlockHint": {
+          "id": 7649641984564569578,
+          "text": ""
+        }
+      }
+    ]
   }
 }

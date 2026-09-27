@@ -13111,6 +13111,22 @@
     "id": -5612879729557712486,
     "text": ""
   },
+  "activity_bg_tab_cedarforest": {
+    "id": -1058902435848720501,
+    "text": ""
+  },
+  "activity_charactergift_get": {
+    "id": -3616524374839514335,
+    "text": ""
+  },
+  "activity_charactergift_go": {
+    "id": 191113973037472975,
+    "text": ""
+  },
+  "activity_charactergift_name": {
+    "id": 2734519958242721606,
+    "text": ""
+  },
   "activity_dung01_cdg012_toast_01": {
     "id": 6195558429740425558,
     "text": ""
@@ -13761,6 +13777,30 @@
   },
   "black_gm02m23_4_001": {
     "id": 9033282353422963949,
+    "text": ""
+  },
+  "black_gm02m27_1_001": {
+    "id": 353406704353477207,
+    "text": ""
+  },
+  "black_gm02m27_2_001": {
+    "id": 4699671385387068046,
+    "text": ""
+  },
+  "black_gm02m27_3_001": {
+    "id": -8618021715865634865,
+    "text": ""
+  },
+  "black_gm02m27d6_1_001": {
+    "id": 166925986923601466,
+    "text": ""
+  },
+  "black_gm02m27d6_2_001": {
+    "id": -3620528088197083519,
+    "text": ""
+  },
+  "black_gm02m27d6_3_001": {
+    "id": 6266930217645997685,
     "text": ""
   },
   "black_gm02m6_1_001": {
@@ -19007,6 +19047,50 @@
     "id": -5512607338691464136,
     "text": ""
   },
+  "dungeon_chartutorial_purrche_chartrain01_text_01": {
+    "id": -3858111571183777348,
+    "text": ""
+  },
+  "dungeon_chartutorial_purrche_chartrain01_text_02_1": {
+    "id": -8198893882985797753,
+    "text": ""
+  },
+  "dungeon_chartutorial_purrche_chartrain01_text_02_2": {
+    "id": 2814940121221090159,
+    "text": ""
+  },
+  "dungeon_chartutorial_purrche_chartrain01_text_03_1": {
+    "id": -3411657744663098044,
+    "text": ""
+  },
+  "dungeon_chartutorial_purrche_chartrain01_text_03_2": {
+    "id": -5244307332557568034,
+    "text": ""
+  },
+  "dungeon_chartutorial_purrche_chartrain01_text_04_1": {
+    "id": -85224314434076387,
+    "text": ""
+  },
+  "dungeon_chartutorial_purrche_chartrain01_text_05_1": {
+    "id": -676495610281735616,
+    "text": ""
+  },
+  "dungeon_chartutorial_purrche_chartrain01_text_06_1": {
+    "id": 7105888920412153921,
+    "text": ""
+  },
+  "dungeon_chartutorial_purrche_chartrain01_text_07_1": {
+    "id": -2441819556636464952,
+    "text": ""
+  },
+  "dungeon_chartutorial_purrche_chartrain01_text_07_2": {
+    "id": -9158244417419628203,
+    "text": ""
+  },
+  "dungeon_chartutorial_purrche_chartrain01_title": {
+    "id": 702683416997380950,
+    "text": ""
+  },
   "dungeon_chartutorial_reset_toast": {
     "id": 552690982415326206,
     "text": ""
@@ -24161,6 +24245,146 @@
   },
   "gm02m23_name": {
     "id": 5376982191287058062,
+    "text": ""
+  },
+  "gm02m27_desc_001": {
+    "id": 5453184054077538177,
+    "text": ""
+  },
+  "gm02m27_desc_002": {
+    "id": -3412953963258964070,
+    "text": ""
+  },
+  "gm02m27_desc_003": {
+    "id": -6007454682700956142,
+    "text": ""
+  },
+  "gm02m27_desc_004": {
+    "id": 5517414188830620849,
+    "text": ""
+  },
+  "gm02m27_desc_005": {
+    "id": 613086806912576931,
+    "text": ""
+  },
+  "gm02m27_desc_006": {
+    "id": -7096509631996056232,
+    "text": ""
+  },
+  "gm02m27_desc_009": {
+    "id": -2326731985528374802,
+    "text": ""
+  },
+  "gm02m27_desc_010": {
+    "id": -5119057117612343001,
+    "text": ""
+  },
+  "gm02m27_desc_011": {
+    "id": 7289876167670955708,
+    "text": ""
+  },
+  "gm02m27_desc_012": {
+    "id": -1930732355996017276,
+    "text": ""
+  },
+  "gm02m27_desc_013": {
+    "id": -782852469188371698,
+    "text": ""
+  },
+  "gm02m27_desc_014": {
+    "id": 7218998551754788281,
+    "text": ""
+  },
+  "gm02m27_name": {
+    "id": -2105574282366407687,
+    "text": ""
+  },
+  "gm02m27d1_desc_001": {
+    "id": -4165685544418843302,
+    "text": ""
+  },
+  "gm02m27d1_desc_002": {
+    "id": 1597283867378709405,
+    "text": ""
+  },
+  "gm02m27d1_desc_003": {
+    "id": -3648227013452580173,
+    "text": ""
+  },
+  "gm02m27d1_name": {
+    "id": 4043205343170200803,
+    "text": ""
+  },
+  "gm02m27d2_desc_001": {
+    "id": -5316649432225704961,
+    "text": ""
+  },
+  "gm02m27d2_desc_002": {
+    "id": -2756470693011533123,
+    "text": ""
+  },
+  "gm02m27d2_desc_003": {
+    "id": 2412779340608248714,
+    "text": ""
+  },
+  "gm02m27d2_name": {
+    "id": -6767491838392938767,
+    "text": ""
+  },
+  "gm02m27d3_desc_001": {
+    "id": 4280907594689462925,
+    "text": ""
+  },
+  "gm02m27d3_desc_002": {
+    "id": 5082441962703206121,
+    "text": ""
+  },
+  "gm02m27d3_desc_003": {
+    "id": 8914095139333743999,
+    "text": ""
+  },
+  "gm02m27d3_name": {
+    "id": -8319018891201703960,
+    "text": ""
+  },
+  "gm02m27d4_desc_001": {
+    "id": -8205523644354759481,
+    "text": ""
+  },
+  "gm02m27d4_desc_002": {
+    "id": -8901273637783835282,
+    "text": ""
+  },
+  "gm02m27d4_desc_003": {
+    "id": 9176432623512750331,
+    "text": ""
+  },
+  "gm02m27d4_name": {
+    "id": 2887970267758141379,
+    "text": ""
+  },
+  "gm02m27d5_desc_001": {
+    "id": -11525679153781612,
+    "text": ""
+  },
+  "gm02m27d5_desc_002": {
+    "id": -938482211849144204,
+    "text": ""
+  },
+  "gm02m27d5_desc_003": {
+    "id": 8517102007141981972,
+    "text": ""
+  },
+  "gm02m27d5_name": {
+    "id": 751056990672597676,
+    "text": ""
+  },
+  "gm02m27d6_desc_001": {
+    "id": 1947889420866103066,
+    "text": ""
+  },
+  "gm02m27d6_name": {
+    "id": 3217899796179291825,
     "text": ""
   },
   "gm02m29_desc_001": {
@@ -39539,6 +39763,50 @@
     "id": 2710905644365678242,
     "text": ""
   },
+  "guide_text_purrche_chartrain01_02_1": {
+    "id": 2405274280835386286,
+    "text": ""
+  },
+  "guide_text_purrche_chartrain01_02_2": {
+    "id": 2148859683005300073,
+    "text": ""
+  },
+  "guide_text_purrche_chartrain01_02_3": {
+    "id": -7524320335865065913,
+    "text": ""
+  },
+  "guide_text_purrche_chartrain01_02_title": {
+    "id": -4277639363727481652,
+    "text": ""
+  },
+  "guide_text_purrche_chartrain01_03_1": {
+    "id": -2208776148264047019,
+    "text": ""
+  },
+  "guide_text_purrche_chartrain01_03_2": {
+    "id": -839268652411692462,
+    "text": ""
+  },
+  "guide_text_purrche_chartrain01_03_3": {
+    "id": 6136934565509062282,
+    "text": ""
+  },
+  "guide_text_purrche_chartrain01_03_title": {
+    "id": -7831756936399920747,
+    "text": ""
+  },
+  "guide_text_purrche_chartrain01_04_1": {
+    "id": 4760877724619034187,
+    "text": ""
+  },
+  "guide_text_purrche_chartrain01_04_2": {
+    "id": -6930468328535675809,
+    "text": ""
+  },
+  "guide_text_purrche_chartrain01_04_title": {
+    "id": 7831022390317956440,
+    "text": ""
+  },
   "guide_text_pushedbox1_title": {
     "id": 1514014440899025478,
     "text": ""
@@ -42253,6 +42521,46 @@
   },
   "guide_text_subhub_hint_1": {
     "id": -5714142473877492817,
+    "text": ""
+  },
+  "guide_text_suiming_bell_desc_1": {
+    "id": 4279433582092334081,
+    "text": ""
+  },
+  "guide_text_suiming_bell_desc_2": {
+    "id": -1276083310051323439,
+    "text": ""
+  },
+  "guide_text_suiming_bell_desc_3": {
+    "id": 8347866550574025717,
+    "text": ""
+  },
+  "guide_text_suiming_bell_title_1": {
+    "id": 6270275024155189348,
+    "text": ""
+  },
+  "guide_text_suiming_bell_title_2": {
+    "id": 3669827451427357798,
+    "text": ""
+  },
+  "guide_text_suiming_bell_title_3": {
+    "id": -9123332985231746359,
+    "text": ""
+  },
+  "guide_text_suiming_intro_desc_1": {
+    "id": -8122438803186549060,
+    "text": ""
+  },
+  "guide_text_suiming_intro_desc_2": {
+    "id": -5266211387493453330,
+    "text": ""
+  },
+  "guide_text_suiming_intro_desc_3": {
+    "id": 6379182052826670842,
+    "text": ""
+  },
+  "guide_text_suiming_intro_title": {
+    "id": -4696266178372706072,
     "text": ""
   },
   "guide_text_super_pressure_board_desc_1": {
@@ -46203,6 +46511,14 @@
     "id": -4384272137102718187,
     "text": ""
   },
+  "key_hint_activity_char_gift_task_goto": {
+    "id": 3620454292314921137,
+    "text": ""
+  },
+  "key_hint_activity_char_preview": {
+    "id": -6844968516630251498,
+    "text": ""
+  },
   "key_hint_activity_checkin_get_reward": {
     "id": 2005255413452916910,
     "text": ""
@@ -46301,6 +46617,10 @@
   },
   "key_hint_activity_stamina_receive_all": {
     "id": 1913829169238604431,
+    "text": ""
+  },
+  "key_hint_activity_task_reward": {
+    "id": 7472707781532451912,
     "text": ""
   },
   "key_hint_activity_webrecall_copy": {
@@ -62625,6 +62945,106 @@
   },
   "objective_gm02m23_9_001": {
     "id": -2243345899644485067,
+    "text": ""
+  },
+  "objective_gm02m27_10_001": {
+    "id": -8906098415842236879,
+    "text": ""
+  },
+  "objective_gm02m27_11_001": {
+    "id": 2189619756928527345,
+    "text": ""
+  },
+  "objective_gm02m27_12_001": {
+    "id": -1157080290616591889,
+    "text": ""
+  },
+  "objective_gm02m27_13_001": {
+    "id": 2830717432257571444,
+    "text": ""
+  },
+  "objective_gm02m27_1_001": {
+    "id": -567034792672174059,
+    "text": ""
+  },
+  "objective_gm02m27_2_001": {
+    "id": -5896675985546805892,
+    "text": ""
+  },
+  "objective_gm02m27_3_001": {
+    "id": 81287696969180877,
+    "text": ""
+  },
+  "objective_gm02m27_4_001": {
+    "id": 4561884118873883355,
+    "text": ""
+  },
+  "objective_gm02m27_5_001": {
+    "id": -1527894812173439949,
+    "text": ""
+  },
+  "objective_gm02m27_6_001": {
+    "id": -8964855091710444138,
+    "text": ""
+  },
+  "objective_gm02m27_9_001": {
+    "id": -8367173548794759290,
+    "text": ""
+  },
+  "objective_gm02m27d1_1_001": {
+    "id": -1882415820507709788,
+    "text": ""
+  },
+  "objective_gm02m27d1_2_001": {
+    "id": 780954434689358507,
+    "text": ""
+  },
+  "objective_gm02m27d2_1_001": {
+    "id": 7546700873952930891,
+    "text": ""
+  },
+  "objective_gm02m27d2_2_001": {
+    "id": 3962263349517814822,
+    "text": ""
+  },
+  "objective_gm02m27d2_3_001": {
+    "id": -4930114509098610138,
+    "text": ""
+  },
+  "objective_gm02m27d3_1_001": {
+    "id": -9136494849486708882,
+    "text": ""
+  },
+  "objective_gm02m27d3_2_001": {
+    "id": -738460993697062880,
+    "text": ""
+  },
+  "objective_gm02m27d4_1_001": {
+    "id": 5720519606384021660,
+    "text": ""
+  },
+  "objective_gm02m27d4_2_001": {
+    "id": 1103079724509744825,
+    "text": ""
+  },
+  "objective_gm02m27d5_1_001": {
+    "id": 8039599406380921493,
+    "text": ""
+  },
+  "objective_gm02m27d5_2_001": {
+    "id": 3843308756288260428,
+    "text": ""
+  },
+  "objective_gm02m27d5_3_001": {
+    "id": -449110600953339875,
+    "text": ""
+  },
+  "objective_gm02m27d5_4_001": {
+    "id": -662755518826040632,
+    "text": ""
+  },
+  "objective_gm02m27d6_1_001": {
+    "id": 4155847270072579989,
     "text": ""
   },
   "objective_gm02m29_1_001": {

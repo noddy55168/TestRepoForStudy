@@ -994,5 +994,37 @@
         "tagId": "tag_hobby_creativity"
       }
     }
+  },
+  "chr_0038_purrche": {
+    "tagDesc": {
+      "tag_expert_nature": {
+        "desc": {
+          "id": 6321879878326042323,
+          "text": ""
+        },
+        "tagId": "tag_expert_nature"
+      },
+      "tag_expert_wild": {
+        "desc": {
+          "id": -6588536728687926602,
+          "text": ""
+        },
+        "tagId": "tag_expert_wild"
+      },
+      "tag_hobby_art": {
+        "desc": {
+          "id": 8074422125035993113,
+          "text": ""
+        },
+        "tagId": "tag_hobby_art"
+      },
+      "tag_hobby_charity": {
+        "desc": {
+          "id": 4716654881667037315,
+          "text": ""
+        },
+        "tagId": "tag_hobby_charity"
+      }
+    }
   }
 }

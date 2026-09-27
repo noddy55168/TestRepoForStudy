@@ -33791,6 +33791,70 @@
     ],
     "radioType": 0
   },
+  "radio_continue_self_purrche_01": {
+    "continueAfterDialog": false,
+    "continueAfterRadio": false,
+    "priority": 3,
+    "radioSingleDataList": [
+      {
+        "actorName": {
+          "id": 3192036569104689369,
+          "text": ""
+        },
+        "actorNameId": "",
+        "audioEffect": 0,
+        "audioEvent": "",
+        "audioEventDuration": 0.0,
+        "audioOverride": "au_radio_continue_self_purrche_01_001",
+        "emotionType": 0,
+        "iconSuffix": "",
+        "id": "radio_continue_self_purrche_01_001",
+        "index": 1,
+        "infoActorName": {
+          "id": 0,
+          "text": ""
+        },
+        "is3D": false,
+        "radioText": {
+          "id": 3220798130280535637,
+          "text": ""
+        }
+      }
+    ],
+    "radioType": 0
+  },
+  "radio_continue_self_purrche_02": {
+    "continueAfterDialog": false,
+    "continueAfterRadio": false,
+    "priority": 3,
+    "radioSingleDataList": [
+      {
+        "actorName": {
+          "id": 9086286119465054666,
+          "text": ""
+        },
+        "actorNameId": "",
+        "audioEffect": 0,
+        "audioEvent": "",
+        "audioEventDuration": 0.0,
+        "audioOverride": "au_radio_continue_self_purrche_02_001",
+        "emotionType": 0,
+        "iconSuffix": "",
+        "id": "radio_continue_self_purrche_02_001",
+        "index": 1,
+        "infoActorName": {
+          "id": 0,
+          "text": ""
+        },
+        "is3D": false,
+        "radioText": {
+          "id": 3199142864671533327,
+          "text": ""
+        }
+      }
+    ],
+    "radioType": 0
+  },
   "radio_continue_self_seraph_01": {
     "continueAfterDialog": false,
     "continueAfterRadio": false,
@@ -111553,6 +111617,190 @@
         "is3D": false,
         "radioText": {
           "id": -7330449193236340764,
+          "text": ""
+        }
+      }
+    ],
+    "radioType": 0
+  },
+  "radio_gm02m27_1": {
+    "continueAfterDialog": false,
+    "continueAfterRadio": false,
+    "priority": 3,
+    "radioSingleDataList": [
+      {
+        "actorName": {
+          "id": -6688983006520230986,
+          "text": ""
+        },
+        "actorNameId": "endminf",
+        "audioEffect": 0,
+        "audioEvent": "",
+        "audioEventDuration": 0.0,
+        "audioOverride": "au_radio_gm02m27_1_001",
+        "emotionType": 3,
+        "iconSuffix": "",
+        "id": "radio_gm02m27_1_001",
+        "index": 1,
+        "infoActorName": {
+          "id": 0,
+          "text": ""
+        },
+        "is3D": false,
+        "radioText": {
+          "id": 1301575197661581847,
+          "text": ""
+        }
+      }
+    ],
+    "radioType": 0
+  },
+  "radio_gm02m27_2": {
+    "continueAfterDialog": false,
+    "continueAfterRadio": false,
+    "priority": 3,
+    "radioSingleDataList": [
+      {
+        "actorName": {
+          "id": 6805644584784881929,
+          "text": ""
+        },
+        "actorNameId": "endminf",
+        "audioEffect": 0,
+        "audioEvent": "",
+        "audioEventDuration": 0.0,
+        "audioOverride": "au_radio_gm02m27_2_001",
+        "emotionType": 35,
+        "iconSuffix": "",
+        "id": "radio_gm02m27_2_001",
+        "index": 1,
+        "infoActorName": {
+          "id": 0,
+          "text": ""
+        },
+        "is3D": false,
+        "radioText": {
+          "id": 1950047355312877723,
+          "text": ""
+        }
+      }
+    ],
+    "radioType": 0
+  },
+  "radio_gm02m27_3": {
+    "continueAfterDialog": false,
+    "continueAfterRadio": false,
+    "priority": 3,
+    "radioSingleDataList": [
+      {
+        "actorName": {
+          "id": -6842422984382867764,
+          "text": ""
+        },
+        "actorNameId": "endminf",
+        "audioEffect": 0,
+        "audioEvent": "",
+        "audioEventDuration": 0.0,
+        "audioOverride": "au_radio_gm02m27_3_001",
+        "emotionType": 3,
+        "iconSuffix": "",
+        "id": "radio_gm02m27_3_001",
+        "index": 1,
+        "infoActorName": {
+          "id": 0,
+          "text": ""
+        },
+        "is3D": false,
+        "radioText": {
+          "id": -4869103224972614905,
+          "text": ""
+        }
+      }
+    ],
+    "radioType": 0
+  },
+  "radio_gm02m27_5": {
+    "continueAfterDialog": false,
+    "continueAfterRadio": false,
+    "priority": 3,
+    "radioSingleDataList": [
+      {
+        "actorName": {
+          "id": -614371030121423205,
+          "text": ""
+        },
+        "actorNameId": "endminf",
+        "audioEffect": 0,
+        "audioEvent": "",
+        "audioEventDuration": 0.0,
+        "audioOverride": "au_radio_gm02m27_5_001",
+        "emotionType": 37,
+        "iconSuffix": "",
+        "id": "radio_gm02m27_5_001",
+        "index": 1,
+        "infoActorName": {
+          "id": 0,
+          "text": ""
+        },
+        "is3D": false,
+        "radioText": {
+          "id": 2778357889741856084,
+          "text": ""
+        }
+      }
+    ],
+    "radioType": 0
+  },
+  "radio_gm02m27d5_1": {
+    "continueAfterDialog": false,
+    "continueAfterRadio": false,
+    "priority": 3,
+    "radioSingleDataList": [
+      {
+        "actorName": {
+          "id": -465984170468007525,
+          "text": ""
+        },
+        "actorNameId": "endminf",
+        "audioEffect": 0,
+        "audioEvent": "",
+        "audioEventDuration": 0.0,
+        "audioOverride": "au_radio_gm02m27d5_1_001",
+        "emotionType": 13,
+        "iconSuffix": "",
+        "id": "radio_gm02m27d5_1_001",
+        "index": 1,
+        "infoActorName": {
+          "id": 0,
+          "text": ""
+        },
+        "is3D": false,
+        "radioText": {
+          "id": -3934054578319247912,
+          "text": ""
+        }
+      },
+      {
+        "actorName": {
+          "id": -6316864665504845452,
+          "text": ""
+        },
+        "actorNameId": "endminf",
+        "audioEffect": 0,
+        "audioEvent": "",
+        "audioEventDuration": 0.0,
+        "audioOverride": "au_radio_gm02m27d5_1_002",
+        "emotionType": 22,
+        "iconSuffix": "",
+        "id": "radio_gm02m27d5_1_002",
+        "index": 2,
+        "infoActorName": {
+          "id": 0,
+          "text": ""
+        },
+        "is3D": false,
+        "radioText": {
+          "id": 727087025779893543,
           "text": ""
         }
       }

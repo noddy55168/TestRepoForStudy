@@ -17801,6 +17801,357 @@
     ],
     "envTalkId": "envTalk_gm02m23_1"
   },
+  "envTalk_gm02m27_10": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27_10_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27_10",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -7326858237587305216,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27_10_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27_10",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": -6655588506309868584,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_gm02m27_10"
+  },
+  "envTalk_gm02m27_11": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27_11_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27_11",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 8871510029429276835,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27_11_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27_11",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": -1349923526177753873,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27_11_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27_11",
+        "index": 3,
+        "slotId": 1,
+        "text": {
+          "id": 722597346114968952,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_gm02m27_11"
+  },
+  "envTalk_gm02m27_7": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27_7_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27_7",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -7704668617268606149,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_gm02m27_7"
+  },
+  "envTalk_gm02m27_9": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27_9_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27_9",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 8146992892284359453,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27_9_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27_9",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": -6843499817394400220,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_gm02m27_9"
+  },
+  "envTalk_gm02m27d1_1": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27d1_1_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27d1_1",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -6345121593830287215,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_gm02m27d1_1"
+  },
+  "envTalk_gm02m27d2_1": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27d2_1_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27d2_1",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -6686130347386108812,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27d2_1_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27d2_1",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": -7813557590554610494,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_gm02m27d2_1"
+  },
+  "envTalk_gm02m27d3_1": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27d3_1_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27d3_1",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -1599980237823030280,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27d3_1_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27d3_1",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": -216325779251048937,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_gm02m27d3_1"
+  },
+  "envTalk_gm02m27d4_1": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27d4_1_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27d4_1",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -1037822012095344570,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27d4_1_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27d4_1",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": 5777096732305959145,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_gm02m27d4_1"
+  },
+  "envTalk_gm02m27d5_1": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27d5_1_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27d5_1",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 8137629340977966962,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_gm02m27d5_1"
+  },
+  "envTalk_gm02m27d6_1": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27d6_1_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27d6_1",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 137586929517887203,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_gm02m27d6_1"
+  },
+  "envTalk_gm02m27d6_2": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27d6_2_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27d6_2",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -1051298826750594250,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_gm02m27d6_2"
+  },
+  "envTalk_gm02m27d6_3": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27d6_3_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27d6_3",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 5425735017391755343,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_gm02m27d6_3"
+  },
+  "envTalk_gm02m27d6_4": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27d6_4_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27d6_4",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -8578207829643205206,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_gm02m27d6_4_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_gm02m27d6_4",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": -2911153258212127661,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_gm02m27d6_4"
+  },
   "envTalk_gm02m5_1": {
     "envTalkCd": 10.0,
     "envTalkDataList": [
@@ -18297,6 +18648,1464 @@
       }
     ],
     "envTalkId": "envTalk_gm02m8_4"
+  },
+  "envTalk_indie_dg016_env_15001": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15001_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15001",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 4115053787747800791,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15001_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15001",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": -5411611786031177711,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15001"
+  },
+  "envTalk_indie_dg016_env_15002": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15002_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15002",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -1493142010383557313,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15002_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15002",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": -2772721847119817708,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15002_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15002",
+        "index": 3,
+        "slotId": 1,
+        "text": {
+          "id": 6011455561812623154,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15002_4",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15002",
+        "index": 4,
+        "slotId": 2,
+        "text": {
+          "id": 8860372208801013659,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15002"
+  },
+  "envTalk_indie_dg016_env_15003": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15003_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15003",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 5827114673374665581,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15003_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15003",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": 1122368830682001722,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15003"
+  },
+  "envTalk_indie_dg016_env_15004": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15004_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15004",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -6569719596086741247,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15004_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15004",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": 6365797463715891566,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15004"
+  },
+  "envTalk_indie_dg016_env_15007": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15007_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15007",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -2637039860730584128,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15007_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15007",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": -763026482830922675,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15007"
+  },
+  "envTalk_indie_dg016_env_15008": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15008_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15008",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -1338324774565854439,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15008_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15008",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": -2380604552358510691,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15008"
+  },
+  "envTalk_indie_dg016_env_15009": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15009_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15009",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -618852649071734648,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15009_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15009",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": -5191369621048105675,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15009"
+  },
+  "envTalk_indie_dg016_env_15010": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15010_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15010",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 7612581788648144722,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15010_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15010",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": 4984045521985796896,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15010_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15010",
+        "index": 3,
+        "slotId": 1,
+        "text": {
+          "id": -7367810310180152106,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15010_4",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15010",
+        "index": 4,
+        "slotId": 2,
+        "text": {
+          "id": 8360428944100009793,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15010_5",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15010",
+        "index": 5,
+        "slotId": 1,
+        "text": {
+          "id": -8035225078170130524,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15010"
+  },
+  "envTalk_indie_dg016_env_15011": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15011_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15011",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 6256960666269481572,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15011_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15011",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": -3627891488495656465,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15011_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15011",
+        "index": 3,
+        "slotId": 1,
+        "text": {
+          "id": -4616160720473618714,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15011"
+  },
+  "envTalk_indie_dg016_env_15012": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15012_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15012",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -1357714207036684703,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15012_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15012",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": 1678205309661621208,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15012_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15012",
+        "index": 3,
+        "slotId": 2,
+        "text": {
+          "id": 7907478437989588990,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15012"
+  },
+  "envTalk_indie_dg016_env_15013": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15013_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15013",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 3227086730726095485,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15013_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15013",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": -3013981818179494297,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15013_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15013",
+        "index": 3,
+        "slotId": 1,
+        "text": {
+          "id": -6186470360306526540,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15013_4",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15013",
+        "index": 4,
+        "slotId": 2,
+        "text": {
+          "id": 5930678620239592254,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15013"
+  },
+  "envTalk_indie_dg016_env_15014": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15014_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15014",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 8686779190941594845,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15014_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15014",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": -8883822088601396725,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15014"
+  },
+  "envTalk_indie_dg016_env_15015": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15015_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15015",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 3415957017021431632,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15015_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15015",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": 5332406317329092840,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15015_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15015",
+        "index": 3,
+        "slotId": 1,
+        "text": {
+          "id": -2967529157658119337,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15015_4",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15015",
+        "index": 4,
+        "slotId": 2,
+        "text": {
+          "id": 2651504475099127905,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15015_5",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15015",
+        "index": 5,
+        "slotId": 1,
+        "text": {
+          "id": 8483622645237776967,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15015"
+  },
+  "envTalk_indie_dg016_env_15016": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15016_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15016",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -8967067552700591894,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15016_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15016",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": -3071690807050236256,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15016_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15016",
+        "index": 3,
+        "slotId": 1,
+        "text": {
+          "id": -115183231651033508,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15016"
+  },
+  "envTalk_indie_dg016_env_15017": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15017_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15017",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 1502319498832285855,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15017_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15017",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": -4406891056806614928,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15017_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15017",
+        "index": 3,
+        "slotId": 1,
+        "text": {
+          "id": 5733266691607107810,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15017"
+  },
+  "envTalk_indie_dg016_env_15018": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15018_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15018",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 4030864247465360239,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15018_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15018",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": 3595497531100232472,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15018"
+  },
+  "envTalk_indie_dg016_env_15019": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15019_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15019",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -3505850976952467439,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15019"
+  },
+  "envTalk_indie_dg016_env_15020": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15020_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15020",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 3426757144576784741,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15020_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15020",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": -853969398245526911,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15020_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15020",
+        "index": 3,
+        "slotId": 1,
+        "text": {
+          "id": 8277915399187487117,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15020"
+  },
+  "envTalk_indie_dg016_env_15021": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15021_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15021",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 6339962178756384578,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15021_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15021",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": 238667517212845780,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15021_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15021",
+        "index": 3,
+        "slotId": 1,
+        "text": {
+          "id": 7590180985518812852,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15021_4",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15021",
+        "index": 4,
+        "slotId": 2,
+        "text": {
+          "id": -1804889650668869797,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15021"
+  },
+  "envTalk_indie_dg016_env_15022": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15022_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15022",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -1936836896464458165,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15022_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15022",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": 7298992155318955175,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15022_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15022",
+        "index": 3,
+        "slotId": 1,
+        "text": {
+          "id": 6662576844981183136,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15022_4",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15022",
+        "index": 4,
+        "slotId": 2,
+        "text": {
+          "id": -167948227670657481,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15022"
+  },
+  "envTalk_indie_dg016_env_15023": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15023_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15023",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 2215920120155795266,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15023_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15023",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": 5787116545790190076,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15023"
+  },
+  "envTalk_indie_dg016_env_15024": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15024_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15024",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 3709302835072303735,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15024_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15024",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": -8719580995672873749,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15024"
+  },
+  "envTalk_indie_dg016_env_15025": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15025_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15025",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 74348299432856927,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15025_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15025",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": -122928128116098028,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15025_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15025",
+        "index": 3,
+        "slotId": 2,
+        "text": {
+          "id": 2575851281589931407,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15025_4",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15025",
+        "index": 4,
+        "slotId": 1,
+        "text": {
+          "id": -2660100882264128161,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15025_5",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15025",
+        "index": 5,
+        "slotId": 2,
+        "text": {
+          "id": -6506410374088532462,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15025"
+  },
+  "envTalk_indie_dg016_env_15026": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15026_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15026",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -7720523232902268343,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15026_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15026",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": 4349863095129492820,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15026"
+  },
+  "envTalk_indie_dg016_env_15027": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15027_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15027",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -73464159694253628,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15027_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15027",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": -3611706929793653729,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15027_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15027",
+        "index": 3,
+        "slotId": 1,
+        "text": {
+          "id": -5671216355681503844,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15027_4",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15027",
+        "index": 4,
+        "slotId": 2,
+        "text": {
+          "id": -485772251748726581,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15027"
+  },
+  "envTalk_indie_dg016_env_15028": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15028_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15028",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -2273232108892850396,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15028_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15028",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": 2966968174279897533,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15028"
+  },
+  "envTalk_indie_dg016_env_15029": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15029_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15029",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 6544097326818834968,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15029_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15029",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": 1089601439777335425,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15029"
+  },
+  "envTalk_indie_dg016_env_15030": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15030_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15030",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -2876256919715681232,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15030_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15030",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": 8317092751835165955,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15030"
+  },
+  "envTalk_indie_dg016_env_15031": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15031_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15031",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 2394222901998899071,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15031_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15031",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": -1170613569497869595,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15031_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15031",
+        "index": 3,
+        "slotId": 1,
+        "text": {
+          "id": 4503598681976745439,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15031_4",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15031",
+        "index": 4,
+        "slotId": 2,
+        "text": {
+          "id": -6176176810463465426,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15031"
+  },
+  "envTalk_indie_dg016_env_15032": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15032_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15032",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -1724216961111817489,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15032_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15032",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": 3519826583914306379,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15032"
+  },
+  "envTalk_indie_dg016_env_15033": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15033_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15033",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 1037659889343094058,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15033_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15033",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": 7243947389808777873,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15033"
+  },
+  "envTalk_indie_dg016_env_15034": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15034_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15034",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 5273530570265872157,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15034_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15034",
+        "index": 2,
+        "slotId": 2,
+        "text": {
+          "id": 6738536371100667674,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15034_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15034",
+        "index": 3,
+        "slotId": 2,
+        "text": {
+          "id": -1933044961286332249,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15034_4",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15034",
+        "index": 4,
+        "slotId": 1,
+        "text": {
+          "id": -7451732363244945,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15034"
+  },
+  "envTalk_indie_dg016_env_15035": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15035_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15035",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -1506706971490740072,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15035_2",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15035",
+        "index": 2,
+        "slotId": 1,
+        "text": {
+          "id": 5980971684433504846,
+          "text": ""
+        }
+      },
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15035_3",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15035",
+        "index": 3,
+        "slotId": 1,
+        "text": {
+          "id": -8600934900636987035,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15035"
+  },
+  "envTalk_indie_dg016_env_15036": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15036_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15036",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -2230145751351706679,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15036"
+  },
+  "envTalk_indie_dg016_env_15037": {
+    "envTalkCd": 10.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_envTalk_indie_dg016_env_15037_1",
+        "duration": -1.0,
+        "emojiId": "",
+        "envTalkId": "envTalk_indie_dg016_env_15037",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -8620456990372778979,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "envTalk_indie_dg016_env_15037"
   },
   "envTalk_kai_01": {
     "envTalkCd": 10.0,
@@ -53091,6 +54900,63 @@
       }
     ],
     "envTalkId": "greetEnvTalk_pograni_visitor_01"
+  },
+  "greetEnvTalk_purrche_lower_01": {
+    "envTalkCd": 1.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_greetEnvTalk_purrche_lower_01",
+        "duration": 5.0,
+        "emojiId": "",
+        "envTalkId": "greetEnvTalk_purrche_lower_01",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": -3357981858670951269,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "greetEnvTalk_purrche_lower_01"
+  },
+  "greetEnvTalk_purrche_max_01": {
+    "envTalkCd": 1.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_greetEnvTalk_purrche_max_01",
+        "duration": 5.0,
+        "emojiId": "",
+        "envTalkId": "greetEnvTalk_purrche_max_01",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 5516560725446658932,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "greetEnvTalk_purrche_max_01"
+  },
+  "greetEnvTalk_purrche_visitor_01": {
+    "envTalkCd": 1.0,
+    "envTalkDataList": [
+      {
+        "actorId": "",
+        "audio": "au_greetEnvTalk_purrche_visitor_01",
+        "duration": 5.0,
+        "emojiId": "",
+        "envTalkId": "greetEnvTalk_purrche_visitor_01",
+        "index": 1,
+        "slotId": 1,
+        "text": {
+          "id": 4708082494937158154,
+          "text": ""
+        }
+      }
+    ],
+    "envTalkId": "greetEnvTalk_purrche_visitor_01"
   },
   "greetEnvTalk_seraph_lower_01": {
     "envTalkCd": 1.0,

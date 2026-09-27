@@ -5340,5 +5340,213 @@
       "id": 4192714618030871784,
       "text": ""
     }
+  },
+  "spaceship_skill_chr_0038_purrche_1_1": {
+    "desc": {
+      "id": -4102884942170948121,
+      "text": ""
+    },
+    "effectType": 6,
+    "icon": "facskill_spaceship_guestroom_clue",
+    "id": "spaceship_skill_chr_0038_purrche_1_1",
+    "level": 1,
+    "name": {
+      "id": -2041363232803279446,
+      "text": ""
+    },
+    "parameters": [
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          2.0
+        ],
+        "valueIntList": [
+          2
+        ],
+        "valueStringList": [
+          "2"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          1.0
+        ],
+        "valueIntList": [
+          1
+        ],
+        "valueStringList": [
+          "1"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      }
+    ],
+    "roomType": 5,
+    "skillNamePostfix": "α",
+    "sortId": 121,
+    "talentName": {
+      "id": -4070180326947428630,
+      "text": ""
+    }
+  },
+  "spaceship_skill_chr_0038_purrche_1_2": {
+    "desc": {
+      "id": 5655143528742166163,
+      "text": ""
+    },
+    "effectType": 6,
+    "icon": "facskill_spaceship_guestroom_clue",
+    "id": "spaceship_skill_chr_0038_purrche_1_2",
+    "level": 2,
+    "name": {
+      "id": 5247180599262800159,
+      "text": ""
+    },
+    "parameters": [
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          2.0
+        ],
+        "valueIntList": [
+          2
+        ],
+        "valueStringList": [
+          "2"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          2.0
+        ],
+        "valueIntList": [
+          2
+        ],
+        "valueStringList": [
+          "2"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      }
+    ],
+    "roomType": 5,
+    "skillNamePostfix": "β",
+    "sortId": 122,
+    "talentName": {
+      "id": 7563933191059934457,
+      "text": ""
+    }
+  },
+  "spaceship_skill_chr_0038_purrche_2_1": {
+    "desc": {
+      "id": -2459811209078980978,
+      "text": ""
+    },
+    "effectType": 7,
+    "icon": "facskill_spaceship_manufacture_efficiency",
+    "id": "spaceship_skill_chr_0038_purrche_2_1",
+    "level": 1,
+    "name": {
+      "id": 8594072072609874648,
+      "text": ""
+    },
+    "parameters": [
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          0.20000000298023224
+        ],
+        "valueIntList": null,
+        "valueStringList": [
+          "0.2"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          1.0
+        ],
+        "valueIntList": [
+          1
+        ],
+        "valueStringList": [
+          "1"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      }
+    ],
+    "roomType": 1,
+    "skillNamePostfix": "β",
+    "sortId": 123,
+    "talentName": {
+      "id": 944417766433770809,
+      "text": ""
+    }
+  },
+  "spaceship_skill_chr_0038_purrche_2_2": {
+    "desc": {
+      "id": -5690938727533698564,
+      "text": ""
+    },
+    "effectType": 7,
+    "icon": "facskill_spaceship_manufacture_efficiency",
+    "id": "spaceship_skill_chr_0038_purrche_2_2",
+    "level": 2,
+    "name": {
+      "id": -4207998451462450693,
+      "text": ""
+    },
+    "parameters": [
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          0.30000001192092896
+        ],
+        "valueIntList": null,
+        "valueStringList": [
+          "0.30000000000000004"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          1.0
+        ],
+        "valueIntList": [
+          1
+        ],
+        "valueStringList": [
+          "1"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      }
+    ],
+    "roomType": 1,
+    "skillNamePostfix": "γ",
+    "sortId": 124,
+    "talentName": {
+      "id": -6127873827149931570,
+      "text": ""
+    }
   }
 }

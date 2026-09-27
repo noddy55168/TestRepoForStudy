@@ -581,5 +581,84 @@
         "stageId": "activity_guide_cedarforest_stage_5"
       }
     ]
+  },
+  "activity_map02_guide_dg016": {
+    "stageList": [
+      {
+        "activityId": "activity_map02_guide_dg016",
+        "conditions": {
+          "conditionId": "activity_guide_snowcity_con_1",
+          "progressToCompare": 1
+        },
+        "desc": {
+          "id": -6957414404102970636,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_snowcity_03",
+        "rewardId": "reward_activity_guide_snowcity1",
+        "sortId": 1,
+        "stageId": "activity_guide_snowcity_stage_1"
+      },
+      {
+        "activityId": "activity_map02_guide_dg016",
+        "conditions": {
+          "conditionId": "activity_guide_snowcity_con_2",
+          "progressToCompare": 1
+        },
+        "desc": {
+          "id": -1922830700313455001,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_snowcity_04",
+        "rewardId": "reward_activity_guide_snowcity2",
+        "sortId": 2,
+        "stageId": "activity_guide_snowcity_stage_2"
+      },
+      {
+        "activityId": "activity_map02_guide_dg016",
+        "conditions": {
+          "conditionId": "activity_guide_snowcity_con_3",
+          "progressToCompare": 1
+        },
+        "desc": {
+          "id": 2274614540957648613,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_snowcity_01",
+        "rewardId": "reward_activity_guide_snowcity3",
+        "sortId": 3,
+        "stageId": "activity_guide_snowcity_stage_3"
+      },
+      {
+        "activityId": "activity_map02_guide_dg016",
+        "conditions": {
+          "conditionId": "activity_guide_snowcity_con_4",
+          "progressToCompare": 2
+        },
+        "desc": {
+          "id": 3034811538924136200,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_snowcity_02",
+        "rewardId": "reward_activity_guide_snowcity4",
+        "sortId": 4,
+        "stageId": "activity_guide_snowcity_stage_4"
+      },
+      {
+        "activityId": "activity_map02_guide_dg016",
+        "conditions": {
+          "conditionId": "activity_guide_snowcity_con_5",
+          "progressToCompare": 3
+        },
+        "desc": {
+          "id": -8674179329649578969,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_snowcity_02",
+        "rewardId": "reward_activity_guide_snowcity5",
+        "sortId": 5,
+        "stageId": "activity_guide_snowcity_stage_5"
+      }
+    ]
   }
 }

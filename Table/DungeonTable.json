@@ -12669,6 +12669,62 @@
     },
     "unlockSpCond": false
   },
+  "dung_purrche_chartrain01": {
+    "canDirectlyGetReward": true,
+    "costStamina": 0,
+    "customRewardId": "",
+    "domainId": "",
+    "dungeonCategory": "dungeon_chartutorial",
+    "dungeonDesc": {
+      "id": -5151995211024310083,
+      "text": ""
+    },
+    "dungeonId": "dung_purrche_chartrain01",
+    "dungeonImg": "",
+    "dungeonLevelDesc": {
+      "id": 4640955798057780431,
+      "text": ""
+    },
+    "dungeonName": {
+      "id": -2005679798259666478,
+      "text": ""
+    },
+    "dungeonPicPath": "dung_train_normal",
+    "dungeonSeriesId": "dung_group_chartrain",
+    "enemyIds": [],
+    "enemyLevels": [],
+    "extraGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "extraRewardId": "",
+    "featureDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "firstPassRewardId": "reward_dung_purrche_chartrain01",
+    "forceIgnoreFeaturePopup": false,
+    "hunterModeCostStamina": 0,
+    "hunterModeRewardId": "",
+    "levelId": "base01_dg002",
+    "mainGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "needShowPass": false,
+    "paramList": null,
+    "popupType": 0,
+    "recommendLv": 0,
+    "relatedCharId": "chr_0038_purrche",
+    "rewardId": "",
+    "sceneId": "",
+    "sortId": 27,
+    "tabGroupName": {
+      "id": 0,
+      "text": ""
+    },
+    "unlockSpCond": false
+  },
   "dung_seraph_chartrain01": {
     "canDirectlyGetReward": true,
     "costStamina": 0,
@@ -21325,6 +21381,502 @@
     "relatedCharId": "",
     "rewardId": "",
     "sceneId": "indie_hdg025",
+    "sortId": 0,
+    "tabGroupName": {
+      "id": 0,
+      "text": ""
+    },
+    "unlockSpCond": false
+  },
+  "indie_hard026": {
+    "canDirectlyGetReward": false,
+    "costStamina": 0,
+    "customRewardId": "",
+    "domainId": "",
+    "dungeonCategory": "dungeon_highdifficulty",
+    "dungeonDesc": {
+      "id": -6716239499305417933,
+      "text": ""
+    },
+    "dungeonId": "indie_hard026",
+    "dungeonImg": "",
+    "dungeonLevelDesc": {
+      "id": -2483747600015102452,
+      "text": ""
+    },
+    "dungeonName": {
+      "id": 3645893927702110906,
+      "text": ""
+    },
+    "dungeonPicPath": "dung_high_difficulty_s5_03",
+    "dungeonSeriesId": "indie_group_h07",
+    "enemyIds": [
+      "eny_0118_klhog_hdg026",
+      "eny_0119_kltiger_hdg026"
+    ],
+    "enemyLevels": [
+      60,
+      60
+    ],
+    "extraGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "extraRewardId": "",
+    "featureDesc": {
+      "id": 1523541092471424424,
+      "text": ""
+    },
+    "firstPassRewardId": "reward_indie_hard0026",
+    "forceIgnoreFeaturePopup": true,
+    "hunterModeCostStamina": 0,
+    "hunterModeRewardId": "",
+    "levelId": "",
+    "mainGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "needShowPass": false,
+    "paramList": null,
+    "popupType": 0,
+    "recommendLv": 60,
+    "relatedCharId": "",
+    "rewardId": "",
+    "sceneId": "indie_hdg026",
+    "sortId": 0,
+    "tabGroupName": {
+      "id": 0,
+      "text": ""
+    },
+    "unlockSpCond": false
+  },
+  "indie_hard026_s": {
+    "canDirectlyGetReward": false,
+    "costStamina": 0,
+    "customRewardId": "",
+    "domainId": "",
+    "dungeonCategory": "dungeon_highdifficulty",
+    "dungeonDesc": {
+      "id": -8734061313030374658,
+      "text": ""
+    },
+    "dungeonId": "indie_hard026_s",
+    "dungeonImg": "",
+    "dungeonLevelDesc": {
+      "id": -395507756438239131,
+      "text": ""
+    },
+    "dungeonName": {
+      "id": 1942692002403763002,
+      "text": ""
+    },
+    "dungeonPicPath": "dung_high_difficulty_s5_03",
+    "dungeonSeriesId": "indie_group_h07",
+    "enemyIds": [
+      "eny_0118_klhog_hdg026",
+      "eny_0119_kltiger_hdg026"
+    ],
+    "enemyLevels": [
+      90,
+      90
+    ],
+    "extraGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "extraRewardId": "",
+    "featureDesc": {
+      "id": 3887169053623967505,
+      "text": ""
+    },
+    "firstPassRewardId": "reward_indie_hard0026_s",
+    "forceIgnoreFeaturePopup": true,
+    "hunterModeCostStamina": 0,
+    "hunterModeRewardId": "",
+    "levelId": "",
+    "mainGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "needShowPass": false,
+    "paramList": null,
+    "popupType": 0,
+    "recommendLv": 90,
+    "relatedCharId": "",
+    "rewardId": "",
+    "sceneId": "indie_hdg026",
+    "sortId": 0,
+    "tabGroupName": {
+      "id": 0,
+      "text": ""
+    },
+    "unlockSpCond": false
+  },
+  "indie_hard027": {
+    "canDirectlyGetReward": false,
+    "costStamina": 0,
+    "customRewardId": "",
+    "domainId": "",
+    "dungeonCategory": "dungeon_highdifficulty",
+    "dungeonDesc": {
+      "id": 5593524871449968895,
+      "text": ""
+    },
+    "dungeonId": "indie_hard027",
+    "dungeonImg": "",
+    "dungeonLevelDesc": {
+      "id": 3953873384045697246,
+      "text": ""
+    },
+    "dungeonName": {
+      "id": 4951869183476228917,
+      "text": ""
+    },
+    "dungeonPicPath": "dung_high_difficulty_s7_01",
+    "dungeonSeriesId": "indie_group_h07",
+    "enemyIds": [
+      "eny_0124_kltdcap_hdg027"
+    ],
+    "enemyLevels": [
+      60
+    ],
+    "extraGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "extraRewardId": "",
+    "featureDesc": {
+      "id": -1310286189342019706,
+      "text": ""
+    },
+    "firstPassRewardId": "reward_indie_hard0027",
+    "forceIgnoreFeaturePopup": true,
+    "hunterModeCostStamina": 0,
+    "hunterModeRewardId": "",
+    "levelId": "",
+    "mainGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "needShowPass": false,
+    "paramList": null,
+    "popupType": 0,
+    "recommendLv": 60,
+    "relatedCharId": "",
+    "rewardId": "",
+    "sceneId": "indie_hdg027",
+    "sortId": 0,
+    "tabGroupName": {
+      "id": 0,
+      "text": ""
+    },
+    "unlockSpCond": false
+  },
+  "indie_hard027_s": {
+    "canDirectlyGetReward": false,
+    "costStamina": 0,
+    "customRewardId": "",
+    "domainId": "",
+    "dungeonCategory": "dungeon_highdifficulty",
+    "dungeonDesc": {
+      "id": 2237645607998233639,
+      "text": ""
+    },
+    "dungeonId": "indie_hard027_s",
+    "dungeonImg": "",
+    "dungeonLevelDesc": {
+      "id": 7347534113500513274,
+      "text": ""
+    },
+    "dungeonName": {
+      "id": -2663688004632204354,
+      "text": ""
+    },
+    "dungeonPicPath": "dung_high_difficulty_s7_01",
+    "dungeonSeriesId": "indie_group_h07",
+    "enemyIds": [
+      "eny_0124_kltdcap_hdg027"
+    ],
+    "enemyLevels": [
+      90
+    ],
+    "extraGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "extraRewardId": "",
+    "featureDesc": {
+      "id": -469937690401202962,
+      "text": ""
+    },
+    "firstPassRewardId": "reward_indie_hard0027_s",
+    "forceIgnoreFeaturePopup": true,
+    "hunterModeCostStamina": 0,
+    "hunterModeRewardId": "",
+    "levelId": "",
+    "mainGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "needShowPass": false,
+    "paramList": null,
+    "popupType": 0,
+    "recommendLv": 90,
+    "relatedCharId": "",
+    "rewardId": "",
+    "sceneId": "indie_hdg027",
+    "sortId": 0,
+    "tabGroupName": {
+      "id": 0,
+      "text": ""
+    },
+    "unlockSpCond": false
+  },
+  "indie_hard028": {
+    "canDirectlyGetReward": false,
+    "costStamina": 0,
+    "customRewardId": "",
+    "domainId": "",
+    "dungeonCategory": "dungeon_highdifficulty",
+    "dungeonDesc": {
+      "id": -4096980769115739310,
+      "text": ""
+    },
+    "dungeonId": "indie_hard028",
+    "dungeonImg": "",
+    "dungeonLevelDesc": {
+      "id": -5135542828858700766,
+      "text": ""
+    },
+    "dungeonName": {
+      "id": -103267163437165845,
+      "text": ""
+    },
+    "dungeonPicPath": "dung_high_difficulty_s7_02",
+    "dungeonSeriesId": "indie_group_h07",
+    "enemyIds": [
+      "eny_0117_klhound",
+      "eny_0121_klbud",
+      "eny_0122_kltdbud",
+      "eny_0123_klcap_hdg028"
+    ],
+    "enemyLevels": [
+      60,
+      60,
+      60,
+      60
+    ],
+    "extraGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "extraRewardId": "",
+    "featureDesc": {
+      "id": 6171448993896595058,
+      "text": ""
+    },
+    "firstPassRewardId": "reward_indie_hard0028",
+    "forceIgnoreFeaturePopup": true,
+    "hunterModeCostStamina": 0,
+    "hunterModeRewardId": "",
+    "levelId": "",
+    "mainGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "needShowPass": false,
+    "paramList": null,
+    "popupType": 0,
+    "recommendLv": 60,
+    "relatedCharId": "",
+    "rewardId": "",
+    "sceneId": "indie_hdg028",
+    "sortId": 0,
+    "tabGroupName": {
+      "id": 0,
+      "text": ""
+    },
+    "unlockSpCond": false
+  },
+  "indie_hard028_s": {
+    "canDirectlyGetReward": false,
+    "costStamina": 0,
+    "customRewardId": "",
+    "domainId": "",
+    "dungeonCategory": "dungeon_highdifficulty",
+    "dungeonDesc": {
+      "id": -8776716951271725039,
+      "text": ""
+    },
+    "dungeonId": "indie_hard028_s",
+    "dungeonImg": "",
+    "dungeonLevelDesc": {
+      "id": -5919497023637155010,
+      "text": ""
+    },
+    "dungeonName": {
+      "id": -4957928002590779006,
+      "text": ""
+    },
+    "dungeonPicPath": "dung_high_difficulty_s7_02",
+    "dungeonSeriesId": "indie_group_h07",
+    "enemyIds": [
+      "eny_0117_klhound",
+      "eny_0121_klbud",
+      "eny_0122_kltdbud",
+      "eny_0123_klcap_hdg028"
+    ],
+    "enemyLevels": [
+      90,
+      90,
+      90,
+      90
+    ],
+    "extraGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "extraRewardId": "",
+    "featureDesc": {
+      "id": -4004967445685455600,
+      "text": ""
+    },
+    "firstPassRewardId": "reward_indie_hard0028_s",
+    "forceIgnoreFeaturePopup": true,
+    "hunterModeCostStamina": 0,
+    "hunterModeRewardId": "",
+    "levelId": "",
+    "mainGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "needShowPass": false,
+    "paramList": null,
+    "popupType": 0,
+    "recommendLv": 90,
+    "relatedCharId": "",
+    "rewardId": "",
+    "sceneId": "indie_hdg028",
+    "sortId": 0,
+    "tabGroupName": {
+      "id": 0,
+      "text": ""
+    },
+    "unlockSpCond": false
+  },
+  "indie_hard029": {
+    "canDirectlyGetReward": false,
+    "costStamina": 0,
+    "customRewardId": "",
+    "domainId": "",
+    "dungeonCategory": "dungeon_highdifficulty",
+    "dungeonDesc": {
+      "id": 6084793561798229185,
+      "text": ""
+    },
+    "dungeonId": "indie_hard029",
+    "dungeonImg": "",
+    "dungeonLevelDesc": {
+      "id": 819582706289303134,
+      "text": ""
+    },
+    "dungeonName": {
+      "id": -9214397179546338511,
+      "text": ""
+    },
+    "dungeonPicPath": "dung_high_difficulty_s5_02",
+    "dungeonSeriesId": "indie_group_h07",
+    "enemyIds": [
+      "eny_0070_agscorp2"
+    ],
+    "enemyLevels": [
+      60
+    ],
+    "extraGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "extraRewardId": "",
+    "featureDesc": {
+      "id": 8543598256062589936,
+      "text": ""
+    },
+    "firstPassRewardId": "reward_indie_hard0029",
+    "forceIgnoreFeaturePopup": true,
+    "hunterModeCostStamina": 0,
+    "hunterModeRewardId": "",
+    "levelId": "",
+    "mainGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "needShowPass": false,
+    "paramList": null,
+    "popupType": 0,
+    "recommendLv": 60,
+    "relatedCharId": "",
+    "rewardId": "",
+    "sceneId": "indie_hdg029",
+    "sortId": 0,
+    "tabGroupName": {
+      "id": 0,
+      "text": ""
+    },
+    "unlockSpCond": false
+  },
+  "indie_hard029_s": {
+    "canDirectlyGetReward": false,
+    "costStamina": 0,
+    "customRewardId": "",
+    "domainId": "",
+    "dungeonCategory": "dungeon_highdifficulty",
+    "dungeonDesc": {
+      "id": 4531575932462212821,
+      "text": ""
+    },
+    "dungeonId": "indie_hard029_s",
+    "dungeonImg": "",
+    "dungeonLevelDesc": {
+      "id": -6287536275874483098,
+      "text": ""
+    },
+    "dungeonName": {
+      "id": -3632787298934865493,
+      "text": ""
+    },
+    "dungeonPicPath": "dung_high_difficulty_s5_02",
+    "dungeonSeriesId": "indie_group_h07",
+    "enemyIds": [
+      "eny_0070_agscorp2"
+    ],
+    "enemyLevels": [
+      90
+    ],
+    "extraGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "extraRewardId": "",
+    "featureDesc": {
+      "id": -1146936922552456598,
+      "text": ""
+    },
+    "firstPassRewardId": "reward_indie_hard0029_s",
+    "forceIgnoreFeaturePopup": true,
+    "hunterModeCostStamina": 0,
+    "hunterModeRewardId": "",
+    "levelId": "",
+    "mainGoalDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "needShowPass": false,
+    "paramList": null,
+    "popupType": 0,
+    "recommendLv": 90,
+    "relatedCharId": "",
+    "rewardId": "",
+    "sceneId": "indie_hdg029",
     "sortId": 0,
     "tabGroupName": {
       "id": 0,

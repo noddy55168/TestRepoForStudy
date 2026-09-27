@@ -629,6 +629,26 @@
     },
     "sortId": 9
   },
+  "bp_06_taskgroup_activity_3": {
+    "groupId": "bp_06_taskgroup_activity_3",
+    "isDefault": false,
+    "labelId": "bp_06_task_label_activity",
+    "name": {
+      "id": -9048513803432701279,
+      "text": ""
+    },
+    "sortId": 10
+  },
+  "bp_06_taskgroup_activity_4": {
+    "groupId": "bp_06_taskgroup_activity_4",
+    "isDefault": false,
+    "labelId": "bp_06_task_label_activity",
+    "name": {
+      "id": 2466226395185258613,
+      "text": ""
+    },
+    "sortId": 11
+  },
   "bp_06_taskgroup_catchup": {
     "groupId": "bp_06_taskgroup_catchup",
     "isDefault": true,

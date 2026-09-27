@@ -11564,6 +11564,205 @@
     },
     "submitId": "submit_item_gm02m10"
   },
+  "submit_item_gm02m27_lingjian": {
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "hintDes": {
+      "id": 0,
+      "text": ""
+    },
+    "icon": "",
+    "name": {
+      "id": 0,
+      "text": ""
+    },
+    "paramData": [
+      {
+        "paramList": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "item_mission_gm02m27_lingjian1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              1.0
+            ],
+            "valueIntList": [
+              1
+            ],
+            "valueStringList": [
+              "1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "type": 1
+      },
+      {
+        "paramList": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "item_mission_gm02m27_lingjian2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              1.0
+            ],
+            "valueIntList": [
+              1
+            ],
+            "valueStringList": [
+              "1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "type": 1
+      },
+      {
+        "paramList": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "item_mission_gm02m27_lingjian3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              1.0
+            ],
+            "valueIntList": [
+              1
+            ],
+            "valueStringList": [
+              "1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "type": 1
+      },
+      {
+        "paramList": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "item_mission_gm02m27_lingjian4"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              1.0
+            ],
+            "valueIntList": [
+              1
+            ],
+            "valueStringList": [
+              "1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "type": 1
+      }
+    ],
+    "selectHintDes": {
+      "id": 0,
+      "text": ""
+    },
+    "submitId": "submit_item_gm02m27_lingjian"
+  },
+  "submit_item_gm02m27_switch": {
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "hintDes": {
+      "id": 0,
+      "text": ""
+    },
+    "icon": "",
+    "name": {
+      "id": 0,
+      "text": ""
+    },
+    "paramData": [
+      {
+        "paramList": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "item_mission_gm02m27_switch"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              1.0
+            ],
+            "valueIntList": [
+              1
+            ],
+            "valueStringList": [
+              "1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "type": 1
+      }
+    ],
+    "selectHintDes": {
+      "id": 0,
+      "text": ""
+    },
+    "submitId": "submit_item_gm02m27_switch"
+  },
   "submit_item_gm02m8_1": {
     "desc": {
       "id": 382015415074052199,

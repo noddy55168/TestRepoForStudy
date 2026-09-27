@@ -7365,6 +7365,116 @@
     "sortId": 407,
     "taskId": "bp_06_task_activity_2_4"
   },
+  "bp_06_task_activity_3_1": {
+    "addexp": 3000,
+    "conditionIds": [
+      "bp_06_condition_task_activity_3_1"
+    ],
+    "defaultEnable": false,
+    "forecastTipId": "forecasttip_activity_common",
+    "formatType": true,
+    "groupId": "bp_06_taskgroup_activity_3",
+    "jumpId": "jump_center_activity_parkour",
+    "name": {
+      "id": 425204541404263464,
+      "text": ""
+    },
+    "opType": 1,
+    "sortId": 408,
+    "taskId": "bp_06_task_activity_3_1"
+  },
+  "bp_06_task_activity_3_2": {
+    "addexp": 3000,
+    "conditionIds": [
+      "bp_06_condition_task_activity_3_2"
+    ],
+    "defaultEnable": false,
+    "forecastTipId": "forecasttip_activity_common",
+    "formatType": true,
+    "groupId": "bp_06_taskgroup_activity_3",
+    "jumpId": "jump_center_activity_parkour",
+    "name": {
+      "id": 8664009594883986930,
+      "text": ""
+    },
+    "opType": 1,
+    "sortId": 409,
+    "taskId": "bp_06_task_activity_3_2"
+  },
+  "bp_06_task_activity_3_3": {
+    "addexp": 3000,
+    "conditionIds": [
+      "bp_06_condition_task_activity_3_3"
+    ],
+    "defaultEnable": false,
+    "forecastTipId": "forecasttip_activity_common",
+    "formatType": true,
+    "groupId": "bp_06_taskgroup_activity_3",
+    "jumpId": "jump_center_activity_parkour",
+    "name": {
+      "id": -3747888909475952403,
+      "text": ""
+    },
+    "opType": 1,
+    "sortId": 410,
+    "taskId": "bp_06_task_activity_3_3"
+  },
+  "bp_06_task_activity_4_1": {
+    "addexp": 3000,
+    "conditionIds": [
+      "bp_06_condition_task_activity_4_1"
+    ],
+    "defaultEnable": false,
+    "forecastTipId": "forecasttip_activity_common",
+    "formatType": true,
+    "groupId": "bp_06_taskgroup_activity_4",
+    "jumpId": "jump_center_activity_high_difficulty_v1d5",
+    "name": {
+      "id": 146984747423505706,
+      "text": ""
+    },
+    "opType": 1,
+    "sortId": 411,
+    "taskId": "bp_06_task_activity_4_1"
+  },
+  "bp_06_task_activity_4_2": {
+    "addexp": 3000,
+    "conditionIds": [
+      "bp_06_condition_task_activity_4_2_1",
+      "bp_06_condition_task_activity_4_2_2"
+    ],
+    "defaultEnable": false,
+    "forecastTipId": "forecasttip_activity_common",
+    "formatType": false,
+    "groupId": "bp_06_taskgroup_activity_4",
+    "jumpId": "jump_center_activity_high_difficulty_v1d5",
+    "name": {
+      "id": -3409014408459210136,
+      "text": ""
+    },
+    "opType": 1,
+    "sortId": 412,
+    "taskId": "bp_06_task_activity_4_2"
+  },
+  "bp_06_task_activity_4_3": {
+    "addexp": 3000,
+    "conditionIds": [
+      "bp_06_condition_task_activity_4_3_1",
+      "bp_06_condition_task_activity_4_3_2"
+    ],
+    "defaultEnable": false,
+    "forecastTipId": "forecasttip_activity_common",
+    "formatType": false,
+    "groupId": "bp_06_taskgroup_activity_4",
+    "jumpId": "jump_center_activity_high_difficulty_v1d5",
+    "name": {
+      "id": -2815205889656008079,
+      "text": ""
+    },
+    "opType": 1,
+    "sortId": 413,
+    "taskId": "bp_06_task_activity_4_3"
+  },
   "bp_06_task_season_1_1": {
     "addexp": 3500,
     "conditionIds": [

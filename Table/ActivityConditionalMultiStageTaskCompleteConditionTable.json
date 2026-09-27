@@ -552,6 +552,176 @@
     ],
     "progressToCompare": 1000000
   },
+  "activity_character_gift_purrche_task_2_condition": {
+    "compareOperator": 3,
+    "conditionId": "activity_character_gift_purrche_task_2_condition",
+    "conditionType": 5031,
+    "desc": {
+      "id": 1786699374156106905,
+      "text": ""
+    },
+    "parameters": [
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": null,
+        "valueIntList": null,
+        "valueStringList": [
+          "dung_purrche_chartrain01"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      }
+    ],
+    "progressToCompare": 1
+  },
+  "activity_character_gift_purrche_task_3_condition": {
+    "compareOperator": 3,
+    "conditionId": "activity_character_gift_purrche_task_3_condition",
+    "conditionType": 18,
+    "desc": {
+      "id": 8765314763326989241,
+      "text": ""
+    },
+    "parameters": [
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": null,
+        "valueIntList": null,
+        "valueStringList": [
+          "gm02m27_q#3"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          0.0
+        ],
+        "valueIntList": [
+          0
+        ],
+        "valueStringList": [
+          "0"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": [
+          3.0
+        ],
+        "valueIntList": [
+          3
+        ],
+        "valueStringList": [
+          "3"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      }
+    ],
+    "progressToCompare": 1
+  },
+  "activity_character_gift_purrche_task_4_condition": {
+    "compareOperator": 3,
+    "conditionId": "activity_character_gift_purrche_task_4_condition",
+    "conditionType": 6059,
+    "desc": {
+      "id": 5603754803394808816,
+      "text": ""
+    },
+    "parameters": [
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": null,
+        "valueIntList": null,
+        "valueStringList": [
+          "dung02_rcdg001"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      }
+    ],
+    "progressToCompare": 1
+  },
+  "activity_character_gift_purrche_task_5_condition": {
+    "compareOperator": 3,
+    "conditionId": "activity_character_gift_purrche_task_5_condition",
+    "conditionType": 6069,
+    "desc": {
+      "id": -7836945053423130402,
+      "text": ""
+    },
+    "parameters": [
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": null,
+        "valueIntList": null,
+        "valueStringList": [
+          "E_StatType_GameEnterNum"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": null,
+        "valueIntList": null,
+        "valueStringList": [
+          "indie_hard026_s",
+          "indie_hard027_s",
+          "indie_hard028_s",
+          "indie_hard029_s"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      }
+    ],
+    "progressToCompare": 1
+  },
+  "activity_character_gift_purrche_task_6_condition": {
+    "compareOperator": 3,
+    "conditionId": "activity_character_gift_purrche_task_6_condition",
+    "conditionType": 6511,
+    "desc": {
+      "id": 3094571428122690905,
+      "text": ""
+    },
+    "parameters": [
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": null,
+        "valueIntList": null,
+        "valueStringList": [
+          "E_StatType_GameCategoryPassNum"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      },
+      {
+        "realType": 0,
+        "valueBoolList": null,
+        "valueFloatList": null,
+        "valueIntList": null,
+        "valueStringList": [
+          "dungeon_seasontower"
+        ],
+        "valueType": 0,
+        "valueVector3": null
+      }
+    ],
+    "progressToCompare": 1
+  },
   "activity_contingency_contract_0_task_1_1_condition": {
     "compareOperator": 3,
     "conditionId": "activity_contingency_contract_0_task_1_1_condition",

@@ -23837,6 +23837,717 @@
     },
     "id": "chr_0035_liino_talent_2_2"
   },
+  "chr_0038_purrche_potential_1": {
+    "dataList": [
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 3,
+        "skillBbModifier": {
+          "bbKey": "prob",
+          "floatValue": 1.5,
+          "modifyType": 2,
+          "skillId": "chr_0038_purrche_ultimate_skill",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      }
+    ],
+    "desc": {
+      "id": -2626779394246203211,
+      "text": ""
+    },
+    "id": "chr_0038_purrche_potential_1"
+  },
+  "chr_0038_purrche_potential_2": {
+    "dataList": [
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 3,
+          "attrValue": 20.0,
+          "modifierType": 5,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 4,
+        "skillBbModifier": {
+          "bbKey": "",
+          "floatValue": 0.0,
+          "modifyType": 0,
+          "skillId": "",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      },
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 42,
+          "attrValue": 20.0,
+          "modifierType": 5,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 4,
+        "skillBbModifier": {
+          "bbKey": "",
+          "floatValue": 0.0,
+          "modifyType": 0,
+          "skillId": "",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      }
+    ],
+    "desc": {
+      "id": -9143669242288845125,
+      "text": ""
+    },
+    "id": "chr_0038_purrche_potential_2"
+  },
+  "chr_0038_purrche_potential_3": {
+    "dataList": [
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 3,
+        "skillBbModifier": {
+          "bbKey": "potential_3",
+          "floatValue": 1.0,
+          "modifyType": 3,
+          "skillId": "chr_0038_purrche_combo_skill",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      },
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 3,
+        "skillBbModifier": {
+          "bbKey": "heal_static_value_fish",
+          "floatValue": 1.2000000476837158,
+          "modifyType": 2,
+          "skillId": "chr_0038_purrche_combo_skill",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      },
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 3,
+        "skillBbModifier": {
+          "bbKey": "heal_scale_fish",
+          "floatValue": 1.2000000476837158,
+          "modifyType": 2,
+          "skillId": "chr_0038_purrche_combo_skill",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      },
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 3,
+        "skillBbModifier": {
+          "bbKey": "atk_scale_boom",
+          "floatValue": 1.2000000476837158,
+          "modifyType": 2,
+          "skillId": "chr_0038_purrche_combo_skill",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      },
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 3,
+        "skillBbModifier": {
+          "bbKey": "radiusadd_display",
+          "floatValue": 0.20000000298023224,
+          "modifyType": 2,
+          "skillId": "chr_0038_purrche_combo_skill",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      }
+    ],
+    "desc": {
+      "id": -4618017646796800666,
+      "text": ""
+    },
+    "id": "chr_0038_purrche_potential_3"
+  },
+  "chr_0038_purrche_potential_4": {
+    "dataList": [
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 2,
+        "skillBbModifier": {
+          "bbKey": "",
+          "floatValue": 0.0,
+          "modifyType": 0,
+          "skillId": "",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 2,
+          "paramType": 1,
+          "paramValue": 0.8500000238418579,
+          "skillId": "chr_0038_purrche_ultimate_skill"
+        }
+      }
+    ],
+    "desc": {
+      "id": -2438979944986635636,
+      "text": ""
+    },
+    "id": "chr_0038_purrche_potential_4"
+  },
+  "chr_0038_purrche_potential_5": {
+    "dataList": [
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 3,
+        "skillBbModifier": {
+          "bbKey": "atk_scale_ult",
+          "floatValue": 1.2000000476837158,
+          "modifyType": 2,
+          "skillId": "chr_0038_purrche_ultimate_skill",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      },
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 3,
+        "skillBbModifier": {
+          "bbKey": "rate_vul",
+          "floatValue": 1.2000000476837158,
+          "modifyType": 2,
+          "skillId": "chr_0038_purrche_ultimate_skill",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      }
+    ],
+    "desc": {
+      "id": -5353194961240734755,
+      "text": ""
+    },
+    "id": "chr_0038_purrche_potential_5"
+  },
+  "chr_0038_purrche_talent_1_1": {
+    "dataList": [
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 3,
+        "skillBbModifier": {
+          "bbKey": "talent_1_usp",
+          "floatValue": 6.0,
+          "modifyType": 3,
+          "skillId": "chr_0038_purrche_normal_skill_block_1",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      },
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 3,
+        "skillBbModifier": {
+          "bbKey": "talent1_prob_up",
+          "floatValue": 0.10000000149011612,
+          "modifyType": 3,
+          "skillId": "chr_0038_purrche_ultimate_skill",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      },
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 3,
+        "skillBbModifier": {
+          "bbKey": "talent_1_stack",
+          "floatValue": 3.0,
+          "modifyType": 3,
+          "skillId": "chr_0038_purrche_normal_skill_block_1",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      }
+    ],
+    "desc": {
+      "id": -606382469047668452,
+      "text": ""
+    },
+    "id": "chr_0038_purrche_talent_1_1"
+  },
+  "chr_0038_purrche_talent_1_2": {
+    "dataList": [
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 3,
+        "skillBbModifier": {
+          "bbKey": "talent_1_usp",
+          "floatValue": 10.0,
+          "modifyType": 3,
+          "skillId": "chr_0038_purrche_normal_skill_block_1",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      },
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 3,
+        "skillBbModifier": {
+          "bbKey": "talent1_prob_up",
+          "floatValue": 0.10000000149011612,
+          "modifyType": 3,
+          "skillId": "chr_0038_purrche_ultimate_skill",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      },
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [],
+          "skillId": "",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 3,
+        "skillBbModifier": {
+          "bbKey": "talent_1_stack",
+          "floatValue": 3.0,
+          "modifyType": 3,
+          "skillId": "chr_0038_purrche_normal_skill_block_1",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      }
+    ],
+    "desc": {
+      "id": 4931894526916146442,
+      "text": ""
+    },
+    "id": "chr_0038_purrche_talent_1_2"
+  },
+  "chr_0038_purrche_talent_2_1": {
+    "dataList": [
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [
+            {
+              "key": "dmg_down",
+              "value": 0.5,
+              "valueStr": ""
+            },
+            {
+              "key": "cd",
+              "value": 180.0,
+              "valueStr": ""
+            }
+          ],
+          "skillId": "chr_0038_purrche_talent_2",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 1,
+        "skillBbModifier": {
+          "bbKey": "",
+          "floatValue": 0.0,
+          "modifyType": 0,
+          "skillId": "",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      }
+    ],
+    "desc": {
+      "id": 7949075031294661876,
+      "text": ""
+    },
+    "id": "chr_0038_purrche_talent_2_1"
+  },
+  "chr_0038_purrche_talent_2_2": {
+    "dataList": [
+      {
+        "activeCondition": [],
+        "attachBuff": {
+          "blackboard": [],
+          "buffId": ""
+        },
+        "attachSkill": {
+          "blackboard": [
+            {
+              "key": "dmg_down",
+              "value": 0.5,
+              "valueStr": ""
+            },
+            {
+              "key": "cd",
+              "value": 90.0,
+              "valueStr": ""
+            }
+          ],
+          "skillId": "chr_0038_purrche_talent_2",
+          "skillPath": ""
+        },
+        "attrModifier": {
+          "attrType": 0,
+          "attrValue": 0.0,
+          "modifierType": 0,
+          "modifyAttributeType": 0
+        },
+        "modifyType": 1,
+        "skillBbModifier": {
+          "bbKey": "",
+          "floatValue": 0.0,
+          "modifyType": 0,
+          "skillId": "",
+          "stringValue": ""
+        },
+        "skillParamModifier": {
+          "modifyType": 0,
+          "paramType": 0,
+          "paramValue": 0.0,
+          "skillId": ""
+        }
+      }
+    ],
+    "desc": {
+      "id": -7364689952003212339,
+      "text": ""
+    },
+    "id": "chr_0038_purrche_talent_2_2"
+  },
   "chr_9000_endmin_potential_1": {
     "dataList": [
       {

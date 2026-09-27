@@ -3587,6 +3587,150 @@
     "stepIcon": "icon_combo_skill_chen_01",
     "stepId": "pograni_stage_4_step_05"
   },
+  "purrche_stage_1_step_01": {
+    "iconDesc": {
+      "id": -2641663557573879791,
+      "text": ""
+    },
+    "stepDesc": {
+      "id": -2069942489629201115,
+      "text": ""
+    },
+    "stepIcon": "icon_attack_sword",
+    "stepId": "purrche_stage_1_step_01"
+  },
+  "purrche_stage_1_step_02": {
+    "iconDesc": {
+      "id": -9023537695979261168,
+      "text": ""
+    },
+    "stepDesc": {
+      "id": -9135725805757572880,
+      "text": ""
+    },
+    "stepIcon": "icon_attack_sword",
+    "stepId": "purrche_stage_1_step_02"
+  },
+  "purrche_stage_1_step_03": {
+    "iconDesc": {
+      "id": -4564139528861443522,
+      "text": ""
+    },
+    "stepDesc": {
+      "id": -1692516182729129289,
+      "text": ""
+    },
+    "stepIcon": "icon_attack_sword",
+    "stepId": "purrche_stage_1_step_03"
+  },
+  "purrche_stage_2_step_01": {
+    "iconDesc": {
+      "id": 4453186254678534701,
+      "text": ""
+    },
+    "stepDesc": {
+      "id": 5696396479572058887,
+      "text": ""
+    },
+    "stepIcon": "icon_skill_purrche_01",
+    "stepId": "purrche_stage_2_step_01"
+  },
+  "purrche_stage_2_step_02": {
+    "iconDesc": {
+      "id": -8427294575618369488,
+      "text": ""
+    },
+    "stepDesc": {
+      "id": -8051774634857839871,
+      "text": ""
+    },
+    "stepIcon": "icon_skill_purrche_02",
+    "stepId": "purrche_stage_2_step_02"
+  },
+  "purrche_stage_3_step_01": {
+    "iconDesc": {
+      "id": -5624800943041357602,
+      "text": ""
+    },
+    "stepDesc": {
+      "id": -7328990365337913023,
+      "text": ""
+    },
+    "stepIcon": "icon_skill_purrche_01",
+    "stepId": "purrche_stage_3_step_01"
+  },
+  "purrche_stage_3_step_02": {
+    "iconDesc": {
+      "id": 6462021783680908242,
+      "text": ""
+    },
+    "stepDesc": {
+      "id": -2873767572192709798,
+      "text": ""
+    },
+    "stepIcon": "icon_skill_purrche_02",
+    "stepId": "purrche_stage_3_step_02"
+  },
+  "purrche_stage_4_step_01": {
+    "iconDesc": {
+      "id": -7380832263374189553,
+      "text": ""
+    },
+    "stepDesc": {
+      "id": 1805190950578775600,
+      "text": ""
+    },
+    "stepIcon": "icon_combo_skill_purrche_01",
+    "stepId": "purrche_stage_4_step_01"
+  },
+  "purrche_stage_5_step_01": {
+    "iconDesc": {
+      "id": 6721503278056017957,
+      "text": ""
+    },
+    "stepDesc": {
+      "id": -2693513366730413091,
+      "text": ""
+    },
+    "stepIcon": "icon_combo_skill_purrche_01",
+    "stepId": "purrche_stage_5_step_01"
+  },
+  "purrche_stage_6_step_01": {
+    "iconDesc": {
+      "id": -8333112752419278107,
+      "text": ""
+    },
+    "stepDesc": {
+      "id": -7793334671710565326,
+      "text": ""
+    },
+    "stepIcon": "icon_combo_skill_purrche_01",
+    "stepId": "purrche_stage_6_step_01"
+  },
+  "purrche_stage_7_step_01": {
+    "iconDesc": {
+      "id": 1264986016385239828,
+      "text": ""
+    },
+    "stepDesc": {
+      "id": -3008387659219210769,
+      "text": ""
+    },
+    "stepIcon": "icon_ultimate_skill_purrche_01",
+    "stepId": "purrche_stage_7_step_01"
+  },
+  "purrche_stage_7_step_02": {
+    "iconDesc": {
+      "id": 8876047076069947422,
+      "text": ""
+    },
+    "stepDesc": {
+      "id": -3866840212363361246,
+      "text": ""
+    },
+    "stepIcon": "icon_ultimate_skill_pelica_01",
+    "stepId": "purrche_stage_7_step_02"
+  },
   "seraph_stage_1_step_01": {
     "iconDesc": {
       "id": 8840842016728892424,

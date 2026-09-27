@@ -1503,6 +1503,38 @@
     "overrideRadioId": "",
     "type": "text"
   },
+  "nar_digital_map02_research11_12_1": {
+    "contentId": "text_map02_research11_17",
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "firstLvId": "digital_map02_research11_12",
+    "id": "nar_digital_map02_research11_12_1",
+    "name": {
+      "id": 8799700364052597620,
+      "text": ""
+    },
+    "order": 1,
+    "overrideRadioId": "",
+    "type": "text"
+  },
+  "nar_digital_map02_research11_14_1": {
+    "contentId": "text_map02_research11_1",
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "firstLvId": "digital_map02_research11_14",
+    "id": "nar_digital_map02_research11_14_1",
+    "name": {
+      "id": -7595949896026364119,
+      "text": ""
+    },
+    "order": 1,
+    "overrideRadioId": "",
+    "type": "text"
+  },
   "nar_digital_map02_research1_3_1": {
     "contentId": "text_sm2l2m3_4",
     "desc": {
@@ -5849,6 +5881,182 @@
     "id": "nar_paper_map02_99_1",
     "name": {
       "id": 6474798711649991182,
+      "text": ""
+    },
+    "order": 1,
+    "overrideRadioId": "",
+    "type": "text"
+  },
+  "nar_paper_map02_research11_10_1": {
+    "contentId": "text_map02_research11_14",
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "firstLvId": "paper_map02_research11_10",
+    "id": "nar_paper_map02_research11_10_1",
+    "name": {
+      "id": -1007806380990174632,
+      "text": ""
+    },
+    "order": 1,
+    "overrideRadioId": "",
+    "type": "text"
+  },
+  "nar_paper_map02_research11_11_1": {
+    "contentId": "text_map02_research11_15",
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "firstLvId": "paper_map02_research11_11",
+    "id": "nar_paper_map02_research11_11_1",
+    "name": {
+      "id": -8374648049958532584,
+      "text": ""
+    },
+    "order": 1,
+    "overrideRadioId": "",
+    "type": "text"
+  },
+  "nar_paper_map02_research11_13_1": {
+    "contentId": "text_map02_research11_16",
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "firstLvId": "paper_map02_research11_13",
+    "id": "nar_paper_map02_research11_13_1",
+    "name": {
+      "id": 2146474500684125710,
+      "text": ""
+    },
+    "order": 1,
+    "overrideRadioId": "",
+    "type": "text"
+  },
+  "nar_paper_map02_research11_2_1": {
+    "contentId": "text_map02_research11_2",
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "firstLvId": "paper_map02_research11_2",
+    "id": "nar_paper_map02_research11_2_1",
+    "name": {
+      "id": -1599724580273898247,
+      "text": ""
+    },
+    "order": 1,
+    "overrideRadioId": "",
+    "type": "text"
+  },
+  "nar_paper_map02_research11_3_1": {
+    "contentId": "text_map02_research11_7",
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "firstLvId": "paper_map02_research11_3",
+    "id": "nar_paper_map02_research11_3_1",
+    "name": {
+      "id": -1648688867974982476,
+      "text": ""
+    },
+    "order": 1,
+    "overrideRadioId": "",
+    "type": "text"
+  },
+  "nar_paper_map02_research11_4_1": {
+    "contentId": "text_map02_research11_18",
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "firstLvId": "paper_map02_research11_4",
+    "id": "nar_paper_map02_research11_4_1",
+    "name": {
+      "id": -1928265287461729281,
+      "text": ""
+    },
+    "order": 1,
+    "overrideRadioId": "",
+    "type": "text"
+  },
+  "nar_paper_map02_research11_5_1": {
+    "contentId": "text_map02_research11_9",
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "firstLvId": "paper_map02_research11_5",
+    "id": "nar_paper_map02_research11_5_1",
+    "name": {
+      "id": 1787652373897183430,
+      "text": ""
+    },
+    "order": 1,
+    "overrideRadioId": "",
+    "type": "text"
+  },
+  "nar_paper_map02_research11_6_1": {
+    "contentId": "text_map02_research11_10",
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "firstLvId": "paper_map02_research11_6",
+    "id": "nar_paper_map02_research11_6_1",
+    "name": {
+      "id": -5209503238040914375,
+      "text": ""
+    },
+    "order": 1,
+    "overrideRadioId": "",
+    "type": "text"
+  },
+  "nar_paper_map02_research11_7_1": {
+    "contentId": "text_map02_research11_11",
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "firstLvId": "paper_map02_research11_7",
+    "id": "nar_paper_map02_research11_7_1",
+    "name": {
+      "id": -4557065520133661904,
+      "text": ""
+    },
+    "order": 1,
+    "overrideRadioId": "",
+    "type": "text"
+  },
+  "nar_paper_map02_research11_8_1": {
+    "contentId": "text_map02_research11_12",
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "firstLvId": "paper_map02_research11_8",
+    "id": "nar_paper_map02_research11_8_1",
+    "name": {
+      "id": 8204628310814722953,
+      "text": ""
+    },
+    "order": 1,
+    "overrideRadioId": "",
+    "type": "text"
+  },
+  "nar_paper_map02_research11_9_1": {
+    "contentId": "text_map02_research11_13",
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "firstLvId": "paper_map02_research11_9",
+    "id": "nar_paper_map02_research11_9_1",
+    "name": {
+      "id": 6320140930222354199,
       "text": ""
     },
     "order": 1,

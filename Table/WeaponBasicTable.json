@@ -1966,6 +1966,31 @@
     ],
     "weaponType": 1
   },
+  "wpn_sword_0023": {
+    "breakthroughTemplateId": "weapon_breakthrough_456star_B_3",
+    "engName": {
+      "id": -169781309141294846,
+      "text": ""
+    },
+    "levelTemplateId": "weapon_upgrade_curve_5star_1",
+    "maxLv": 90,
+    "modelPath": "Gameplay/Prefabs/Weapons/wpn_sword_0023.prefab",
+    "potentialUpItemList": [],
+    "rarity": 5,
+    "talentTemplateId": "wpn_potential_456star",
+    "weaponDesc": {
+      "id": -4028309190931498986,
+      "text": ""
+    },
+    "weaponId": "wpn_sword_0023",
+    "weaponPotentialSkill": "sk_wpn_sword_0023",
+    "weaponSkillList": [
+      "wpn_attr_str_mid",
+      "wpn_sp_attr_heal_mid",
+      "sk_wpn_sword_0023"
+    ],
+    "weaponType": 1
+  },
   "wpn_sword_0026": {
     "breakthroughTemplateId": "weapon_breakthrough_456star_C_3",
     "engName": {

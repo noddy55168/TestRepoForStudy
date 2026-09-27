@@ -167,6 +167,14 @@
     "extraInfoType": 2,
     "missionId": "gm02m22"
   },
+  "gm02m27": {
+    "extraInfoDesc": {
+      "id": 5558778741589356743,
+      "text": ""
+    },
+    "extraInfoType": 3,
+    "missionId": "gm02m27"
+  },
   "gm02m29": {
     "extraInfoDesc": {
       "id": 580456589916110074,

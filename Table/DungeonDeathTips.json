@@ -1190,5 +1190,77 @@
         "text": ""
       }
     ]
+  },
+  "indie_hard026": {
+    "tipContents": [
+      {
+        "id": -7517651094826770006,
+        "text": ""
+      }
+    ]
+  },
+  "indie_hard026_s": {
+    "tipContents": [
+      {
+        "id": 3816974003406783517,
+        "text": ""
+      }
+    ]
+  },
+  "indie_hard027": {
+    "tipContents": [
+      {
+        "id": 172578015203688791,
+        "text": ""
+      }
+    ]
+  },
+  "indie_hard027_s": {
+    "tipContents": [
+      {
+        "id": 1286067683282008157,
+        "text": ""
+      }
+    ]
+  },
+  "indie_hard028": {
+    "tipContents": [
+      {
+        "id": -5781493183523169235,
+        "text": ""
+      }
+    ]
+  },
+  "indie_hard028_s": {
+    "tipContents": [
+      {
+        "id": 3869264117400819210,
+        "text": ""
+      }
+    ]
+  },
+  "indie_hard029": {
+    "tipContents": [
+      {
+        "id": 5148500696815903760,
+        "text": ""
+      },
+      {
+        "id": -2215189714327066100,
+        "text": ""
+      }
+    ]
+  },
+  "indie_hard029_s": {
+    "tipContents": [
+      {
+        "id": 8820548426512765202,
+        "text": ""
+      },
+      {
+        "id": 7237645752518874005,
+        "text": ""
+      }
+    ]
   }
 }

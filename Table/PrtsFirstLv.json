@@ -1435,6 +1435,40 @@
       "text": ""
     }
   },
+  "digital_map02_research11_12": {
+    "categoryId": "digital",
+    "firstLvId": "digital_map02_research11_12",
+    "icon": "prts_read_electronicscreen",
+    "itemIds": [
+      "nar_digital_map02_research11_12_1"
+    ],
+    "name": {
+      "id": -3013307705487304602,
+      "text": ""
+    },
+    "order": 201053003,
+    "subName": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "digital_map02_research11_14": {
+    "categoryId": "digital",
+    "firstLvId": "digital_map02_research11_14",
+    "icon": "prts_read_electronicscreen",
+    "itemIds": [
+      "nar_digital_map02_research11_14_1"
+    ],
+    "name": {
+      "id": -4355995981432277826,
+      "text": ""
+    },
+    "order": 201053002,
+    "subName": {
+      "id": 0,
+      "text": ""
+    }
+  },
   "digital_map02_research1_3": {
     "categoryId": "digital",
     "firstLvId": "digital_map02_research1_3",
@@ -7201,6 +7235,193 @@
       "text": ""
     }
   },
+  "paper_map02_research11_10": {
+    "categoryId": "paper",
+    "firstLvId": "paper_map02_research11_10",
+    "icon": "prts_read_note",
+    "itemIds": [
+      "nar_paper_map02_research11_10_1"
+    ],
+    "name": {
+      "id": -7901070958431491181,
+      "text": ""
+    },
+    "order": 201053012,
+    "subName": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "paper_map02_research11_11": {
+    "categoryId": "digital",
+    "firstLvId": "paper_map02_research11_11",
+    "icon": "prts_read_electronicscreen",
+    "itemIds": [
+      "nar_paper_map02_research11_11_1"
+    ],
+    "name": {
+      "id": 8809083757272938802,
+      "text": ""
+    },
+    "order": 201053013,
+    "subName": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "paper_map02_research11_13": {
+    "categoryId": "paper",
+    "firstLvId": "paper_map02_research11_13",
+    "icon": "prts_read_note",
+    "itemIds": [
+      "nar_paper_map02_research11_13_1"
+    ],
+    "name": {
+      "id": 7790656656545087550,
+      "text": ""
+    },
+    "order": 201053014,
+    "subName": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "paper_map02_research11_2": {
+    "categoryId": "paper",
+    "firstLvId": "paper_map02_research11_2",
+    "icon": "prts_read_oldbook",
+    "itemIds": [
+      "nar_paper_map02_research11_2_1"
+    ],
+    "name": {
+      "id": 2560707808441607908,
+      "text": ""
+    },
+    "order": 201053004,
+    "subName": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "paper_map02_research11_3": {
+    "categoryId": "paper",
+    "firstLvId": "paper_map02_research11_3",
+    "icon": "prts_read_oldbook",
+    "itemIds": [
+      "nar_paper_map02_research11_3_1"
+    ],
+    "name": {
+      "id": -6108304985260710703,
+      "text": ""
+    },
+    "order": 201053005,
+    "subName": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "paper_map02_research11_4": {
+    "categoryId": "paper",
+    "firstLvId": "paper_map02_research11_4",
+    "icon": "prts_read_notebook",
+    "itemIds": [
+      "nar_paper_map02_research11_4_1"
+    ],
+    "name": {
+      "id": -5874041927141188498,
+      "text": ""
+    },
+    "order": 201053006,
+    "subName": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "paper_map02_research11_5": {
+    "categoryId": "paper",
+    "firstLvId": "paper_map02_research11_5",
+    "icon": "prts_read_expensivebook",
+    "itemIds": [
+      "nar_paper_map02_research11_5_1"
+    ],
+    "name": {
+      "id": 7304486878088427790,
+      "text": ""
+    },
+    "order": 201053007,
+    "subName": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "paper_map02_research11_6": {
+    "categoryId": "paper",
+    "firstLvId": "paper_map02_research11_6",
+    "icon": "prts_read_letter",
+    "itemIds": [
+      "nar_paper_map02_research11_6_1"
+    ],
+    "name": {
+      "id": -4794792056732676465,
+      "text": ""
+    },
+    "order": 201053008,
+    "subName": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "paper_map02_research11_7": {
+    "categoryId": "paper",
+    "firstLvId": "paper_map02_research11_7",
+    "icon": "prts_read_note",
+    "itemIds": [
+      "nar_paper_map02_research11_7_1"
+    ],
+    "name": {
+      "id": -5439393897852570115,
+      "text": ""
+    },
+    "order": 201053009,
+    "subName": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "paper_map02_research11_8": {
+    "categoryId": "paper",
+    "firstLvId": "paper_map02_research11_8",
+    "icon": "prts_read_note",
+    "itemIds": [
+      "nar_paper_map02_research11_8_1"
+    ],
+    "name": {
+      "id": 5115118350792678206,
+      "text": ""
+    },
+    "order": 201053010,
+    "subName": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "paper_map02_research11_9": {
+    "categoryId": "paper",
+    "firstLvId": "paper_map02_research11_9",
+    "icon": "prts_read_notebook",
+    "itemIds": [
+      "nar_paper_map02_research11_9_1"
+    ],
+    "name": {
+      "id": 7514740176009688597,
+      "text": ""
+    },
+    "order": 201053011,
+    "subName": {
+      "id": 0,
+      "text": ""
+    }
+  },
   "paper_map02_research1_1": {
     "categoryId": "paper",
     "firstLvId": "paper_map02_research1_1",
@@ -7468,6 +7689,23 @@
       "text": ""
     },
     "order": 100082001,
+    "subName": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "report_map02_research11_1": {
+    "categoryId": "report",
+    "firstLvId": "report_map02_research11_1",
+    "icon": "prts_read_document",
+    "itemIds": [
+      "nar_report_map02_research11_1_1"
+    ],
+    "name": {
+      "id": 4404024818158804859,
+      "text": ""
+    },
+    "order": 201053001,
     "subName": {
       "id": 0,
       "text": ""

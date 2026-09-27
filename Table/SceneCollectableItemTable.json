@@ -33,6 +33,40 @@
       }
     ]
   },
+  "indie_dg016": {
+    "itemList": [
+      {
+        "convertRequiredCount": -1,
+        "convertTargetItemId": "",
+        "extraBandwidthCapacity": 0,
+        "extraBuildingNumLimit": 0,
+        "hasConvertRule": false,
+        "imagePath": "ItemIcon/item_collection_ether_wuling",
+        "infoLabel": {
+          "id": -1468293306484261905,
+          "text": ""
+        },
+        "itemId": "item_collection_ether_wuling",
+        "maxCount": 31,
+        "sceneId": "indie_dg016"
+      },
+      {
+        "convertRequiredCount": -1,
+        "convertTargetItemId": "",
+        "extraBandwidthCapacity": 0,
+        "extraBuildingNumLimit": 0,
+        "hasConvertRule": false,
+        "imagePath": "ItemIcon/item_collection_ether",
+        "infoLabel": {
+          "id": -3546205017727004306,
+          "text": ""
+        },
+        "itemId": "int_campfire_v2",
+        "maxCount": 5,
+        "sceneId": "indie_dg016"
+      }
+    ]
+  },
   "map01_lv001": {
     "itemList": [
       {

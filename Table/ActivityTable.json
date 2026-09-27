@@ -1306,6 +1306,44 @@
     "timeId": "time_special_1_5_1",
     "type": 9
   },
+  "activity_character_gift_purrche": {
+    "bgImg": "",
+    "bgm": "",
+    "conditions": [],
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "detailJumpId": "jump_activity_character_gift_purrche",
+    "endMissionQuestId": "",
+    "id": "activity_character_gift_purrche",
+    "immediateClose": false,
+    "instructionId": "instru_activity_character_gift_purrche",
+    "introMissionJumpId": "",
+    "introMissionQuestId": "",
+    "isRecommend": false,
+    "keepAfterPermanentActivityComplete": false,
+    "name": {
+      "id": -7240476473627683986,
+      "text": ""
+    },
+    "panelId": "ActivityCharacterGift",
+    "popUpOnlyOnce": true,
+    "popUpPanelId": "ActivityCharGiftPopUp",
+    "popUpSortId": 10,
+    "redDotName": "",
+    "rewardId": "reward_activity_character_gift_purrche_overview",
+    "sortId": 8318,
+    "tabImg": "activity_tab_bg_charactergift",
+    "tabImgColor": "#f25c63",
+    "tabImgGender": false,
+    "tagIds": [
+      "activity_tag_character_gift"
+    ],
+    "themeColor": "",
+    "timeId": "time_activity_character_gift_purrche",
+    "type": 52
+  },
   "activity_checkin_1": {
     "bgImg": "",
     "bgm": "",
@@ -3607,6 +3645,103 @@
     ],
     "themeColor": "",
     "timeId": "time_activity_guide_cedarforest",
+    "type": 13
+  },
+  "activity_map02_guide_dg016": {
+    "bgImg": "",
+    "bgm": "",
+    "conditions": [
+      {
+        "compareOperator": 3,
+        "conditionId": "activity_guide_snowcity_unlockmain",
+        "conditionType": 18,
+        "desc": {
+          "id": -1959037024338487687,
+          "text": ""
+        },
+        "jumpId": "jump_activity_guide_snowcity_01",
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "gm02m27_q#3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              3.0
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueStringList": [
+              "3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1,
+        "tips": {
+          "id": 2881303966019356694,
+          "text": ""
+        }
+      }
+    ],
+    "desc": {
+      "id": 3665880460170488375,
+      "text": ""
+    },
+    "detailJumpId": "",
+    "endMissionQuestId": "",
+    "id": "activity_map02_guide_dg016",
+    "immediateClose": false,
+    "instructionId": "activity_guide_snowcity",
+    "introMissionJumpId": "",
+    "introMissionQuestId": "",
+    "isRecommend": false,
+    "keepAfterPermanentActivityComplete": false,
+    "name": {
+      "id": 8867143499180306448,
+      "text": ""
+    },
+    "panelId": "ActivityVersionGuide",
+    "popUpOnlyOnce": false,
+    "popUpPanelId": "",
+    "popUpSortId": -1,
+    "redDotName": "",
+    "rewardId": "reward_activity_guide_snowcity_overview",
+    "sortId": 8007,
+    "tabImg": "activity_tab_bg_guide_snowcity",
+    "tabImgColor": "#6dabf1",
+    "tabImgGender": false,
+    "tagIds": [
+      "activity_tag_guide"
+    ],
+    "themeColor": "",
+    "timeId": "time_activity_guide_snowcity",
     "type": 13
   },
   "activity_more": {

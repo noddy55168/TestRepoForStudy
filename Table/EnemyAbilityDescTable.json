@@ -1748,6 +1748,17 @@
       "text": ""
     }
   },
+  "eny_0118_klhog_hdg026_ability_1": {
+    "abilityId": "eny_0118_klhog_hdg026_ability_1",
+    "description": {
+      "id": -3279367028666766676,
+      "text": ""
+    },
+    "name": {
+      "id": 0,
+      "text": ""
+    }
+  },
   "eny_0119_kltiger_ability_1": {
     "abilityId": "eny_0119_kltiger_ability_1",
     "description": {
@@ -1763,6 +1774,17 @@
     "abilityId": "eny_0119_kltiger_ability_2",
     "description": {
       "id": -5799535799608435284,
+      "text": ""
+    },
+    "name": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "eny_0119_kltiger_hdg026_ability_1": {
+    "abilityId": "eny_0119_kltiger_hdg026_ability_1",
+    "description": {
+      "id": -1750051077101519035,
       "text": ""
     },
     "name": {
@@ -1836,6 +1858,17 @@
       "text": ""
     }
   },
+  "eny_0123_klcap_hdg028_ability_1": {
+    "abilityId": "eny_0123_klcap_hdg028_ability_1",
+    "description": {
+      "id": -2875044875242756654,
+      "text": ""
+    },
+    "name": {
+      "id": 0,
+      "text": ""
+    }
+  },
   "eny_0124_kltdcap_ability_1": {
     "abilityId": "eny_0124_kltdcap_ability_1",
     "description": {
@@ -1851,6 +1884,17 @@
     "abilityId": "eny_0124_kltdcap_ability_2",
     "description": {
       "id": 2910312187615258181,
+      "text": ""
+    },
+    "name": {
+      "id": 0,
+      "text": ""
+    }
+  },
+  "eny_0124_kltdcap_hdg027_ability_1": {
+    "abilityId": "eny_0124_kltdcap_hdg027_ability_1",
+    "description": {
+      "id": -5084518276208076895,
       "text": ""
     },
     "name": {

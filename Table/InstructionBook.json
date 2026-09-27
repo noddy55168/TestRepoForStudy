@@ -340,6 +340,17 @@
       "text": ""
     }
   },
+  "activity_guide_snowcity": {
+    "content": {
+      "id": -8408448250703651309,
+      "text": ""
+    },
+    "id": "activity_guide_snowcity",
+    "title": {
+      "id": -8013194519968817864,
+      "text": ""
+    }
+  },
   "activity_guide_wuling": {
     "content": {
       "id": -6412222582293137034,
@@ -623,6 +634,17 @@
     "id": "hunter_mode",
     "title": {
       "id": -1259910660327173953,
+      "text": ""
+    }
+  },
+  "instru_activity_character_gift_purrche": {
+    "content": {
+      "id": -4806636092066258514,
+      "text": ""
+    },
+    "id": "instru_activity_character_gift_purrche",
+    "title": {
+      "id": 1080573877050341682,
       "text": ""
     }
   },

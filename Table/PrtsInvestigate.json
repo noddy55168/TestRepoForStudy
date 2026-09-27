@@ -829,6 +829,92 @@
     "type": 0,
     "unlockPrts": "nar_report_map01_research2_5_1"
   },
+  "research_gm02m27": {
+    "categoryDataList": [
+      {
+        "collectionIdList": [
+          "nar_paper_map02_research11_5_1",
+          "nar_paper_map02_research11_6_1",
+          "nar_paper_map02_research11_2_1",
+          "nar_digital_map02_research11_14_1"
+        ],
+        "index": 1,
+        "name": {
+          "id": 8193429909171617870,
+          "text": ""
+        },
+        "noteIdList": [
+          "hint_research_gm02m27_1_1"
+        ]
+      },
+      {
+        "collectionIdList": [
+          "nar_paper_map02_research11_8_1",
+          "nar_paper_map02_research11_9_1",
+          "nar_paper_map02_research11_10_1",
+          "nar_digital_map02_research11_12_1"
+        ],
+        "index": 2,
+        "name": {
+          "id": -7230107444243050485,
+          "text": ""
+        },
+        "noteIdList": [
+          "hint_research_gm02m27_2_1"
+        ]
+      },
+      {
+        "collectionIdList": [
+          "nar_paper_map02_research11_3_1",
+          "nar_paper_map02_research11_4_1",
+          "nar_paper_map02_research11_13_1",
+          "nar_paper_map02_research11_7_1",
+          "nar_paper_map02_research11_11_1"
+        ],
+        "index": 3,
+        "name": {
+          "id": 2946608171639362389,
+          "text": ""
+        },
+        "noteIdList": [
+          "hint_research_gm02m27_3_1"
+        ]
+      }
+    ],
+    "collectionIdList": [
+      "nar_paper_map02_research11_5_1",
+      "nar_paper_map02_research11_6_1",
+      "nar_paper_map02_research11_2_1",
+      "nar_digital_map02_research11_14_1",
+      "nar_paper_map02_research11_8_1",
+      "nar_paper_map02_research11_9_1",
+      "nar_paper_map02_research11_10_1",
+      "nar_digital_map02_research11_12_1",
+      "nar_paper_map02_research11_3_1",
+      "nar_paper_map02_research11_4_1",
+      "nar_paper_map02_research11_13_1",
+      "nar_paper_map02_research11_7_1",
+      "nar_paper_map02_research11_11_1"
+    ],
+    "desc": {
+      "id": 8368173198004266672,
+      "text": ""
+    },
+    "domainId": "domain_2",
+    "id": "research_gm02m27",
+    "index": 11,
+    "investigateAreaDesc": {
+      "id": 7175023400630139405,
+      "text": ""
+    },
+    "name": {
+      "id": 2704715539237622444,
+      "text": ""
+    },
+    "rewardId": "reward_prts_research_gm02m27",
+    "type": 0,
+    "unlockPrts": "nar_report_map02_research11_1_1"
+  },
   "research_landbreakerMurder": {
     "categoryDataList": [
       {

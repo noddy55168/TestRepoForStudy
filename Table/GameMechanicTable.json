@@ -5185,6 +5185,30 @@
     "rewardId": "",
     "starRewardIds": []
   },
+  "dung_purrche_chartrain01": {
+    "conditionIds": [
+      "dung_purrche_chartrain01_condition_1"
+    ],
+    "costStamina": 0,
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "difficulty": 1,
+    "extraRewardId": "",
+    "firstPassRewardId": "reward_dung_purrche_chartrain01",
+    "gameCategory": "dungeon_chartutorial",
+    "gameCoolDown": 0,
+    "gameGroupId": "",
+    "gameMechanicsId": "dung_purrche_chartrain01",
+    "gameName": {
+      "id": 8242224249790334274,
+      "text": ""
+    },
+    "hunterModeRewardId": "",
+    "rewardId": "",
+    "starRewardIds": []
+  },
   "dung_seraph_chartrain01": {
     "conditionIds": [
       "dung_seraph_chartrain01_condition_1"
@@ -8375,6 +8399,198 @@
     "gameMechanicsId": "indie_hard025_s",
     "gameName": {
       "id": -8153586780628072425,
+      "text": ""
+    },
+    "hunterModeRewardId": "",
+    "rewardId": "",
+    "starRewardIds": []
+  },
+  "indie_hard026": {
+    "conditionIds": [
+      "activity_high_difficulty_condition_s7_01"
+    ],
+    "costStamina": 0,
+    "desc": {
+      "id": -4235992651932066462,
+      "text": ""
+    },
+    "difficulty": 1,
+    "extraRewardId": "",
+    "firstPassRewardId": "reward_indie_hard0026",
+    "gameCategory": "dungeon_highdifficulty",
+    "gameCoolDown": 0,
+    "gameGroupId": "",
+    "gameMechanicsId": "indie_hard026",
+    "gameName": {
+      "id": 5100232359976524331,
+      "text": ""
+    },
+    "hunterModeRewardId": "",
+    "rewardId": "",
+    "starRewardIds": []
+  },
+  "indie_hard026_s": {
+    "conditionIds": [
+      "activity_high_difficulty_condition_s7_01s"
+    ],
+    "costStamina": 0,
+    "desc": {
+      "id": -1722464784887509910,
+      "text": ""
+    },
+    "difficulty": 1,
+    "extraRewardId": "",
+    "firstPassRewardId": "reward_indie_hard0026_s",
+    "gameCategory": "dungeon_highdifficulty",
+    "gameCoolDown": 0,
+    "gameGroupId": "",
+    "gameMechanicsId": "indie_hard026_s",
+    "gameName": {
+      "id": -1461133700153362271,
+      "text": ""
+    },
+    "hunterModeRewardId": "",
+    "rewardId": "",
+    "starRewardIds": []
+  },
+  "indie_hard027": {
+    "conditionIds": [
+      "activity_high_difficulty_condition_s7_02"
+    ],
+    "costStamina": 0,
+    "desc": {
+      "id": 2820676577605597036,
+      "text": ""
+    },
+    "difficulty": 1,
+    "extraRewardId": "",
+    "firstPassRewardId": "reward_indie_hard0027",
+    "gameCategory": "dungeon_highdifficulty",
+    "gameCoolDown": 0,
+    "gameGroupId": "",
+    "gameMechanicsId": "indie_hard027",
+    "gameName": {
+      "id": -6576572819189742707,
+      "text": ""
+    },
+    "hunterModeRewardId": "",
+    "rewardId": "",
+    "starRewardIds": []
+  },
+  "indie_hard027_s": {
+    "conditionIds": [
+      "activity_high_difficulty_condition_s7_02s"
+    ],
+    "costStamina": 0,
+    "desc": {
+      "id": 5228634715759586294,
+      "text": ""
+    },
+    "difficulty": 1,
+    "extraRewardId": "",
+    "firstPassRewardId": "reward_indie_hard0027_s",
+    "gameCategory": "dungeon_highdifficulty",
+    "gameCoolDown": 0,
+    "gameGroupId": "",
+    "gameMechanicsId": "indie_hard027_s",
+    "gameName": {
+      "id": -3835377421981374744,
+      "text": ""
+    },
+    "hunterModeRewardId": "",
+    "rewardId": "",
+    "starRewardIds": []
+  },
+  "indie_hard028": {
+    "conditionIds": [
+      "activity_high_difficulty_condition_s7_03"
+    ],
+    "costStamina": 0,
+    "desc": {
+      "id": 8591518142640044857,
+      "text": ""
+    },
+    "difficulty": 1,
+    "extraRewardId": "",
+    "firstPassRewardId": "reward_indie_hard0028",
+    "gameCategory": "dungeon_highdifficulty",
+    "gameCoolDown": 0,
+    "gameGroupId": "",
+    "gameMechanicsId": "indie_hard028",
+    "gameName": {
+      "id": 2995950482995889612,
+      "text": ""
+    },
+    "hunterModeRewardId": "",
+    "rewardId": "",
+    "starRewardIds": []
+  },
+  "indie_hard028_s": {
+    "conditionIds": [
+      "activity_high_difficulty_condition_s7_03s"
+    ],
+    "costStamina": 0,
+    "desc": {
+      "id": 4473910901108100646,
+      "text": ""
+    },
+    "difficulty": 1,
+    "extraRewardId": "",
+    "firstPassRewardId": "reward_indie_hard0028_s",
+    "gameCategory": "dungeon_highdifficulty",
+    "gameCoolDown": 0,
+    "gameGroupId": "",
+    "gameMechanicsId": "indie_hard028_s",
+    "gameName": {
+      "id": -931884182637504294,
+      "text": ""
+    },
+    "hunterModeRewardId": "",
+    "rewardId": "",
+    "starRewardIds": []
+  },
+  "indie_hard029": {
+    "conditionIds": [
+      "activity_high_difficulty_condition_s7_04"
+    ],
+    "costStamina": 0,
+    "desc": {
+      "id": 1750884522875950821,
+      "text": ""
+    },
+    "difficulty": 1,
+    "extraRewardId": "",
+    "firstPassRewardId": "reward_indie_hard0029",
+    "gameCategory": "dungeon_highdifficulty",
+    "gameCoolDown": 0,
+    "gameGroupId": "",
+    "gameMechanicsId": "indie_hard029",
+    "gameName": {
+      "id": -48936529423907019,
+      "text": ""
+    },
+    "hunterModeRewardId": "",
+    "rewardId": "",
+    "starRewardIds": []
+  },
+  "indie_hard029_s": {
+    "conditionIds": [
+      "activity_high_difficulty_condition_s7_04s"
+    ],
+    "costStamina": 0,
+    "desc": {
+      "id": 2374532211481565864,
+      "text": ""
+    },
+    "difficulty": 1,
+    "extraRewardId": "",
+    "firstPassRewardId": "reward_indie_hard0029_s",
+    "gameCategory": "dungeon_highdifficulty",
+    "gameCoolDown": 0,
+    "gameGroupId": "",
+    "gameMechanicsId": "indie_hard029_s",
+    "gameName": {
+      "id": 8002068085844611666,
       "text": ""
     },
     "hunterModeRewardId": "",

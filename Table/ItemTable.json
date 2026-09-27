@@ -818,6 +818,45 @@
     "valuableDepotRedDot": false,
     "valuableTabType": 6
   },
+  "achv_adv_wuling_bugball_2": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": 7457811583942226800,
+      "text": ""
+    },
+    "desc": {
+      "id": 2486219859761487188,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "item_achievement_icon",
+    "id": "achv_adv_wuling_bugball_2",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "",
+    "name": {
+      "id": 2486219859761487188,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [],
+    "outcomeItemIds": [],
+    "rarity": 1,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -1000,
+    "sortId2": 1,
+    "type": 100,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 6
+  },
   "achv_adv_wuling_campfire_1_1": {
     "backpackCanDiscard": false,
     "decoDesc": {
@@ -1382,6 +1421,45 @@
     "modelKey": "",
     "name": {
       "id": -4957361215661374559,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [],
+    "outcomeItemIds": [],
+    "rarity": 1,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -1000,
+    "sortId2": 1,
+    "type": 100,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 6
+  },
+  "achv_adv_wuling_minimap_1_2": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": -3350359077681824290,
+      "text": ""
+    },
+    "desc": {
+      "id": 3297524726946158404,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "item_achievement_icon",
+    "id": "achv_adv_wuling_minimap_1_2",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "",
+    "name": {
+      "id": 3297524726946158404,
       "text": ""
     },
     "noObtainWayConditionId": [],
@@ -3254,6 +3332,84 @@
     "modelKey": "",
     "name": {
       "id": 708332245606807091,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [],
+    "outcomeItemIds": [],
+    "rarity": 1,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -1000,
+    "sortId2": 1,
+    "type": 100,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 6
+  },
+  "achv_bat_hard_7_2": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": -3035779692722681376,
+      "text": ""
+    },
+    "desc": {
+      "id": 4932075407789944356,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "item_achievement_icon",
+    "id": "achv_bat_hard_7_2",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "",
+    "name": {
+      "id": 4932075407789944356,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [],
+    "outcomeItemIds": [],
+    "rarity": 1,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -1000,
+    "sortId2": 1,
+    "type": 100,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 6
+  },
+  "achv_bat_hard_7_2_plate": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": -3035779692722681376,
+      "text": ""
+    },
+    "desc": {
+      "id": 4932075407789944356,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "item_achievement_icon",
+    "id": "achv_bat_hard_7_2_plate",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "",
+    "name": {
+      "id": 4932075407789944356,
       "text": ""
     },
     "noObtainWayConditionId": [],
@@ -8189,6 +8345,45 @@
     "valuableDepotRedDot": false,
     "valuableTabType": 6
   },
+  "achv_quest_gm02m27_2": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": 8378879495905277056,
+      "text": ""
+    },
+    "desc": {
+      "id": 8644665695932884228,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "item_achievement_icon",
+    "id": "achv_quest_gm02m27_2",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "",
+    "name": {
+      "id": 8644665695932884228,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [],
+    "outcomeItemIds": [],
+    "rarity": 1,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -1000,
+    "sortId2": 1,
+    "type": 100,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 6
+  },
   "achv_quest_laevat_2": {
     "backpackCanDiscard": false,
     "decoDesc": {
@@ -11433,6 +11628,47 @@
     "showingType": 0,
     "sortId1": -30,
     "sortId2": 31,
+    "type": 4,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 6
+  },
+  "chr_0038_purrche": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": 130862925855281600,
+      "text": ""
+    },
+    "desc": {
+      "id": 8738240900485937721,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "item_chr_0038_purrche",
+    "id": "chr_0038_purrche",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": 1,
+    "modelKey": "",
+    "name": {
+      "id": 7926047832040051157,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [
+      "item_obtain_activity"
+    ],
+    "outcomeItemIds": [],
+    "rarity": 5,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -30,
+    "sortId2": 33,
     "type": 4,
     "valuableDepotRedDot": false,
     "valuableTabType": 6
@@ -30462,6 +30698,47 @@
     "showingType": 0,
     "sortId1": -31,
     "sortId2": 31,
+    "type": 42,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 10
+  },
+  "item_charpotentialup_chr_0038_purrche": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": -6372006015998982664,
+      "text": ""
+    },
+    "desc": {
+      "id": 7175972991644326083,
+      "text": ""
+    },
+    "iconCompositeId": "item_icon_composite_charpotentialup",
+    "iconId": "item_charpotentialup_chr_0038_purrche",
+    "id": "item_charpotentialup_chr_0038_purrche",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "",
+    "name": {
+      "id": 8063765552739459753,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [
+      "item_obtain_char_potential"
+    ],
+    "outcomeItemIds": [],
+    "rarity": 5,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -31,
+    "sortId2": 33,
     "type": 42,
     "valuableDepotRedDot": false,
     "valuableTabType": 10
@@ -76385,6 +76662,252 @@
     "valuableDepotRedDot": false,
     "valuableTabType": 5
   },
+  "item_mission_gm02m27_bell": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": -5100621525788113780,
+      "text": ""
+    },
+    "desc": {
+      "id": -8509370497025086980,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "item_mission_gm02m27_bell",
+    "id": "item_mission_gm02m27_bell",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "",
+    "name": {
+      "id": -8637633656389760342,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [
+      "item_obtain_mission"
+    ],
+    "outcomeItemIds": [],
+    "rarity": 5,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -210,
+    "sortId2": 144,
+    "type": 13,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 5
+  },
+  "item_mission_gm02m27_lingjian1": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": -3617568851561667992,
+      "text": ""
+    },
+    "desc": {
+      "id": 8208684592863067984,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "item_mission_gm02m27_lingjian",
+    "id": "item_mission_gm02m27_lingjian1",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "",
+    "name": {
+      "id": -5211291856195801951,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [
+      "item_obtain_mission"
+    ],
+    "outcomeItemIds": [],
+    "rarity": 5,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -210,
+    "sortId2": 146,
+    "type": 13,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 5
+  },
+  "item_mission_gm02m27_lingjian2": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": 1027656263074879991,
+      "text": ""
+    },
+    "desc": {
+      "id": -6966359169664395579,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "item_mission_gm02m27_lingjian",
+    "id": "item_mission_gm02m27_lingjian2",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "",
+    "name": {
+      "id": 2186533073872418333,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [
+      "item_obtain_mission"
+    ],
+    "outcomeItemIds": [],
+    "rarity": 5,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -210,
+    "sortId2": 147,
+    "type": 13,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 5
+  },
+  "item_mission_gm02m27_lingjian3": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": -1507134137047658295,
+      "text": ""
+    },
+    "desc": {
+      "id": -6328557752461558425,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "item_mission_gm02m27_lingjian",
+    "id": "item_mission_gm02m27_lingjian3",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "",
+    "name": {
+      "id": 6751129006809349398,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [
+      "item_obtain_mission"
+    ],
+    "outcomeItemIds": [],
+    "rarity": 5,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -210,
+    "sortId2": 148,
+    "type": 13,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 5
+  },
+  "item_mission_gm02m27_lingjian4": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": -7597077895210744122,
+      "text": ""
+    },
+    "desc": {
+      "id": 439644399898025018,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "item_mission_gm02m27_lingjian",
+    "id": "item_mission_gm02m27_lingjian4",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "",
+    "name": {
+      "id": 7440082999379017903,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [
+      "item_obtain_mission"
+    ],
+    "outcomeItemIds": [],
+    "rarity": 5,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -210,
+    "sortId2": 149,
+    "type": 13,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 5
+  },
+  "item_mission_gm02m27_switch": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": -6762947922873116244,
+      "text": ""
+    },
+    "desc": {
+      "id": -2478223033866775916,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "item_mission_gm02m27_switch",
+    "id": "item_mission_gm02m27_switch",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "",
+    "name": {
+      "id": -4147370567518739452,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [
+      "item_obtain_mission"
+    ],
+    "outcomeItemIds": [],
+    "rarity": 5,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -210,
+    "sortId2": 145,
+    "type": 13,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 5
+  },
   "item_mission_sm1l2m2_key": {
     "backpackCanDiscard": false,
     "decoDesc": {
@@ -79249,6 +79772,47 @@
     "valuableDepotRedDot": false,
     "valuableTabType": 6
   },
+  "item_pic_1_chr_0038_purrche": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": 8499869613947525592,
+      "text": ""
+    },
+    "desc": {
+      "id": -4439387467806539408,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "item_potential_normal_photo",
+    "id": "item_pic_1_chr_0038_purrche",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "",
+    "name": {
+      "id": -7938489458917644730,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [
+      "item_obtain_potential_level"
+    ],
+    "outcomeItemIds": [],
+    "rarity": 5,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -341,
+    "sortId2": 104,
+    "type": 76,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 6
+  },
   "item_pic_1_chr_9000_endmin": {
     "backpackCanDiscard": false,
     "decoDesc": {
@@ -80643,6 +81207,47 @@
     "valuableDepotRedDot": false,
     "valuableTabType": 6
   },
+  "item_pic_3_chr_0038_purrche": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": -1338060621402668074,
+      "text": ""
+    },
+    "desc": {
+      "id": -8264663110585100422,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "item_potential_normal_photo",
+    "id": "item_pic_3_chr_0038_purrche",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "",
+    "name": {
+      "id": -5330517608912582839,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [
+      "item_obtain_potential_level"
+    ],
+    "outcomeItemIds": [],
+    "rarity": 5,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -341,
+    "sortId2": 105,
+    "type": 76,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 6
+  },
   "item_pic_3_chr_9000_endmin": {
     "backpackCanDiscard": false,
     "decoDesc": {
@@ -81992,6 +82597,47 @@
     "showingType": 0,
     "sortId1": -341,
     "sortId2": 100,
+    "type": 76,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 6
+  },
+  "item_pic_5_chr_0038_purrche": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": 3191134121517323214,
+      "text": ""
+    },
+    "desc": {
+      "id": 3692287203704336192,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "item_potential_normal_photo",
+    "id": "item_pic_5_chr_0038_purrche",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "",
+    "name": {
+      "id": -6460751594845225618,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [
+      "item_obtain_potential_level"
+    ],
+    "outcomeItemIds": [],
+    "rarity": 5,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -341,
+    "sortId2": 106,
     "type": 76,
     "valuableDepotRedDot": false,
     "valuableTabType": 6
@@ -100663,6 +101309,47 @@
     "valuableDepotRedDot": false,
     "valuableTabType": 6
   },
+  "item_user_avatar_chr_0038_purrche": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": 0,
+      "text": ""
+    },
+    "desc": {
+      "id": -1567190220749367064,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "item_chr_0038_purrche",
+    "id": "item_user_avatar_chr_0038_purrche",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "",
+    "name": {
+      "id": -3479655537191422994,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [
+      "item_obtain_char_potential"
+    ],
+    "outcomeItemIds": [],
+    "rarity": 5,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -22,
+    "sortId2": 33,
+    "type": 66,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 6
+  },
   "item_user_avatar_frame_activity_1": {
     "backpackCanDiscard": false,
     "decoDesc": {
@@ -116785,6 +117472,47 @@
     "showingType": 0,
     "sortId1": -35,
     "sortId2": 63,
+    "type": 5,
+    "valuableDepotRedDot": false,
+    "valuableTabType": 1
+  },
+  "wpn_sword_0023": {
+    "backpackCanDiscard": false,
+    "decoDesc": {
+      "id": -8110307187996434280,
+      "text": ""
+    },
+    "desc": {
+      "id": 4895818301870117194,
+      "text": ""
+    },
+    "iconCompositeId": "",
+    "iconId": "wpn_sword_0023",
+    "id": "wpn_sword_0023",
+    "maxBackpackStackCount": -1,
+    "maxStackCount": -1,
+    "modelKey": "int_drop_weapon",
+    "name": {
+      "id": -4455467673772245076,
+      "text": ""
+    },
+    "noObtainWayConditionId": [],
+    "noObtainWayHint": {
+      "id": 0,
+      "text": ""
+    },
+    "noObtainWayId": [],
+    "notObtainShow": true,
+    "notObtainShowTimeId": "",
+    "obtainWayIds": [
+      "item_obtain_activity"
+    ],
+    "outcomeItemIds": [],
+    "rarity": 5,
+    "showAllDepotCount": false,
+    "showingType": 0,
+    "sortId1": -35,
+    "sortId2": 80,
     "type": 5,
     "valuableDepotRedDot": false,
     "valuableTabType": 1

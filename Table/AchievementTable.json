@@ -636,6 +636,45 @@
     "plateConditions": [],
     "specialProgress": false
   },
+  "achv_adv_wuling_bugball": {
+    "achieveId": "achv_adv_wuling_bugball",
+    "applyRareEffect": false,
+    "canBePlated": false,
+    "canBeUpgraded": false,
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "displayTimeId": "",
+    "groupId": "achv_group_adv_wuling",
+    "initLevel": 2,
+    "levelInfos": {
+      "2": {
+        "achieveLevel": 2,
+        "completeDesc": {
+          "id": 7457811583942226800,
+          "text": ""
+        },
+        "conditions": [
+          {
+            "conditionId": "achv_adv_wuling_bugball_2_cond_1",
+            "desc": {
+              "id": 5808256740712592432,
+              "text": ""
+            },
+            "progressToCompare": 18
+          }
+        ]
+      }
+    },
+    "name": {
+      "id": 2486219859761487188,
+      "text": ""
+    },
+    "order": 23,
+    "plateConditions": [],
+    "specialProgress": false
+  },
   "achv_adv_wuling_campfire_1": {
     "achieveId": "achv_adv_wuling_campfire_1",
     "applyRareEffect": false,
@@ -1188,6 +1227,45 @@
       "text": ""
     },
     "order": 14,
+    "plateConditions": [],
+    "specialProgress": false
+  },
+  "achv_adv_wuling_minimap_1": {
+    "achieveId": "achv_adv_wuling_minimap_1",
+    "applyRareEffect": false,
+    "canBePlated": false,
+    "canBeUpgraded": false,
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "displayTimeId": "",
+    "groupId": "achv_group_adv_wuling",
+    "initLevel": 2,
+    "levelInfos": {
+      "2": {
+        "achieveLevel": 2,
+        "completeDesc": {
+          "id": -3350359077681824290,
+          "text": ""
+        },
+        "conditions": [
+          {
+            "conditionId": "achv_adv_wuling_minimap_1_2_cond_1",
+            "desc": {
+              "id": -5397971077858776978,
+              "text": ""
+            },
+            "progressToCompare": 28
+          }
+        ]
+      }
+    },
+    "name": {
+      "id": 3297524726946158404,
+      "text": ""
+    },
+    "order": 22,
     "plateConditions": [],
     "specialProgress": false
   },
@@ -2900,6 +2978,102 @@
         "conditionId": "achv_bat_hard_6_plating_cond_4",
         "desc": {
           "id": 8055144522031380796,
+          "text": ""
+        },
+        "progressToCompare": 1
+      }
+    ],
+    "specialProgress": false
+  },
+  "achv_bat_hard_7": {
+    "achieveId": "achv_bat_hard_7",
+    "applyRareEffect": false,
+    "canBePlated": true,
+    "canBeUpgraded": false,
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "displayTimeId": "time_high_difficulty_v1d5",
+    "groupId": "achv_group_bat_dung",
+    "initLevel": 2,
+    "levelInfos": {
+      "2": {
+        "achieveLevel": 2,
+        "completeDesc": {
+          "id": -3035779692722681376,
+          "text": ""
+        },
+        "conditions": [
+          {
+            "conditionId": "achv_bat_hard_7_2_cond_1",
+            "desc": {
+              "id": 6187357785098486,
+              "text": ""
+            },
+            "progressToCompare": 1
+          },
+          {
+            "conditionId": "achv_bat_hard_7_2_cond_2",
+            "desc": {
+              "id": 6893671941115199050,
+              "text": ""
+            },
+            "progressToCompare": 1
+          },
+          {
+            "conditionId": "achv_bat_hard_7_2_cond_3",
+            "desc": {
+              "id": 5054387607001190220,
+              "text": ""
+            },
+            "progressToCompare": 1
+          },
+          {
+            "conditionId": "achv_bat_hard_7_2_cond_4",
+            "desc": {
+              "id": -6771741359229376096,
+              "text": ""
+            },
+            "progressToCompare": 1
+          }
+        ]
+      }
+    },
+    "name": {
+      "id": 4932075407789944356,
+      "text": ""
+    },
+    "order": 11,
+    "plateConditions": [
+      {
+        "conditionId": "achv_bat_hard_7_plating_cond_1",
+        "desc": {
+          "id": 4082721629482924023,
+          "text": ""
+        },
+        "progressToCompare": 1
+      },
+      {
+        "conditionId": "achv_bat_hard_7_plating_cond_2",
+        "desc": {
+          "id": 172003616666990896,
+          "text": ""
+        },
+        "progressToCompare": 1
+      },
+      {
+        "conditionId": "achv_bat_hard_7_plating_cond_3",
+        "desc": {
+          "id": 3572597358173216941,
+          "text": ""
+        },
+        "progressToCompare": 1
+      },
+      {
+        "conditionId": "achv_bat_hard_7_plating_cond_4",
+        "desc": {
+          "id": 5151592212418194088,
           "text": ""
         },
         "progressToCompare": 1
@@ -7387,6 +7561,45 @@
     "order": 11,
     "plateConditions": [],
     "specialProgress": true
+  },
+  "achv_quest_gm02m27": {
+    "achieveId": "achv_quest_gm02m27",
+    "applyRareEffect": false,
+    "canBePlated": false,
+    "canBeUpgraded": false,
+    "desc": {
+      "id": 0,
+      "text": ""
+    },
+    "displayTimeId": "",
+    "groupId": "achv_group_quest_side",
+    "initLevel": 2,
+    "levelInfos": {
+      "2": {
+        "achieveLevel": 2,
+        "completeDesc": {
+          "id": 8378879495905277056,
+          "text": ""
+        },
+        "conditions": [
+          {
+            "conditionId": "achv_quest_gm02m27_2_cond_1",
+            "desc": {
+              "id": -7357702400988086306,
+              "text": ""
+            },
+            "progressToCompare": 1
+          }
+        ]
+      }
+    },
+    "name": {
+      "id": 8644665695932884228,
+      "text": ""
+    },
+    "order": 12,
+    "plateConditions": [],
+    "specialProgress": false
   },
   "achv_quest_laevat": {
     "achieveId": "achv_quest_laevat",

@@ -1,4 +1,108 @@
 {
+  "activity_character_gift_purrche": {
+    "TaskConfigMap": {
+      "activity_character_gift_purrche_task_1": {
+        "completeConditionId": [],
+        "desc": {
+          "id": -5655758574927110700,
+          "text": ""
+        },
+        "isToggle": false,
+        "jumpId": "",
+        "rewardId": "reward_activity_character_gift_purrche_task_1",
+        "sortId": 1,
+        "taskGroupId": "",
+        "taskId": "activity_character_gift_purrche_task_1",
+        "unlockConditionId": [],
+        "unlockTimeId": ""
+      },
+      "activity_character_gift_purrche_task_2": {
+        "completeConditionId": [
+          "activity_character_gift_purrche_task_2_condition"
+        ],
+        "desc": {
+          "id": -624017980131571429,
+          "text": ""
+        },
+        "isToggle": false,
+        "jumpId": "jump_train_char",
+        "rewardId": "reward_activity_character_gift_purrche_task_2",
+        "sortId": 2,
+        "taskGroupId": "",
+        "taskId": "activity_character_gift_purrche_task_2",
+        "unlockConditionId": [],
+        "unlockTimeId": ""
+      },
+      "activity_character_gift_purrche_task_3": {
+        "completeConditionId": [
+          "activity_character_gift_purrche_task_3_condition"
+        ],
+        "desc": {
+          "id": 7597067733217096411,
+          "text": ""
+        },
+        "isToggle": false,
+        "jumpId": "jump_activity_guide_snowcity_01",
+        "rewardId": "reward_activity_character_gift_purrche_task_3",
+        "sortId": 3,
+        "taskGroupId": "",
+        "taskId": "activity_character_gift_purrche_task_3",
+        "unlockConditionId": [],
+        "unlockTimeId": ""
+      },
+      "activity_character_gift_purrche_task_4": {
+        "completeConditionId": [
+          "activity_character_gift_purrche_task_4_condition"
+        ],
+        "desc": {
+          "id": -7318869357135996696,
+          "text": ""
+        },
+        "isToggle": false,
+        "jumpId": "jump_activity_character_gift_purrche_task4",
+        "rewardId": "reward_activity_character_gift_purrche_task_4",
+        "sortId": 4,
+        "taskGroupId": "",
+        "taskId": "activity_character_gift_purrche_task_4",
+        "unlockConditionId": [],
+        "unlockTimeId": "time_activity_wuling_racing"
+      },
+      "activity_character_gift_purrche_task_5": {
+        "completeConditionId": [
+          "activity_character_gift_purrche_task_5_condition"
+        ],
+        "desc": {
+          "id": -1272435259916197016,
+          "text": ""
+        },
+        "isToggle": false,
+        "jumpId": "jump_activity_character_gift_purrche_task5",
+        "rewardId": "reward_activity_character_gift_purrche_task_5",
+        "sortId": 5,
+        "taskGroupId": "",
+        "taskId": "activity_character_gift_purrche_task_5",
+        "unlockConditionId": [],
+        "unlockTimeId": "time_activity_high_difficulty_v1d5"
+      },
+      "activity_character_gift_purrche_task_6": {
+        "completeConditionId": [
+          "activity_character_gift_purrche_task_6_condition"
+        ],
+        "desc": {
+          "id": 1101420520107118652,
+          "text": ""
+        },
+        "isToggle": false,
+        "jumpId": "jump_activity_character_gift_purrche_task6",
+        "rewardId": "reward_activity_character_gift_purrche_task_6",
+        "sortId": 6,
+        "taskGroupId": "",
+        "taskId": "activity_character_gift_purrche_task_6",
+        "unlockConditionId": [],
+        "unlockTimeId": ""
+      }
+    }
+  },
   "activity_contingency_contract_0": {
     "TaskConfigMap": {
       "activity_contingency_contract_0_task_1_1": {
